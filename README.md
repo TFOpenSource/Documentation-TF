@@ -33,9 +33,6 @@ width=50%"/>
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-|-------------|-----------|-----------|---------------------------------|
-|    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián|Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas|
@@ -84,12 +81,13 @@ Los integrantes son:
 - Uribe Quispe, Jesús Guillermo()
 
 ## STUDENT OUTCOME
+ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 <b>ABET – EAC - Student Outcome 3</b>
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.      | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  |.                  Para                                                                                                                  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)   | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1) <br>
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.      | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco. <br> (TB1)  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** Se realizó un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió entregar un resultado de calidad.<br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  |.                  Para                                                                                                                  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe.<br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)   | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** Como equipo, logramos este primer entregale establecer un landing page comunicando efectivamente que nos permitirá entregar un trabajo completo a posteriormene a pesar del desafío que representaban los plazos cortos para la entrega del proyecto.<br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1) <br>
 
 ## Contenido
 
@@ -473,7 +471,7 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td><br></td>
+	<td> <img src="Img/imagen_2024-09-05_144516929.png"><br></td>
     <td>Entrevistado N°1: Estrella Ticona<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Rimac </td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW7gpaJaEipNigtWbEVgpQ0BUsGMjxfIn_FCWHVfe447vg?e=sZUs8O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
@@ -492,7 +490,7 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="Img/imagen_2024-09-05_144514031.png"> </td>
     <td>Entrevistado N°2: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EetHhN1mEgVJr8N3DmPcLn0BnCYK1kMQmRnpW3sou3N2dQ?e=sYqgsV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
@@ -511,7 +509,7 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="Img/imagen_2024-09-05_144510281.png"> </td>
     <td>Entrevistado N°3: Elmer Riva<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: Santa Anita </td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Eegk2qvEx_NBo-WcFwOMhtIBKFoSW45hLcg2sNZWQlnPcQ?e=82ssH5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
@@ -536,7 +534,7 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td><br></td>
+    <td> <img src="Img/imagen_2024-09-05_144505757.png"><br></td>
     <td>Entrevistado N°1: Camila Sanchez<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco, Lima, Perú.</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EReBiEY_-aBIodz51qCCW1gBDSeozVthDf-lS10uharn7Q?e=DhOC3p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
@@ -555,7 +553,7 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="Img/imagen_2024-09-05_144501791.png"></td>
     <td>Entrevistado N°2: Marcelo Ávalos<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: San Luis, Lima, Perú.</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW9Ev2daNSBIrdTjVlg6VE4B6Ws54RB2ktXKlZCP8-DWyw?e=AGbGAd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
@@ -574,7 +572,7 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="Img/imagen_2024-09-05_144601015.png"></td>
     <td>Entrevistado N°3: Marcia Rea<br>Sexo:  Femenino<br>Edad: 20<br>Domicilio: San Martín de Porres.</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea0Wg14Q_R1IkBM0Fsn5T9gBZtadxHe_iWyxKCWtHRa6rw?e=xG4NiC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
@@ -652,9 +650,11 @@ En esta sección, nos centraremos en la User Task Matrix, una herramienta utiliz
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
-En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que visualiza las experiencias de los usuarios a lo largo de su interacción con un producto o servicio. Este mapa representa los diferentes puntos de contacto y las emociones que los usuarios experimentan en cada etapa de su viaje, desde el descubrimiento inicial hasta la postventa. El User Journey Mapping ayuda a comprender las necesidades, expectativas y frustraciones de los usuarios a lo largo de su experiencia, lo que permite identificar oportunidades de mejora y optimización en el diseño del producto o servicio.
-[LOGO]
-[LOGO]
+En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que visualiza las experiencias de los usuarios a lo largo de su interacción con un producto o servicio. Este mapa representa los diferentes puntos de contacto y las emociones que los usuarios experimentan en cada etapa de su viaje, desde el descubrimiento inicial hasta la postventa. El User Journey Mapping ayuda a comprender las necesidades, expectativas y frustraciones de los usuarios a lo largo de su experiencia, lo que permite identificar oportunidades de mejora y optimización en el diseño del producto o servicio. <br> 
+
+<img src="Img/imagen_2024-09-05_181616549.png">
+
+<img src="Img/imagen_2024-09-05_181620740.png">
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
@@ -729,7 +729,7 @@ En la gestión de proyectos de desarrollo de software, los "Epics" representan u
 <div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
 
 Es una técnica de medición estratégica que ayuda a los equipos de desarrollo a alinear las actividades con los objetivos de negocios. A continuación Impact Map en diferentes contextos:
-
+<img src="Img/imagen_2024-09-05_181533328.png">
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
