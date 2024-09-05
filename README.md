@@ -483,7 +483,20 @@ En esta sección, nos adentraremos en el concepto de User Personas, una herramie
    <img src="Img/Juan Pérez.png" alt="User Persona Juan Perez" />
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+En esta sección, nos centraremos en la User Task Matrix, una herramienta utilizada en el diseño centrado en el usuario para organizar y priorizar las tareas que los usuarios realizan al interactuar con un producto o servicio. La matriz muestra las diferentes tareas que los usuarios necesitan completar, así como la importancia y la frecuencia de cada una. 
+<br><br>
 
+| **Tareas**                   | **Marcos - propietario** |                 |
+| ---------------------------- | ------------------------ | --------------- |
+|                              | **Frecuencia**           | **Importancia** |
+| Registrar Actividad Física   | Alta                     | Alta            |
+| Seguir Recomendaciones       | Media                    | Media           |
+| Visualizar Gráficos de Sueño | Media                    | Media           |
+| Registrar Comidas Diarias    | Alta                     | Alta            |
+| Recibir Sugerencias          | Media                    | Alta            |
+| Sincronizar con Dispositivos | Media                    | Alta            |
+| Personalizar Rutinas         | Media                    | Muy Alta        |
+| Ajustar Ingesta Calórica     | Alta                     | Alta            |
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
