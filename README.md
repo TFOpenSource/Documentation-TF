@@ -509,6 +509,8 @@ Este subapartado se centra en documentar y analizar la situación actual de los 
 
 <img src="Img/As_Is.png" alt="As-Is Scenario Mapping" />
 
+URL del As-is Scenario Mapping: [https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1]
+
 <div id='2.4.'><h4> 2.4. Ubiquitous Language.</h4></div>
 
 
@@ -525,6 +527,19 @@ Este subapartado se centra en documentar y analizar la situación actual de los 
 
 
 <div id='3.2.2.'><h4> 3.2.2 Epics.</h4></div>
+
+En la gestión de proyectos de desarrollo de software, los "Epics" representan una capa crucial de planificación que agrupa varias User Stories relacionadas bajo un objetivo común más amplio.
+
+| Epic ID | Título                           | Descripción                                                                                           | Criterios de Aceptación                                                                                  | Relacionado con (User Stories)     |
+|---------|----------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------|
+| EP001   | Gestión de Actividades de Salud  | Agrupa todas las funcionalidades relacionadas con el registro y seguimiento de actividades diarias, como alimentación, ejercicio, así como la revisión del historial | Los usuarios pueden registrar y revisar sus actividades diarias. El historial debe ser accesible y editable. | HU01, HU05, HU09, HU10            |
+| EP002   | Visualización y Análisis de Progreso | Incluye las funcionalidades para visualizar gráficos y estadísticas que ayuden al usuario a analizar su progreso en términos de salud y ejercicio | Los usuarios pueden seleccionar períodos de tiempo para visualizar su progreso. Las estadísticas se deben mostrar en gráficos detallados. | HU02, HU11                        |
+| EP003   | Recomendaciones y Objetivos de Salud | Se enfoca en ofrecer recomendaciones personalizadas basadas en las actividades registradas por el usuario, así como la configuración y seguimiento de objetivos de salud | Los usuarios reciben recomendaciones basadas en su progreso. Los objetivos de salud pueden configurarse y seguirse. | HU03, HU07                        |
+| EP004   | Integración y Sincronización     | Este Epic cubre la integración de la aplicación con dispositivos de seguimiento y otras aplicaciones de salud para sincronizar automáticamente los datos de actividades y bienestar | Los usuarios pueden conectar sus dispositivos y aplicaciones de salud para sincronización automática. La aplicación debe manejar errores de conexión y notificar al usuario en caso de fallas. | HU04, HU12                        |
+| EP005   | Gestión de Perfil de Privacidad  | Agrupa las funcionalidades relacionadas con la creación, actualización y configuración de la privacidad del perfil de usuario | Los usuarios pueden crear y actualizar su perfil con información personal. Los ajustes de privacidad se deben poder configurar y aplicar de inmediato. | HU06, HU14                        |
+| EP006   | Notificaciones y Recordatorios   | Se enfoca en la funcionalidad de enviar notificaciones y recordatorios a los usuarios para el registro de sus actividades diarias | Los recordatorios deben enviarse automáticamente según la configuración del usuario. Los recordatorios adicionales se envían si el usuario no registra la actividad en el tiempo especificado. | HU08                               |
+| EP007   | Comunidad y Contenido Educativo  | Funcionalidades que permiten a los usuarios acceder a una comunidad para compartir experiencias y obtener apoyo, así como acceder a contenido educativo | Los usuarios pueden interactuar con la comunidad y reportar contenido inapropiado. El contenido debe ser accesible y marcar como visto tras ser consumido. | HU13, HU15                        |
+| EP008   | Landing Page                     | Funcionalidades pertenecientes a la Landing Page de NutriMove                                          | Los usuarios pueden interactuar con la Landing Page para conocer más acerca del producto                                                         | HU20, HU21, HU22, HU23, HU24, HU25 |
 
 
 <div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
