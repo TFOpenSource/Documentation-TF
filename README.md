@@ -223,7 +223,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/imagen_2024-09-05_144639052.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -242,7 +242,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto)
+        Me encuentro cursando el 6to ciclo de mi carrera de Ingeniería de Software. Disfruto ayudando a mis compañeros en todo lo que me sea posible. Creo en la importancia de la colaboración y el poder del trabajo en equipo para superar nuevos desafíos.
         </td>
     </tr>
     <tr align="center">
