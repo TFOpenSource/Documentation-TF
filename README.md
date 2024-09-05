@@ -412,6 +412,32 @@ Estos son:
 
 <div id='2.2.1.'><h4> 2.2.1. Diseño de Entrevistas.</h4></div>
 
+**Preguntas para el Segmento #1: Dieta saludable, comer bien, bajar de peso**
+
+1. ¿Qué tipo de dietas ha probado en el pasado y con qué resultados?
+2. ¿Qué información busca cuando está planificando sus comidas diarias?
+3. ¿Con qué frecuencia revisa el contenido nutricional de los alimentos que consume?
+4. ¿Cuáles son los principales desafíos que enfrenta al intentar seguir una dieta saludable?
+5. ¿Cómo monitorea actualmente su progreso en la pérdida de peso?
+6. ¿Qué funcionalidades desearía tener en una app para ayudarle a cumplir sus objetivos de pérdida de peso?
+7. ¿Qué tan importante es para usted la personalización de recomendaciones en función de sus preferencias alimenticias?
+8. ¿Le gustaría recibir alertas o recordatorios para registrar sus comidas?
+9. ¿Utiliza algún dispositivo o app actualmente para rastrear su ingesta calórica? ¿Cuáles?
+10. ¿Qué factores le motivan más a seguir una dieta saludable?
+
+**Preguntas para el Segmento #2: Hacer ejercicio, rutinas**
+
+1. ¿Qué tipo de ejercicios prefiere realizar y con qué frecuencia los practica?
+2. ¿Cómo planifica sus rutinas de ejercicio semanalmente?
+3. ¿Qué herramientas utiliza actualmente para seguir su progreso en el ejercicio?
+4. ¿Cuáles son los mayores obstáculos que enfrenta al intentar mantener una rutina de ejercicios?
+5. ¿Qué funcionalidades le gustaría ver en una app para ayudarle a mejorar su rutina de ejercicios?
+6. ¿Qué tan importante es para usted la integración con dispositivos de seguimiento de fitness?
+7. ¿Le gustaría recibir sugerencias personalizadas de ejercicios en función de su historial de actividad?
+8. ¿Qué tan motivador le resultaría recibir notificaciones cuando alcance un nuevo objetivo de ejercicio?
+9. ¿Utiliza actualmente aplicaciones para planificar o registrar sus ejercicios? ¿Cuáles?
+10. ¿Qué tipo de métricas le gustaría ver en gráficos para monitorizar su progreso físico?
+
 
 <div id='2.2.2.'><h4> 2.2.2. Registro De Entrevistas.</h4></div>
 
