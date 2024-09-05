@@ -325,3 +325,25 @@ La influencia de dietas de moda, publicidad, y la falta de educación nutriciona
 
 **HOW MUCH (Cuánto): ¿Cuánto afecta el problema?**
 El problema tiene un impacto significativo en la efectividad de los esfuerzos de las personas para perder peso y mejorar su salud, ya que una reducción de azúcar por sí sola puede no ser suficiente para lograr los resultados deseados. Esto puede llevar a frustración y abandono de los esfuerzos de mejora de la salud.
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+
+
+#### 1.2.2.2. Lean UX Assumptions
+
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+
+
+#### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](Img/LeanUXCanvas.png)
+
+---
+
+## 1.3. Segmentos Objetivo
