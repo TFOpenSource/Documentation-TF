@@ -199,7 +199,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="img/jose-photo.jpg" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/jose-photo.jpg" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -326,24 +326,137 @@ La influencia de dietas de moda, publicidad, y la falta de educación nutriciona
 **HOW MUCH (Cuánto): ¿Cuánto afecta el problema?**
 El problema tiene un impacto significativo en la efectividad de los esfuerzos de las personas para perder peso y mejorar su salud, ya que una reducción de azúcar por sí sola puede no ser suficiente para lograr los resultados deseados. Esto puede llevar a frustración y abandono de los esfuerzos de mejora de la salud.
 
-### 1.2.2. Lean UX Process
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 
-#### 1.2.2.1. Lean UX Problem Statements
-
-
-
-#### 1.2.2.2. Lean UX Assumptions
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 
 
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 
 
-#### 1.2.2.4. Lean UX Canvas
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
+Después de completar los pasos del proceso Lean UX, se dispone a crear el Lean UX Canvas, el cual nos permitirá obtener una perspectiva completa del problema y comenzar la investigación inicial antes de diseñar la propuesta de solución.
 
 ![Lean UX Canvas](Img/LeanUXCanvas.png)
 
 ---
 
-## 1.3. Segmentos Objetivo
+<div id='2.'><h2>Capítulo II: REQUIREMENTS ELICITATION & ANALYSIS</h2></div>
+
+En esta sección, nos adentraremos en el proceso de identificar y comprender los requisitos necesarios para un producto o servicio. Este proceso implica técnicas como entrevistas, encuestas y análisis de datos para recopilar información relevante de los usuarios y stakeholders. Luego, estos requisitos se analizan y priorizan para convertirlos en especificaciones claras y alcanzables que guíen el desarrollo del producto. Este enfoque es fundamental para asegurar que el producto final satisfaga las necesidades del usuario y cumpla con los objetivos del negocio de manera efectiva.
+
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
+
+<br>
+
+Estos son:
+
+<br><br>
+
+- **Competidor 1:**
+  <br>
+
+
+  <br>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<br><br>
+
+- **Competidor 2:**
+  <br>
+
+  
+  <br>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<br><br>
+
+- **Competidor 3:**
+  <br>
+
+
+  <br>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<br><br>
+
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+
+
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+
+
+<div id='2.2.'><h4>2.2. Entrevistas.</h4></div>
+
+
+<div id='2.2.1.'><h4> 2.2.1. Diseño de Entrevistas.</h4></div>
+
+
+<div id='2.2.2.'><h4> 2.2.2. Registro De Entrevistas.</h4></div>
+
+
+<div id='2.2.3.'><h4> 2.2.3. Análisis De Entrevistas.</h4></div>
+
+
+<div id='2.3.'><h3> 2.3. NeedFinding.</h4></div>
+
+
+<div id='2.3.1.'><h4> 2.3.1. User Persona.</h4></div>
+
+
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+
+
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
+
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
+
+
+<div id='2.3.5.'><h4> 2.3.5. As-Is Scenario Mapping.</h4></div>
+
+
+<div id='2.4.'><h4> 2.4. Ubiquitous Language.</h4></div>
+
+
+<div id='3.'><h2>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h4></div>
+
+
+<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+
+
+<div id='3.2.'><h3> 3.2. User Stories.</h3></div>
+
+
+<div id='3.2.1.'><h4> 3.2.1 User Stories.</h4></div>
+
+
+<div id='3.2.2.'><h4> 3.2.2 Epics.</h4></div>
+
+
+<div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
+
+
+<div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
+
