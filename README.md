@@ -547,3 +547,79 @@ En la gestión de proyectos de desarrollo de software, los "Epics" representan u
 
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 
+<div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital de apoyo a la salud mental y el bienestar, tanto para los psiquiatras como para sus pacientes. El objetivo principal de nuestra plataforma es crear un espacio donde la confianza, la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+
+<div id ='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital de apoyo a las personas que desean registrar o usar la aplicación. El objetivo principal de nuestra plataforma es crear un espacio donde la confianza, la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+
+<br><br>
+
+**Chromatic Colors:**
+
+- #308C83 (Teal Profundo): Tono principal de la plataforma, evocando tranquilidad y estabilidad. Ideal para encabezados, botones de acción y elementos destacados.
+- #69BFB7 (Teal Suave): Para elementos secundarios y destacados sutiles, complementando el color primario.
+- #C2F2ED (Aqua Ligero): Utilizado en fondos y áreas extensas, proporcionando un entorno relajante.
+
+**Achromatic Colors:**
+
+- #F2F2F2 (Gris Claro): Tono neutro ideal para separar y organizar la información de manera clara.
+- #0D0D0D (Negro Intenso): Principalmente para texto y detalles cruciales, asegurando legibilidad y contraste.
+
+Estos colores están diseñados para proporcionar un ambiente calmado y profesional, adecuado al tipo de aplicación que queremos manejar.
+
+- Typography: Montserrat
+
+- Tipografía principal por su diseño moderno, limpio y altamente legible.
+
+###### Scale:
+
+- Base: El tamaño base es de 18px.
+- Ratio: Utilizaremos un ratio de escala de 1.2.
+
+###### Nomenclature:
+
+- Heading 0: 22px / Medium
+- Heading 1: 38px / Medium
+- Heading 2: 34px / Medium
+- Heading 3: 25px / Medium
+- Heading 4: 22px / Medium
+- Base: 18px / Light
+- Body 1: 10px / Regular
+
+<div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+Las Web Style Guidelines de nuestra aplicación han sido desarrolladas con el objetivo de ofrecer una experiencia de usuario óptima y consistente en todos los dispositivos. Nuestra plataforma está diseñada bajo los principios de Web Responsive Design, asegurando que cada elemento se ajuste fluidamente a diferentes tamaños de pantalla.
+
+Uno de los enfoques clave en el diseño de nuestra interfaz es la implementación del patrón de diseño en forma de Z. Este patrón guía intuitivamente el ojo del usuario a través de la página, comenzando desde la esquina superior izquierda y terminando en la esquina inferior derecha, facilitando el acceso rápido a la información más importante.
+
+<div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
+Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page.
+
+<div id ='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
+
+**Menú Principal:**
+
+- Home: Vista general del servicio y características clave.
+  Suscripciones: Página que ofrece los planes de suscripción con beneficios exclusivos.
+- Testimonials: Página de testimonios con comentarios y calificaciones sobre el servicio.
+- Contact: Página de contacto con diferentes métodos de interacción.
+- Log In: Página de inicio de sesión y registro.
+
+**Page of Subscriptions:**
+
+- Lista de planes de suscripción: Muestra todos los planes disponibles.
+- Detalles de planes: Información detallada de cada plan.
+
+**Page of Testimonials:**
+
+- Lista de comentarios: Títulos de los comentarios más recientes.
+- Detalles de los comentarios: Descripción detallada del comentario seleccionado.
+
+**Page of Contact:**
+
+- Lista de Contactos: Métodos de contacto disponibles.
+
+**Page of Log In:**
+
+- Registro y Autenticación: Vista general del servicio con opción de iniciar sesión o registrarse.
