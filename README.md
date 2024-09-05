@@ -30,14 +30,28 @@ width=50%"/>
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
-## Registro de versiones del informe
+# Registro de Versiones del Informe
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| :-----: | :---: | :---: | --------------------------- |
+| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
+|-------------|-----------|-----------|---------------------------------|
+|    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
 
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto:
+
+<div align="center">
+  <img src="">
+</div>
+
+<div align="center">
+  <img src="">
+</div>
+
+<div align="center">
+  <img src="">
+</div>
 
 **TB1**
 
@@ -52,10 +66,13 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 
 Los integrantes son:
 
-## Student Outcomes
+## STUDENT OUTCOME
+<b>ABET – EAC - Student Outcome 3</b>
 
-| Criterio especifico | Acciones realizadas | Conclusiones |
-| ------------------- | :------------------ | ------------ |
+| Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.      | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  |.                  Para                                                                                                                  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)   | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> (TB1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1) <br>
 
 ## Contenido
 
