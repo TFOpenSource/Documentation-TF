@@ -170,7 +170,6 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-| Descripción | Perfiles de los integrantes del equipo |
 | :---------- | :------------------------------------: |
 |             |
 |             |
