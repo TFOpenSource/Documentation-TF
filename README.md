@@ -150,3 +150,14 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
 **Misión:** Nuestra misión es empoderar a las personas para que tomen el control de su bienestar físico y mental, proporcionando herramientas intuitivas y datos personalizados que les permitan alcanzar sus metas de salud de manera efectiva.
 
 **Visión:** Nuestra visión es convertirnos en la plataforma líder en bienestar personal, reconocida por su capacidad para ofrecer soluciones innovadoras y personalizadas que mejoren la calidad de vida de nuestros usuarios a nivel global.
+
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+
+| Descripción | Perfiles de los integrantes del equipo |
+| :---------- | :------------------------------------: |
+|             |
+|             |
+|             |
+|             |
+|             |
+
