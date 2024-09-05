@@ -881,32 +881,363 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
 
+Controlar y rastrear los cambios que se realizan en el software durante el ciclo de vida. Asegura que el software se mantiene consistente, ordenado y controlado a medida que evoluciona desde su desarrollo inicial hasta su entrega y mantenimiento.
 
 <div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
 
+Se necesitarán varias herramientas tecnológicas para llevar a cabo el proyecto. Se utilizará la herramienta Figma para el diseño UI/UX, donde se definirá el "boceto" para la creación de nuestra landing page, así como las diferentes opciones, gestos de acceso a una excelente experiencia de usuario.  
+Para desarrollar el código para la landing page, se necesitará un IDE (Integrated Development Environment) para implementar las tecnologías a utilizar; el equipo utilizará Visual Studio Code.
+En el caso de Project Management, para la solución que abarcará Front-End, se hará uso del programa WebStorm, aplicación que permitirá programar un web application con el framework Angular. 
+Al crear una aplicación web, es fundamental utilizar el lenguaje de HTML5, ya que será la definición del "esqueleto" de la página, junto con CSS para estilizar los contenedores que se hayan creado, modificando los colores, la tipografía, el tamaño de las imágenes y JavaScript para interactuar con el usuario y crear una página web dinámica.
+La implementación del código seguirá las buenas prácticas de programación, como reducir la cantidad de líneas de código, mantener una especificidad con CSS y una convención de nombre en las variables.
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 
+El equipo decide utilizar GitHub como repositorio de lanzamiento principal. Desarrollo de proyectos. GitHub utiliza el sistema de control de versiones Git para facilitar las cosas
+Colaboración entre diferentes miembros del equipo y permite la colaboración en uno.
+al mismo tiempo. 
+
+El repositorio del proyecto tendrá dos ramas principales de seguimiento e implementación.
+Número de versión: "main" será la rama master donde se podrán observar los cambios, y "gh-pages" será la rama requerida para implementar la versión adecuada. Páginas de GitHub que hacen que las páginas web estén disponibles y sean públicas. 
+
+En la rama "main" organizará carpetas que contienen estilos CSS, páginas HTML y validación en JavaScript, así como el desarrollo de nuestra página de aterrizaje. Además, se creará un repositorio separado para los criterios de aceptación y con Epics para analizar archivos ".feature". 
+
+Los cambios también serán visibles para el web application en WebStorm. Los proyectos colaborativos reflejados en los repositorios de Github como archivo principal.
+
+Enlace al repositorio Gihub: https://github.com/TFOpenSource <br>
+Enlace al landing page: https://tfopensource.github.io/Landing_Page/
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
+HTML:
+Para lograr un código coherente, sostenible y bien organizado, es importante seguir estas prácticas:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, <p>"Esto es un texto."</p>
+2. Aunque HTML permite mezclar mayúsculas y minúsculas en los nombres de elementos y atributos, es recomendable utilizar solo minúsculas para mantener el orden y mejorar la legibilidad.
+3. Usar comillas cuando los atributos contengan espacios.
+4. Especificar el texto alternativo (alt) y las dimensiones (width y height) de las imágenes para mejorar la accesibilidad del contenido.
+
+CSS:
+Algunas prácticas recomendadas son:
+
+1. Los nombres de las clases deben ser cortos y descriptivos.
+2. Separar los nombres de clases y IDs con guiones, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida después del valor 0.
+4. Colocar las declaraciones y selectores en líneas separadas para mejorar la legibilidad.
+
+Gherkin:
+Gherkin es un lenguaje de dominio específico diseñado para resolver la comunicación entre el negocio y el equipo técnico en el desarrollo dirigido por comportamiento (BDD, por sus siglas en inglés). Para seguir buenas prácticas, se han utilizado saltos de línea para organizar mejor los distintos tipos de escenarios y diferenciarlos de manera más clara. Además, se emplearon las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
+Despliegue de la landing page:
+Para desplegar la landing page, es necesario cumplir con ciertos requisitos previos, como tener una cuenta personal, una organización, y un repositorio donde cargar los archivos. Una vez que se cumplan estos requisitos, se puede proceder con el despliegue de la landing page siguiendo estos pasos:
 
-<div id='5.2.'><h3> 5.1.  Landing Page, Services & Applications Implementation.</h3></div>
+1. Crear una carpeta llamada "docs" para almacenar la landing page.
+2. Asegurarse de que los archivos sigan las convenciones de nombres: "index.html" para la página principal, "style.css" para los estilos, y una carpeta llamada "img" que contenga las imágenes.
+3. Subir los archivos al repositorio mediante un commit.
+4. Ir a Settings > Pages y seleccionar la rama correspondiente en la que se encuentra el proyecto, usualmente "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez finalizado el proceso, se generará un enlace que llevará a la landing page desplegada.
 
+<div id='5.2.'><h3> 5.2.  Landing Page, Services & Applications Implementation.</h3></div>
 
 <div id='5.2.1.'><h4> 5.2.1. Sprint #1.</h4></div>
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning #1.</h5></div>
+
+En la siguiente sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto. Mostrando la organización, distribución y resultados del landing page.    
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Sprint #&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Date&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Location&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Prepared By&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Attendees&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>30/08/2024&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>09:00 AM&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Reunión virtual&nbsp;&nbsp;&nbsp;mediante la aplicación Discord&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Uribe Quispe,&nbsp;&nbsp;&nbsp;Jesús Guillermo&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastian&nbsp;&nbsp;&nbsp;Bohorquez, Jose Luza, Melgar Jimenez, Sebastian Silva y Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4">&nbsp;&nbsp;&nbsp;<br>Sprint 1 Goal&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sprint 1 Velocity&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sum of Story Points&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4">&nbsp;&nbsp;&nbsp;<br>Crear y&nbsp;&nbsp;&nbsp;desarrollar el landing page informativa para la aplicación NutriMove&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>19 <br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>19&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>    
+
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog #1.</h5></div>
+
+En el primer sprint backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de Sprint, que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint fue construir una landing page completamente atractiva y funcional. 
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7">Sprint 1</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>User Story&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="6">Work Item/Task</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de Cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Página de registro de Cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Validación de datos de usuario y almacenamiento seguro.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastian&nbsp;&nbsp;&nbsp;Bohorquez&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Inicio de Sesión<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Página de inició de sesión&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de autenticación segura.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Jose Luza&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recuperación de cuenta<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Creación de mensaje para recuperar&nbsp;&nbsp;&nbsp;cuenta.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Envío de correos electrónicos de recuperación.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastian Silva&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de actividades diarias&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Diseño de barra de herramientas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Categorización de actividades para un análisis posterior.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Jesús Uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de gráficos de&nbsp;&nbsp;&nbsp;progreso&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo de gráficos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Integración con los datos registrados por los usuarios.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Melgar Jimenez&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recomendaciones personalizadas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recomendaciones basadas en los&nbsp;&nbsp;&nbsp;hábitos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Personalización en función de los datos recolectados.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastian&nbsp;&nbsp;&nbsp;Bohorquez&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Integración con dispositivos de&nbsp;&nbsp;&nbsp;seguimiento&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Dispositivos de seguimiento de&nbsp;&nbsp;&nbsp;actividad física&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recolección automática de datos desde estos dispositivos.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Jose Luza&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de ingesta de alimentos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Interfaz para poder registrar alimentos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Clasificación de alimentos y cálculo de nutrientes consumidos.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastian Silva&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="10"><a href="https://tfopensource.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tfopensource.github.io/Landing_Page/</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>c200c25&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Add initial structure for the landing page”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Created index.html with basic HTML5 structure&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>31/08/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4aaa6ac&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Implement responsive design for landing&nbsp;&nbsp;&nbsp;page”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Added media queries for mobile and tablet&nbsp;&nbsp;&nbsp;views&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>31/08/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>ad0521b&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Optimize images and improve page load speed”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Compressed images without losing quality&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>01/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07c6a3f&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Update content and add call-to-action&nbsp;&nbsp;&nbsp;buttons”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Replaced placeholder text with actual content&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>01/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>28e5277&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Fix alignment issues in landing page”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Corrected alignment of images in the features&nbsp;&nbsp;&nbsp;section&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>02/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>d77f8ed&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Enhance accessibility of the landing page”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Added alt text to all images for screen&nbsp;&nbsp;&nbsp;readers&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>02/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>A7ZD6<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Integrate&nbsp;&nbsp;&nbsp;privacy”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Updated privacy policy to include tracking&nbsp;&nbsp;&nbsp;information&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>02/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>09H54<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Add smooth scrolling to navigation links”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implemented smooth scrolling behavior for&nbsp;&nbsp;&nbsp;internal links&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>WM5KT<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Create and style hero section”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implemented responsive hero section that&nbsp;&nbsp;&nbsp;scales with screen size&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3Q2SV&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“Fix broken links and update social media&nbsp;&nbsp;&nbsp;icons”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Corrected broken links in the footer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+Para la entrega del Sprint 1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el sprint backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
+   
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on (Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>   <br><a href="https://tfopensource.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tfopensource.github.io/Landing_Page/</a><br>   <br>    </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>7387d5e&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>chore: added <br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>aceptance probe1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>chore: added <br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>aceptance probe1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+
+Durante el sprint 1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
+Evidencia 1
+[Captura]
+Evidencia 2
+[Captura]
+Evidencia 3
+[Captura]
+
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+
+Pasos para realizar la landing page:
+1) Crear cuenta en GitHub para crea un repositorio donde subir la página web.
+ 
+2) Continuamos con los pasos para configurar el proyecto según nos indique el proveedor del repositorio.
+
+3) Ir a nuestro perfil creado en la página web alojadora de repositorios y crear una nueva organización.
+
+4) Seleccionamos un plan para nuestra organización que vamos a crear. Para casos prácticos escogemos el plan Free.
+
+5) Le colocamos un nombre a la organización que acabamos de crear. Para nosotros le 
+ponemos “NutriMove” y le damos a Continuar.
+
+6) Agregamos colaboradores en caso lo queramos.
+ 
+7) Terminamos de configurar la organización.
+
+8) Creamos un nuevo repositorio.
+ 
+9) Habilitamos la posibilidad de controlar las versiones de nuestro proyecto y lo vinculamos con el repositorio de github.
+
+10) Para poder visualizar el estado de la página web, tenemos que acceder al link 
+
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+Landing Page:
+
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+
+| Alumno  | Actividad |
+| -------- | -------- |
+| Bohorquez Lerzundi Gerardo Sebastian| Implementación de la sección de encabezado de la landing page.     |
+| Luza Carhuamaca, Jose Adrian | Implementación de la sección de preguntas frecuentes y valores de la empresa.|
+| Jimenez Melgar, Daniel Luciano | Implementación de la sección principal, beneficios y contacto.|
+| Silva Tirado, Sebastian Valentino | Implementación de la sección de aprendizaje.|
+| Uribe Quispe, Jesús Guillermo | Implementación de la sección de pie de página y colaboradores.|
 
 <div id='5.3.'><h3> 5.3.  Validation Interviews.</h3></div>
 
@@ -914,14 +1245,36 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 <div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
 <div id='5.3.3.'><h4> 5.3.3. Evaluacion de Heuristicas.</h4></div>
 
-
 <div id='5.4.'><h3> 5.4.  Video About-the-Product.</h3></div>
 
 <div id='6.'><h2>CAPÍTULO VI: CONCLUSIONES </h2></div>
 
 <div id='6.1.'><h3> 6.1.  Conclusiones y Recomendaciones.</h3></div>
+
+1. Los proyectos de código abierto requieren una comunicación efectiva, y una comunicación clara entre desarrolladores y colaboradores puede mejorar la calidad del trabajo y facilitar la resolución de problemas. 
+2. Asegúrese de que el código tenga una documentación completa, incluidas pautas y estándares de codificación, para que los nuevos contribuyentes puedan comprender y participar en el proyecto. 
+3. La interfaz modular y escalable permite una mayor flexibilidad en términos de velocidad y calidad de desarrollo, lo que permite una mayor flexibilidad en el crecimiento. 
+4. Lo importante es que las cosas accesibles son clave para el proyecto, está diseñado para ser útil y completar con ingresos. 
+5. La comunidad de código abierto respalda e integra herramientas y tecnologías que se usan comúnmente y utiliza tecnologías estándar. 
+6. Tener un diseño y una interfaz de usuario consistentes durante todo el proyecto puede mejorar la experiencia del usuario y fortalecer la identidad del producto. 
+7. El desarrollo frontend requiere pruebas rigurosas, que identifican y corrigen errores antes de que afecten a los usuarios finales. 
+8. El rendimiento del frontend es esencial para una carga rápida de páginas y una experiencia de usuario fluida, especialmente en aplicaciones más grandes. 
+9. Las dependencias son cosas que deben actualizarse y administrarse para evitar problemas de seguridad y garantizar que el código cumpla con las mejores prácticas.
+10. Involucrar y alentar a la comunidad en el proyecto es crucial para promover un flujo continuo de ideas, mejoras y nuevas características.
+
 <div id='6.2.'><h3> 6.2.  Video About-the-Team.</h3></div>
 
-<div id='7.'><h2>CAPÍTULO VI: BIBLIOGRAFIA </h2></div>
+<div id='7.'><h2>CAPÍTULO VII: BIBLIOGRAFIA </h2></div>
 
-<div id='8.'><h2>CAPÍTULO VI: ANEXOS </h2></div>
+Us, B. T. W. (n.d.). Home page. Open Source Initiative. Retrieved September 3, 2024, from https://opensource.org 
+    
+Fernández, Y. (2024, June 29). Las 17 mejores apps para hacer ejercicio. Xataka.com; Xataka Basics. https://www.xataka.com/basics/17-mejores-apps-para-hacer-ejercicio 
+    
+Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https://www.vivosano.org/nutricion-antiinflamatoria/?gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9BmNT4TQKR2wFyH0CNqxQZKLX3UXj0HZ0bqp7YttmdjR4Xvb37-rlhoCkswQAvD_BwE 
+
+<div id='8.'><h2>CAPÍTULO VIII: ANEXOS </h2></div>
+
+Enlace para acceder a la landing page: https://tfopensource.github.io/Landing_Page/
+
+Video exposición TB1: 
+
