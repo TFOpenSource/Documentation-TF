@@ -199,7 +199,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
+            <img src="img/jose-photo.jpg" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -218,7 +218,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       (Texto)
+       Me encuentro cursando el 6to ciclo de mi carrera de Ingeniería de Software. Me gusta la idea de que con la programación se pueden llegar a crear muchas cosas útiles. Soy una persona ágil, responsable y transparente que trabaja bien en equipo. 
         </td>
     </tr>
     <tr align="center">
@@ -264,9 +264,9 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de: Soy estudiante del 6to ciclo de la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me gusta la idea de programar y crear algo que pueda llegar a funcionar y ser útil en el mundo. Por lo cual, la universidad me da la posibilidad de estudiar y ser un profesional exitoso. Deseo ser buen integrante para mi equipo y me comprometo en hacer el mejor trabajo posible, y poder superarme más que el ciclo anterior.</b>
+        <b>Acerca de:</b>
         <br>
-        (Texto)
+         Soy estudiante del 6to ciclo de la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me gusta la idea de programar y crear algo que pueda llegar a funcionar y ser útil en el mundo. Por lo cual, la universidad me da la posibilidad de estudiar y ser un profesional exitoso. Deseo ser buen integrante para mi equipo y me comprometo en hacer el mejor trabajo posible, y poder superarme más que el ciclo anterior.
         </td>
     </tr>
     <tr align="center">
