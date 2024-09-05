@@ -103,10 +103,10 @@ Los integrantes son:
    2.3.4. [Empathy Mapping.](#2.3.4.)<br>
    2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
 3. [**Capítulo III: Requirements Specification.**](#3.)<br>
-   4.1. [To-Be Scenario Mapping.](#3.1.)<br>
-   4.2. [User Stories.](#3.2.)<br>
-   4.3. [Impact Mapping.](#3.3.)<br>
-   4.4. [Product Backlog.](#3.4.)<br>
+   3.1. [To-Be Scenario Mapping.](#3.1.)<br>
+   3.2. [User Stories.](#3.2.)<br>
+   3.3. [Impact Mapping.](#3.3.)<br>
+   3.4. [Product Backlog.](#3.4.)<br>
 4. [**Capítulo IV: Product Design.**](#4.)<br>
    4.1. [Style Guidelines.](#4.1.)<br>
    4.1.1. [General Style Guidelines.](#4.1.1.)<br>
