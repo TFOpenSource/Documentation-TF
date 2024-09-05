@@ -623,3 +623,120 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 **Page of Log In:**
 
 - Registro y Autenticación: Vista general del servicio con opción de iniciar sesión o registrarse.
+
+
+<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>         
+
+
+<div id= '4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags</h4></div>
+
+
+<div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
+
+
+<div id= '4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
+
+
+<div id= '4.3.'><h3>4.3. Landing Page UI Design.</h3></div>
+
+
+<div id= '4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
+
+
+<div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
+
+
+<div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
+
+
+<div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+
+
+<div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+
+
+<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+
+
+<div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
+
+
+<div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
+
+
+<div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
+
+
+<div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
+
+
+<div id= '4.6.2'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
+
+
+<div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
+
+
+<div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
+
+
+<div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
+
+
+<div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
+
+
+<div id= '4.8.'><h3>4.8. Database Design.</h4></div>
+
+
+<div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
+
+
+<div id='5.'><h2>CAPÍTULO IV: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT </h4></div>
+
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+
+<div id='5.2.'><h3> 5.1.  Landing Page, Services & Applications Implementation.</h3></div>
+
+
+<div id='5.2.1.'><h4> 5.2.1. Sprint #1.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning #1.</h5></div>
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog #1.</h5></div>
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+
+<div id='5.3.'><h3> 5.3.  Validation Interviews.</h3></div>
+
+<div id='5.3.1.'><h4> 5.3.1. Diseño de Entrevistas.</h4></div>
+<div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
+<div id='5.3.3.'><h4> 5.3.3. Evaluacion de Heuristicas.</h4></div>
+
+
+<div id='5.4.'><h3> 5.4.  Video About-the-Product.</h3></div>
+
+<div id='6.'><h2>CAPÍTULO VI: CONCLUSIONES </h2></div>
+
+<div id='6.1.'><h3> 6.1.  Conclusiones y Recomendaciones.</h3></div>
+<div id='6.2.'><h3> 6.2.  Video About-the-Team.</h3></div>
+
+<div id='7.'><h2>CAPÍTULO VI: BIBLIOGRAFIA </h2></div>
+
+<div id='8.'><h2>CAPÍTULO VI: ANEXOS </h2></div>
