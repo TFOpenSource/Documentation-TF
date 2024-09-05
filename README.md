@@ -170,10 +170,126 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-| :---------- | :------------------------------------: |
-|             |
-|             |
-|             |
-|             |
-|             |
-
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="Bohorquez Lerzundi, Gerardo Sebastián" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Bohorquez Lerzundi, Gerardo Sebastián
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Texto)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Luza Carhuamaca, Jose Adrian
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       (Texto)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Jimenez Melgar, Daniel Luciano
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Texto)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="Silva Tirado, Sebastián Valentino"  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido: </b>
+            <br>
+            Silva Tirado, Sebastián Valentino
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Texto)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="Uribe Quispe, Jesús Guillermo" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Uribe Quispe, Jesús Guillermo
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Texto)
+        </td>
+    </tr>
+	 
+</table>
