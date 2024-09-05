@@ -199,7 +199,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/jose-photo.jpg" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/jose-photo.png" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -449,7 +449,38 @@ Estos son:
 
 
 <div id='2.3.1.'><h4> 2.3.1. User Persona.</h4></div>
+En esta sección, nos adentraremos en el concepto de User Personas, una herramienta crucial en el diseño centrado en el usuario. Las User Personas son representaciones ficticias de segmentos clave de usuarios, creadas a partir de datos reales y observaciones. Cada persona encapsula las características demográficas, comportamientos, necesidades, objetivos y frustraciones de un grupo específico de usuarios.
+<br><br>
 
+**Segmento 1:**
+
+- Nombre: María López
+- Edad: 29 años
+- Ocupación: Ama de casa
+- Segmento: Dieta saludable, comer bien, bajar de peso
+- Antecedentes: María ha ganado peso después de tener a su segundo hijo. Aunque ha intentado varias dietas, no ha logrado mantener una pérdida de peso constante.
+- Comportamientos: Le gusta cocinar comidas saludables para su familia y suele buscar recetas nuevas en internet. María se siente motivada cuando ve su progreso en gráficos y desea recibir recomendaciones que se ajusten a su rutina diaria.
+- Objetivos:
+
+  - Perder peso de manera saludable.
+  - Aprender más sobre nutrición.
+  - Inculcar buenos hábitos alimenticios en su familia.
+  - Frustraciones: María siente que las aplicaciones de dieta no consideran su estilo de vida y la necesidad de cocinar para toda la familia. Busca una solución que le ofrezca sugerencias personalizadas y realistas.
+
+  <img src="Img/María López.png" alt="User Persona Maria Lopez" />
+
+**Segmento 2:**
+
+- Nombre: Juan Pérez
+- Edad: 35 años
+- Ocupación: Ejecutivo de ventas
+- Segmento: Hacer ejercicio, rutinas
+- Antecedentes: Lleva 5 años trabajando en una oficina, lo que le ha llevado a un estilo de vida sedentario. En el pasado, practicaba deportes regularmente, pero ahora le cuesta encontrar tiempo para ejercitarse.
+- Comportamientos: Juan utiliza su smartphone para casi todo, desde la gestión de su agenda hasta el seguimiento de sus hábitos alimenticios. Sin embargo, no ha encontrado una aplicación que integre de manera efectiva su seguimiento de ejercicios con su dieta.
+- Objetivos: - Mejorar su salud física. - Mantener un seguimiento de su dieta. - Mejorar la calidad del sueño. - Recuperar la fuerza y resistencia que tenía antes.
+  Frustraciones: No le gusta tener que usar múltiples aplicaciones para diferentes aspectos de su salud y bienestar. Encuentra tedioso registrar manualmente sus rutinas de ejercicio y comidas.
+
+   <img src="Img/Juan Pérez.png" alt="User Persona Juan Perez" />
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
