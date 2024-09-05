@@ -137,3 +137,16 @@ Los integrantes son:
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
+
+<div id='1.'><h2>Capítulo I: Introducción</h2></div>
+
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+
+VidaActiva es una startup tecnológica enfocada en transformar la manera en que las personas gestionan su bienestar personal. Nuestro producto, NutriMove, es una aplicación web integral diseñada para registrar y analizar actividades diarias relacionadas con la salud y el bienestar, como el ejercicio, la alimentación y el sueño.
+
+**Misión:** Nuestra misión es empoderar a las personas para que tomen el control de su bienestar físico y mental, proporcionando herramientas intuitivas y datos personalizados que les permitan alcanzar sus metas de salud de manera efectiva.
+
+**Visión:** Nuestra visión es convertirnos en la plataforma líder en bienestar personal, reconocida por su capacidad para ofrecer soluciones innovadoras y personalizadas que mejoren la calidad de vida de nuestros usuarios a nivel global.
