@@ -36,10 +36,17 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
 |    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-----: | :---: | :---: | --------------------------- |
+|TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián|Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas|
+|TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano |Lean UX, Hypothesis Statements, LEntrevistasts, Descripción de la Startup, Análisis competitivo, Empathy Mapping, User Stories, Capítulo 4 |
+|TB1 |06/09/2024 |Luza Carhuamaca, Jose Adrian |User Personas, Diseño de entrevistas, Epics, User Task Matrix, As-is Scenario, Mapping, Lean UX Canvas, Capítulo 4|
+|TB1 |06/09/2024 |Silva Tirado, Sebastian Valentino |Entrevistas, Impact Mapping, Antecedentes y problemática, User Journey Mapping, Análisis de entrevistas, Ubiquitous Language, Capítulo 5|
+|TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Product Backlog, Estrategias y tácticas frente a competidores, Competidores, Segmentos objetivos, Needfinding, Capítulo 4|
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto:
+URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSource
 
 <div align="center">
   <img src="">
@@ -59,12 +66,22 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 | Integrante | Tareas Asignadas |
 | ---------- | ---------------- |
+|Bohórquez Lerzundi, Gerardo Sebastián|Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas|
+|Jimenez Melgar, Daniel Luciano |Lean UX, Hypothesis Statements, LEntrevistasts, Descripción de la Startup, Análisis competitivo, Empathy Mapping, User Stories, Capítulo 4 |
+|Luza Carhuamaca, Jose Adrian |User Personas, Diseño de entrevistas, Epics, User Task Matrix, As-is Scenario, Mapping, Lean UX Canvas, Capítulo 4|
+|Silva Tirado, Sebastian Valentino |Entrevistas, Impact Mapping, Antecedentes y problemática, User Journey Mapping, Análisis de entrevistas, Ubiquitous Language, Capítulo 5|
+|Uribe Quispe, Jesús Guillermo | Product Backlog, Estrategias y tácticas frente a competidores, Competidores, Segmentos objetivos, Needfinding, Capítulo 4|
 
 **Github Collaboration Insights**
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
 Los integrantes son:
+- Bohórquez Lerzundi, Gerardo Sebastián()
+- Jimenez Melgar, Daniel Luciano()
+- Luza Carhuamaca, Jose Adrian()
+- Silva Tirado, Sebastian Valentino(SebasSilvaT)
+- Uribe Quispe, Jesús Guillermo()
 
 ## STUDENT OUTCOME
 <b>ABET – EAC - Student Outcome 3</b>
@@ -83,11 +100,11 @@ Los integrantes son:
    1.2. [Solution Profile.](#1.2.)<br>
    1.2.1. [Antecedentes y Problemática.](#1.2.1.)<br>
    1.2.2. [Lean UX Process.](#1.2.2.)<br>
-   1.2.2.1 [Lean UX Problem Statements.](#1.2.2.1.)<br>
+   1.2.2.1 [LEntrevistasts.](#1.2.2.1.)<br>
    1.2.2.2. [Lean UX Assumptions.](#1.2.2.2.)<br>
    1.2.2.3 [Lean UX Hypothesis Statements.](#1.2.2.3.)<br>
    1.2.2.4 [Lean UX Canvas.](#1.2.2.4.)<br>
-   1.2.2.5. [Segmentos objetivo.](#1.2.2.5.)<br>
+   1.3. [Segmentos objetivo.](#1.3.)<br><br>
 2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.)<br>
    2.1. [Competidores.](#2.1.)<br>
    2.1.1. [Análisis competitivo.](#2.1.1.)<br>
@@ -102,6 +119,7 @@ Los integrantes son:
    2.3.3. [User Journey Mapping.](#2.3.3.)<br>
    2.3.4. [Empathy Mapping.](#2.3.4.)<br>
    2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
+   2.4. [Ubiquitous Language](#2.4.)<br>
 3. [**Capítulo III: Requirements Specification.**](#3.)<br>
    3.1. [To-Be Scenario Mapping.](#3.1.)<br>
    3.2. [User Stories.](#3.2.)<br>
@@ -330,10 +348,7 @@ El problema tiene un impacto significativo en la efectividad de los esfuerzos de
 
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 
-
-
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
-
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
@@ -409,6 +424,7 @@ Estos son:
 
 <div id='2.2.'><h4>2.2. Entrevistas.</h4></div>
 
+En esta sección, abordaremos el proceso de entrevistas, una herramienta fundamental para recopilar información directa y valiosa de los usuarios y stakeholders. El objetivo de las entrevistas es comprender las necesidades, deseos, problemas y expectativas de los entrevistados en relación con el producto o servicio en desarrollo. Se utilizan preguntas abiertas y estructuradas para fomentar una comunicación fluida y profundizar en temas clave. Además, se presta especial atención a las respuestas emocionales y no verbales para obtener una visión completa. Las entrevistas proporcionan un enfoque cualitativo y profundo que complementa otros métodos de investigación, permitiendo decisiones más informadas y centradas en el usuario a lo largo del diseño y desarrollo.
 
 <div id='2.2.1.'><h4> 2.2.1. Diseño de Entrevistas.</h4></div>
 
@@ -441,9 +457,145 @@ Estos son:
 
 <div id='2.2.2.'><h4> 2.2.2. Registro De Entrevistas.</h4></div>
 
+<table><thead>
+  <tr>
+    <th colspan="3">   <br>
+Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
+   </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>Entrevistado N°1: Estrella Ticona<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Rimac </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW7gpaJaEipNigtWbEVgpQ0BUsGMjxfIn_FCWHVfe447vg?e=sZUs8O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Estrella solía seguir dietas blandas, incluso llegó a bajar 3 kg en una semana pero <br>sumamente difícil para ella, fue una dieta muy estricta pero si está dispuesta a volver a intentarlo, <br>incluso con incentivos de limitandose temporalmente para conseguir ese premio, un gusto que <br>se pueda llegar a dar, le agrada la idea de una app que le exija y apoye en su dieta.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Entrevistado N°2: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EetHhN1mEgVJr8N3DmPcLn0BnCYK1kMQmRnpW3sou3N2dQ?e=sYqgsV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Diego temporalmente hizo dieta y ejercicio, sin embargo, tenía muchas tentaciones a <br>su alrededor como comidas chatarras que caían muy fácilmente. Le incomoda la idea de <br>notificaciones de apoyo, pero le gustaría seguir la dieta en otros ámbitos o guías específicas.<br></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Entrevistado N°3: Elmer Riva<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: Santa Anita </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Eegk2qvEx_NBo-WcFwOMhtIBKFoSW45hLcg2sNZWQlnPcQ?e=82ssH5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Elmer intentó una dieta llegando a mantenerla por varias semanas pero llegaron <br>eventos festivos lo cuál le impidió seguir limitándose. Le gustaría que la aplicación tuviera <br>recordatorios y cómo alentarlo a seguir progresando. Incluso saber cuantas calorías de <br>cada alimento o producto y que sería ideal para ciertos días para evitar romper la dieta.</td>
+  </tr>
+</tbody></table>
+<table><thead>
+  <tr>
+    <th colspan="3">Segmento objetivo: Hacer ejercicio, rutinas.</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>Entrevistado N°1: Camila Sanchez<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco, Lima, Perú.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EReBiEY_-aBIodz51qCCW1gBDSeozVthDf-lS10uharn7Q?e=DhOC3p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Camila suele hacer ejercicios por semana de vez en cuando, no frecuentemente y <br>suele usar su smartwatch para hacer un seguimiento de actividad física. Le gustaría que haya <br>planes para entrenar cada parte del cuerpo y esa frecuencia para no perder la rutina que suele <br>hacer y proponerse objetivos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Entrevistado N°2: Marcelo Ávalos<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: San Luis, Lima, Perú.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW9Ev2daNSBIrdTjVlg6VE4B6Ws54RB2ktXKlZCP8-DWyw?e=AGbGAd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Marcelo hace frecuentemente rutinas en el gimnasio apuntado en un block de notas <br>y con rutinas ya creadas, aún así le gustaría un seguimiento y no tanto sugerencias de nuevos <br>ejercicios, sino promedios y estadísticas de lo que ya suele hacer. También indicaciones <br>específicas de lo que se debe sentir con cada ejercicio para saber si lo está haciendo bien.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Entrevistado N°3: Marcia Rea<br>Sexo:  Femenino<br>Edad: 20<br>Domicilio: San Martín de Porres.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea0Wg14Q_R1IkBM0Fsn5T9gBZtadxHe_iWyxKCWtHRa6rw?e=xG4NiC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Marcia de vez en cuando entrena en su casa, no siempre puede por tiempos que <br>está en el trabajo o haciendo pendientes de su casa, por lo que no sigue una rutina constante <br>sino casual. Le gustaría volver a empezar y seguir consecutivamente, haciendo posible micro <br>ejercicios en el día sin perjudicar tiempo en otras actividades. Le agrada la idea de tener <br>recordatorios y que le impidan hacer otras actividades salvo que sea del ejercicio.</td>
+  </tr>
+</tbody></table>
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis De Entrevistas.</h4></div>
 
+**Segmento Objetivo 1:** Dieta saludable, comer bien, bajar de peso.<br>
+- La joven Estrella ya tiene experiencia con las dietas, tan solo fue complicado para ella seguirlo por lo que lo dejó, sería ideal que la dieta sea progresiva para ella y no sea muy fuerte desde el inicio.
+- Para el joven Diego tiene conocimientos de la dieta pero se lo impedía su entorno con comidas chatarras dejándolo automáticamente, le gustaría intentarlo cuando crea conveniente.
+- El joven Elmer intentó una dieta pero la temporada de fiestas le impedía, le gustaría que hubiera una aplicación con facilidades de saber que alimentos poco a poco podría ayudarle. <br><br>
+**Segmento Objetivo 2:** Hacer ejercicio, rutinas.<br>
+- La joven Camila está de acuerdo con un seguimiento y programa de ejercicios para su rutina e incluso mejorarla.
+- El joven Marcelo está de acuerdo con especificar los ejercicios y cómo debe sentirse uno por si se está haciendo correcto o debería mejorar.
+- La joven Marcia está desidia de volver a entrenar pero haciendo micro ejercicios y tiempos que se pueda dar en su casa sin perjudicar otras actividades.
 
 <div id='2.3.'><h3> 2.3. NeedFinding.</h4></div>
 
@@ -500,6 +652,9 @@ En esta sección, nos centraremos en la User Task Matrix, una herramienta utiliz
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
+En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que visualiza las experiencias de los usuarios a lo largo de su interacción con un producto o servicio. Este mapa representa los diferentes puntos de contacto y las emociones que los usuarios experimentan en cada etapa de su viaje, desde el descubrimiento inicial hasta la postventa. El User Journey Mapping ayuda a comprender las necesidades, expectativas y frustraciones de los usuarios a lo largo de su experiencia, lo que permite identificar oportunidades de mejora y optimización en el diseño del producto o servicio.
+[LOGO]
+[LOGO]
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
@@ -513,6 +668,35 @@ URL del As-is Scenario Mapping: [https://www.figma.com/design/urPCgABvckNHizpcQw
 
 <div id='2.4.'><h4> 2.4. Ubiquitous Language.</h4></div>
 
+Se refiere a la creación de un lenguaje compartido y consistente que sea utilizado por todos los miembros de un equipo, incluidos los desarrolladores, analistas, diseñadores y expertos del negocio. Este lenguaje se centra en el dominio del negocio específico en el que el equipo está trabajando y tiene como objetivo eliminar la ambigüedad y asegurar que todos los involucrados comprendan y usen los términos de la misma manera.
+<br>
+**1. Usuario (User):**
+Persona que utiliza la plataforma para mejorar su bienestar físico y/o mental a través de las herramientas y recursos proporcionados.
+<br>
+**2. Meta de Salud (Health Goal):**
+Objetivo personal relacionado con el bienestar físico o mental que un usuario establece dentro de la plataforma, como perder peso, reducir el estrés, o mejorar la condición física.
+<br>
+**3. Recomendación Personalizada (Personalized Recommendation):**
+Sugerencia específica generada por la plataforma basada en los datos personales del usuario, diseñada para ayudarle a alcanzar sus metas de salud de manera efectiva.
+<br>
+**4. Plan de Bienestar (Wellness Plan):**
+Conjunto de actividades y sugerencias personalizadas que un usuario sigue para alcanzar sus metas de salud, incluyendo ejercicios, prácticas de meditación, y hábitos alimenticios.
+<br>
+**5. Seguimiento del Progreso (Progress Tracking):**
+Funcionalidad de la plataforma que permite a los usuarios registrar y visualizar sus avances hacia las metas de salud que se han propuesto.
+<br>
+**6. Datos Personales (Personal Data):**
+Información proporcionada por el usuario, como edad, peso, nivel de actividad física, hábitos alimentarios, y estado emocional, que se utiliza para personalizar las recomendaciones y planes de bienestar.
+<br>
+**7. Herramientas Intuitivas (Intuitive Tools):**
+Funcionalidades y recursos dentro de la plataforma que son fáciles de usar y que ayudan a los usuarios a gestionar su bienestar de manera autónoma y efectiva.
+<br>
+**8. Calidad de Vida (Quality of Life):**
+Estado general de bienestar físico, mental y emocional que la plataforma busca mejorar para sus usuarios a través de soluciones personalizadas.
+<br>
+**9. Liderazgo en Bienestar Personal (Leadership in Personal Wellness):**
+Posicionamiento de la plataforma como referente mundial en soluciones de bienestar personal, reconocido por su capacidad de ofrecer herramientas y recomendaciones innovadoras.
+<br>
 
 <div id='3.'><h2>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h4></div>
 
@@ -544,6 +728,7 @@ En la gestión de proyectos de desarrollo de software, los "Epics" representan u
 
 <div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
 
+Es una técnica de medición estratégica que ayuda a los equipos de desarrollo a alinear las actividades con los objetivos de negocios. A continuación Impact Map en diferentes contextos:
 
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 
