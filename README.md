@@ -152,8 +152,10 @@ Los integrantes son:
    5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
 6. [**Conclusiones.**](#6.)<br>
-7. [**Bibliografía.**](#7.)<br>
-8. [**Anexos.**](#8.)<br>
+6.1. [Conclusiones y recomendaciones](#6.1.)
+6.2. [Video About-The-Team](#6.2.)
+8. [**Bibliografía.**](#7.)<br>
+9. [**Anexos.**](#8.)<br>
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
@@ -245,7 +247,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Silva Tirado, Sebastián Valentino"  style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/imagen_2024-09-05_144636355.png" alt="Silva Tirado, Sebastián Valentino"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
@@ -262,7 +264,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
+        <b>Acerca de: Soy estudiante del 6to ciclo de la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me gusta la idea de programar y crear algo que pueda llegar a funcionar y ser útil en el mundo. Por lo cual, la universidad me da la posibilidad de estudiar y ser un profesional exitoso. Deseo ser buen integrante para mi equipo y me comprometo en hacer el mejor trabajo posible, y poder superarme más que el ciclo anterior.</b>
         <br>
         (Texto)
         </td>
@@ -293,3 +295,33 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
 	 
 </table>
+<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+
+**Antecedentes:**
+En todo el mundo, muchas personas expresan un deseo de mejorar su salud a través del ejercicio y una alimentación más saludable. Sin embargo, aunque reconocen la importancia de la dieta en la pérdida de peso, tienden a enfocarse más en reducir o eliminar el azúcar en lugar de seguir una dieta estricta. (N.d.). Ipsos.com. (2021, Enero 18).
+
+**Problemática:**
+
+A pesar del interés generalizado en mejorar la salud, las personas encuentran difícil adoptar cambios sostenibles en su dieta, enfocándose principalmente en la reducción del azúcar en lugar de adoptar una estrategia más equilibrada para la pérdida de peso.
+
+**WHAT (Qué): ¿Cuál es el problema?**
+El problema es que muchas personas quieren mejorar su salud, pero no están dispuestas o no saben cómo hacer cambios dietéticos más amplios, centrándose solo en la reducción de azúcar.
+
+**WHEN (Cuándo): ¿Cuándo sucede el problema?**
+El problema surge cuando las personas deciden perder peso o mejorar su salud, pero no saben cómo hacerlo de manera efectiva y sostenible.
+
+**WHERE (Dónde): ¿Dónde surge el problema?**
+El problema se presenta en todo el mundo, pero es especialmente común en sociedades donde el acceso a información sobre salud y nutrición es limitado o confuso.
+
+**WHO (Quién): ¿A quiénes les sucede el problema?**
+El problema afecta a personas de todas las edades y géneros que están buscando perder peso o mejorar su salud, pero carecen de las herramientas o el conocimiento adecuado para hacerlo.
+
+**WHY (Por qué): ¿Cuál es la causa del problema?**
+La causa principal es la falta de conocimiento o acceso a estrategias dietéticas completas y efectivas, lo que lleva a las personas a enfocarse únicamente en reducir el azúcar en lugar de adoptar cambios dietéticos más amplios.
+
+**HOW (Cómo): ¿Cómo llevó a los involucrados a llegar a esta situación?**
+La influencia de dietas de moda, publicidad, y la falta de educación nutricional adecuada ha llevado a las personas a simplificar el proceso de pérdida de peso, enfocándose en la eliminación del azúcar como la única solución.
+
+**HOW MUCH (Cuánto): ¿Cuánto afecta el problema?**
+El problema tiene un impacto significativo en la efectividad de los esfuerzos de las personas para perder peso y mejorar su salud, ya que una reducción de azúcar por sí sola puede no ser suficiente para lograr los resultados deseados. Esto puede llevar a frustración y abandono de los esfuerzos de mejora de la salud.
