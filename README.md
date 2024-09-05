@@ -87,7 +87,7 @@ Los integrantes son:
    1.2.2.2. [Lean UX Assumptions.](#1.2.2.2.)<br>
    1.2.2.3 [Lean UX Hypothesis Statements.](#1.2.2.3.)<br>
    1.2.2.4 [Lean UX Canvas.](#1.2.2.4.)<br>
-   1.2.2.5. [Segmentos objetivo.](#1.2.2.5.)<br><br>
+   1.2.2.5. [Segmentos objetivo.](#1.2.2.5.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.)<br>
    2.1. [Competidores.](#2.1.)<br>
    2.1.1. [Análisis competitivo.](#2.1.1.)<br>
@@ -152,8 +152,8 @@ Los integrantes son:
    5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
 6. [**Conclusiones.**](#6.)<br>
-6.1. [Conclusiones y recomendaciones](#6.1.)
-6.2. [Video About-The-Team](#6.2.)
+6.1. [Conclusiones y recomendaciones](#6.1.)<br>
+6.2. [Video About-The-Team](#6.2.)<br>
 8. [**Bibliografía.**](#7.)<br>
 9. [**Anexos.**](#8.)<br>
 
