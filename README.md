@@ -86,8 +86,8 @@ ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un 
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.      | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Me enfoqué en transmitir de manera clara las ideas del proyecto a todos los involucrados. Organicé presentaciones sobre los perfiles de usuario para asegurar que el equipo comprendiera las necesidades y expectativas de quienes utilizarán la plataforma. Expliqué de forma detallada el marco estratégico del Lean UX Canvas y los principios de diseño visual, permitiendo que los conceptos complejos fueran entendidos de forma sencilla. Además, guié al equipo a través de la estructura de navegación de la plataforma, facilitando una visión común del flujo del usuario. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Participé en la elaboración y presentación del proyecto, incluyendo la descripción, el Lean UX Process, y los diagramas de arquitectura, comunicando nuestras ideas y avances claramente a diferentes audiencias. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br>  En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.  <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Estas acciones me permitieron conectar con los miembros del equipo, garantizando que todos compartieran una visión clara del proyecto. La comunicación cara a cara ayudó a fomentar un ambiente colaborativo, donde las ideas y sugerencias podían fluir libremente, mejorando así la toma de decisiones y la eficiencia del equipo. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Esta experiencia fortaleció mi capacidad para explicar conceptos de manera efectiva a diversos grupos, adaptando mi comunicación para asegurar que todos comprendieran y se alinearan con los objetivos del proyecto. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> Se realizó un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió entregar un resultado de calidad. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  |.                  Para                                                                                                                  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Preparé documentación exhaustiva para respaldar cada fase del proyecto, asegurando que la información fuera comprensible y accesible para todos. Desarrollé perfiles detallados de los usuarios y guías de entrevistas. Creé descripciones claras y completas de las tareas principales y las funciones del usuario para guiar el desarrollo. También redacté el Lean UX Canvas y las directrices de estilo, detallando desde los colores y la tipografía hasta la estructura de la información, lo cual ayudó a mantener la coherencia en el diseño y la implementación del proyecto. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Redacté documentos clave como el Startup Profile, Lean UX Assumptions y el registro de entrevistas, asegurando que la información fuera clara y comprensible para todos. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)   | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> La creación de estos documentos me permitió transmitir ideas complejas de una manera estructurada, facilitando el entendimiento y la colaboración entre todos. La documentación escrita proporcionó una base sólida para el desarrollo del proyecto, ayudando a prevenir malentendidos y asegurando que todos los involucrados estuvieran alineados con los objetivos. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Este trabajo me permitió mejorar mi habilidad para comunicarme por escrito de manera efectiva, ajustando el contenido y el tono según la audiencia para facilitar el entendimiento y la toma de decisiones. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> Como equipo, logramos este primer entregale establecer un landing page comunicando efectivamente que nos permitirá entregar un trabajo completo a posteriormene a pesar del desafío que representaban los plazos cortos para la entrega del proyecto. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1) <br>
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.      | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Me enfoqué en transmitir de manera clara las ideas del proyecto a todos los involucrados. Organicé presentaciones sobre los perfiles de usuario para asegurar que el equipo comprendiera las necesidades y expectativas de quienes utilizarán la plataforma. Expliqué de forma detallada el marco estratégico del Lean UX Canvas y los principios de diseño visual, permitiendo que los conceptos complejos fueran entendidos de forma sencilla. Además, guié al equipo a través de la estructura de navegación de la plataforma, facilitando una visión común del flujo del usuario. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Participé en la elaboración y presentación del proyecto, incluyendo la descripción, el Lean UX Process, y los diagramas de arquitectura, comunicando nuestras ideas y avances claramente a diferentes audiencias. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br>  En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.  <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Estas acciones me permitieron conectar con los miembros del equipo, garantizando que todos compartieran una visión clara del proyecto. La comunicación cara a cara ayudó a fomentar un ambiente colaborativo, donde las ideas y sugerencias podían fluir libremente, mejorando así la toma de decisiones y la eficiencia del equipo. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Esta experiencia fortaleció mi capacidad para explicar conceptos de manera efectiva a diversos grupos, adaptando mi comunicación para asegurar que todos comprendieran y se alinearan con los objetivos del proyecto. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> Se realizó un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió entregar un resultado de calidad. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> (TB1)  |.                  Para                                                                                                                  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Preparé documentación exhaustiva para respaldar cada fase del proyecto, asegurando que la información fuera comprensible y accesible para todos. Desarrollé perfiles detallados de los usuarios y guías de entrevistas. Creé descripciones claras y completas de las tareas principales y las funciones del usuario para guiar el desarrollo. También redacté el Lean UX Canvas y las directrices de estilo, detallando desde los colores y la tipografía hasta la estructura de la información, lo cual ayudó a mantener la coherencia en el diseño y la implementación del proyecto. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Redacté documentos clave como el Startup Profile, Lean UX Assumptions y el registro de entrevistas, asegurando que la información fuera clara y comprensible para todos. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Preparé la esquematización del informe, la realización del product backlog, diseño de base de datos y diagrama de clases, asi como también el diseño y realización de la landing page y web application. Mediante la herramienta MarkDown he podido transmitir las ideas de buena manera estructuralmente hablando, ya que, la base para todo informe es el orden y la estructura de esta.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> La creación de estos documentos me permitió transmitir ideas complejas de una manera estructurada, facilitando el entendimiento y la colaboración entre todos. La documentación escrita proporcionó una base sólida para el desarrollo del proyecto, ayudando a prevenir malentendidos y asegurando que todos los involucrados estuvieran alineados con los objetivos. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Este trabajo me permitió mejorar mi habilidad para comunicarme por escrito de manera efectiva, ajustando el contenido y el tono según la audiencia para facilitar el entendimiento y la toma de decisiones. <br> <br> <br> **Jimenez Melgar, Daniel Luciano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Silva Tirado, Sebastián Valentino** <br> **TB1:** <br> Como equipo, logramos este primer entregale establecer un landing page comunicando efectivamente que nos permitirá entregar un trabajo completo a posteriormene a pesar del desafío que representaban los plazos cortos para la entrega del proyecto. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable. <br>
 
 ## Contenido
 
@@ -287,7 +287,7 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Uribe Quispe, Jesús Guillermo" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/ju.jpeg" alt="Uribe Quispe, Jesús Guillermo" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -306,7 +306,8 @@ VidaActiva es una startup tecnológica enfocada en transformar la manera en que 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto)
+        Soy estudiante de Ingenieria de Software en la UPC y actualmente estoy en el 5to ciclo. Elegí esta carrera porque me interesó el campo del software y la matemáticas. Me comprometo a
+		ayudar a mis compañeros con el trabajo asi como también fuera de este.
         </td>
     </tr>
 	 
@@ -410,13 +411,20 @@ Estos son:
 
 - **Competidor 1:**
   <br>
+Descripción: Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio.
+<br><br>
 
+Características: Posee un registro para ver el progreso de tus actividades físicas y tu alimentación.
+	
+Canal de distribución principal: Web <br>
+
+Posee un registro para ver el progreso de tus actividades físicas y tu alimentación
 
   <br>
 
 <div align="center">
 
-  <img src="">
+  <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/logo1.png">
 
 </div>
 
@@ -424,13 +432,18 @@ Estos son:
 
 - **Competidor 2:**
   <br>
+Descripción: Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas.
+<br>
+Características: Enfocado más en la pérdida de peso mediante el registro de calorías diarias
+	
+Canal de distribución principal: Web <br>
 
-  
+Enfocado más en la pérdida de peso mediante el registro de calorías diarias
   <br>
 
 <div align="center">
 
-  <img src="">
+  <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/logo2.png">
 
 </div>
 
@@ -438,13 +451,16 @@ Estos son:
 
 - **Competidor 3:**
   <br>
+Descripción: Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo.<br>
 
+Características: Canal de distribución principal: Web <br>
 
+Comunidad altamente activa y la ayuda mutua de los clientes mediante recomendaciones de alimentación o rutinas de ejercicios
   <br>
 
 <div align="center">
 
-  <img src="">
+  <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/logo3.png">
 
 </div>
 
@@ -469,6 +485,12 @@ El análisis de la competencia en el mercado nos permite entender mejor el entor
 | **Amenazas**             | Aparición constante de nuevas aplicaciones y servicios en el mercado, y riesgo de que los usuarios pierdan interés si no ven resultados rápidos o si encuentran la aplicación complicada de usar. | Competencia de aplicaciones y sitios web con interfaces más amigables o con comunidades más grandes. | Alta competencia en el mercado de pérdida de peso, con la entrada constante de nuevas aplicaciones y servicios similares. | La competencia de otras plataformas con comunidades igualmente grandes o con mejor tecnología. |
 
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+
+Frente a Cronometer, podemos competir mediante la forma de interacción con el usuario, ya que, Cronometer tiene una interfaz poco amigable y difícil de comprender para los usuarios que por primera vez recurren a aplicativos de este tipo. Además de que la versión gratuita limita considerablemente las funcionalidades que se puede tener.
+
+En el caso de LoseIt, no es tan específico en cuanto al análisis profundo de los nutrientes que se obtiene en tu día a día y su versión gratuita no tiene muchas funcionalidades. Por lo tanto, nuestra estrategia sería tener una mayor especificación en los nutrientes diarios que se consumen día a día y tener más funcionalidades en el modo gratuito para poder tener la atención del público.
+
+Finalmente con SparkPeople, posee una interfaz no muy atractiva para el usuario y las funcionalidades en su versión gratuita son pocas, además de que recurren al uso de anuncios en dicha versión por lo que genera una incomodidad hacia el usuario. Por ello nuestra estrategia es modelar de una buena manera nuestra aplicación web para la comodidad y gusto de nuestros usuarios.
 
 
 <div id='2.2.'><h4>2.2. Entrevistas.</h4></div>
