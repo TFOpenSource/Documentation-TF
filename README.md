@@ -916,15 +916,56 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 <div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>         
 
+Los sistemas de etiquetado aseguran una organización clara y coherente de la información, facilitando la navegación y mejorando la experiencia del usuario.
+
+#### Principios de Etiquetado:
+
+- **Consistencia:** Lenguaje uniforme y comprensible.
+- **Claridad y Precisión:** Cada etiqueta debe reflejar con precisión el contenido.
+
+#### Ejemplos de Etiquetas:
+
+- **Menú Principal:** "Home", "Suscripciones", "Testimonios", "Contacto", "Log In".
+- **Subsecciones:** "Planes de Suscripción", "Detalles del Plan", "Comentarios", "Detalles del Comentario".
+- **Campos de Formulario:** "Nombre", "Correo Electrónico", "Contraseña", "Confirmar Contraseña".
 
 <div id= '4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags</h4></div>
 
+##### Meta Tags:
+
+- **Title Tag:** Cada página debe tener un título único y descriptivo.  
+  Ejemplo: `<title>Plataforma de Control de Dieta</title>`.
+- **Meta Description:** Resumen breve y atractivo del contenido de la página.  
+  Ejemplo: `<meta name="description" content="Control de ejercicio y rutina.">`.
+- **Keywords:** Palabras clave relevantes.  
+  Ejemplo: `<meta name="keywords" content="salud mental, psiquiatría, terapia en línea, gestión de pacientes">`.
+
+##### SEO Tags:
+
+- **Header Tags:** Uso adecuado de etiquetas de encabezado (`<h1>`, `<h2>`, `<h3>`) para estructurar el contenido.
+- **Alt Text para Imágenes:** Descripciones detalladas en el atributo alt de las imágenes.  
+  Ejemplo: `<img src="logo.png" alt="Plataforma de Salud Mental">`.
+- **URL Amigables:** URLs descriptivas que reflejen la estructura de la información.
 
 <div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
+
+El sistema de búsqueda es esencial para facilitar el acceso rápido a la información relevante.
+
+#### Características del Sistema de Búsqueda:
+
+- **Barra de Búsqueda:** Ubicada en la parte superior de la página.
+- **Búsqueda Predictiva:** Sugerencias automáticas a medida que se escribe.
+- **Filtros de Búsqueda:** Por categorías como "Planes de Suscripción", "Testimonios", etc.
+- **Búsqueda Avanzada:** Permite especificar criterios detallados.
+- **Indexación de Contenidos:** Todo el contenido debe estar indexado para búsqueda rápida.
 
 
 <div id= '4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
 
+#### Características del Sistema de Navegación:
+
+- **Menú Principal:** Enlaces directos a las secciones principales.
+- **Submenús Desplegables:** Acceso a subsecciones sin salir de la página actual, como en "Suscripciones" y "Detalles del Plan".
 
 <div id= '4.3.'><h3>4.3. Landing Page UI Design.</h3></div>
 
