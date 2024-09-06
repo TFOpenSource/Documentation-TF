@@ -395,7 +395,21 @@ Después de completar los pasos del proceso Lean UX, se dispone a crear el Lean 
 
 ![Lean UX Canvas](Img/LeanUXCanvas.png)
 
----
+<div id='1.3.'><h3> 1.3. Segmentos objetivos</h3></div>
+
+En esta sección, nos centraremos en definir los grupos específicos de personas quienes son identificados como el público objetivo principal de un producto o servicio. Estos grupos se caracterizan por compartir características demográficas, comportamientos, necesidades o preferencias similares, lo que los distingue de otros segmentos del mercado.
+●	Segmento demográfico
+Personas que realizan actividad física moderada o que simplemente quieren tener un cuerpo saludable gracias a dietas específicas.
+
+●	Segmento geográfico
+Personas pertenecientes a una región con alta demanda de salud y bienestar física.
+
+●	Segmento psicográfico
+Entusiastas y principiantes en el mundo del fitness.
+
+●	Segmento Conductual
+Personas que regularmente necesitan de planes alimenticios o rutinas de ejercicios para mejorar continuamente su salud física.
+
 
 <div id='2.'><h2>Capítulo II: REQUIREMENTS ELICITATION & ANALYSIS</h2></div>
 
