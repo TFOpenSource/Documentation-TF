@@ -690,7 +690,7 @@ En esta sección, nos adentraremos en el concepto de User Personas, una herramie
   - Inculcar buenos hábitos alimenticios en su familia.
   - Frustraciones: María siente que las aplicaciones de dieta no consideran su estilo de vida y la necesidad de cocinar para toda la familia. Busca una solución que le ofrezca sugerencias personalizadas y realistas.
 
-  <img src="Img/María López.png" alt="User Persona Maria Lopez" />
+  <img src="Img/UserPersona_Maria.png" alt="User Persona Maria Lopez" />
 
 **Segmento 2:**
 
@@ -703,7 +703,7 @@ En esta sección, nos adentraremos en el concepto de User Personas, una herramie
 - Objetivos: - Mejorar su salud física. - Mantener un seguimiento de su dieta. - Mejorar la calidad del sueño. - Recuperar la fuerza y resistencia que tenía antes.
   Frustraciones: No le gusta tener que usar múltiples aplicaciones para diferentes aspectos de su salud y bienestar. Encuentra tedioso registrar manualmente sus rutinas de ejercicio y comidas.
 
-   <img src="Img/Juan Pérez.png" alt="User Persona Juan Perez" />
+   <img src="Img/UserPersona_Juan.png" alt="User Persona Juan Perez" />
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 En esta sección, nos centraremos en la User Task Matrix, una herramienta utilizada en el diseño centrado en el usuario para organizar y priorizar las tareas que los usuarios realizan al interactuar con un producto o servicio. La matriz muestra las diferentes tareas que los usuarios necesitan completar, así como la importancia y la frecuencia de cada una. 
