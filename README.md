@@ -1232,70 +1232,70 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar la landing
     <td>&nbsp;&nbsp;&nbsp;<br>c200c25&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>“Add initial structure for the landing page”&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Created index.html with basic HTML5 structure&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>31/08/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>4aaa6ac&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>“Implement responsive design for landing&nbsp;&nbsp;&nbsp;page”&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Added media queries for mobile and tablet&nbsp;&nbsp;&nbsp;views&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>31/08/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>ad0521b&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>“Optimize images and improve page load speed”&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Compressed images without losing quality&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>01/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>07c6a3f&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>“Update content and add call-to-action&nbsp;&nbsp;&nbsp;buttons”&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Replaced placeholder text with actual content&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>01/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>28e5277&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>“Fix alignment issues in landing page”&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Corrected alignment of images in the features&nbsp;&nbsp;&nbsp;section&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>02/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>d77f8ed&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>“Enhance accessibility of the landing page”&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Added alt text to all images for screen&nbsp;&nbsp;&nbsp;readers&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>02/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“home y pie de pagina”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Added home and end of land&nbsp;&nbsp;&nbsp;readers&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>A7ZD6<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>“Integrate&nbsp;&nbsp;&nbsp;privacy”&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated privacy policy to include tracking&nbsp;&nbsp;&nbsp;information&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>02/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“detalles &nbsp;&nbsp;&nbsp;de suscripciones”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Actualizar detalles de suscripciones&nbsp;&nbsp;&nbsp;information&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>09H54<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>“Add smooth scrolling to navigation links”&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implemented smooth scrolling behavior for&nbsp;&nbsp;&nbsp;internal links&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“suscripciones”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar &nbsp;&nbsp;&nbsp;suscripciones&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>WM5KT<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>“Create and style hero section”&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implemented responsive hero section that&nbsp;&nbsp;&nbsp;scales with screen size&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“formulario de contacto”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementacion de formulario &nbsp;&nbsp;&nbsp;de contrato&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>LandingPage/docs&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3Q2SV&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>“Fix broken links and update social media&nbsp;&nbsp;&nbsp;icons”&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Corrected broken links in the footer&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>04/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“inicio de sesion registro y cambio de &nbsp;&nbsp;&nbsp;idioma”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Correciones de sesion de inicio de seisón y registro&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody></table>
 
@@ -1360,6 +1360,12 @@ ponemos “NutriMove” y le damos a Continuar.
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 
 Landing Page:
+<img src="Img/Landing1.png"> <br>
+<img src="Img/Landing2.png"> <br>
+<img src="Img/Landing3.png"> <br>
+<img src="Img/Landing4.png"> <br>
+<img src="Img/Landing5.png"> <br>
+<img src="Img/Landing6.png">
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
 
