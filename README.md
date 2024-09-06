@@ -1551,9 +1551,24 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
+User Goal: Registro e iniciar sesión <br>
+<img src="Img/Wen App User Flow Diagrams.png">
+
+User Goal: Escojo de plan <br>
+<img src="Img/Wen App User Flow Diagrams 2.png">
 
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 
+Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web Browser, se siguieron varios criterios clave:
+
+1. Claridad y Simplicidad: Se buscó que la navegación en la aplicación fuera intuitiva y fácil de entender, permitiendo a los usuarios comprender plenamente las funciones, como el registro de procesos y la visualización de informes estadísticos.
+   
+2. Diseño Responsivo: Se consideró esencial asegurar que la aplicación web fuera compatible con diferentes tamaños de pantalla, garantizando que los usuarios puedan acceder sin limitaciones, independientemente del dispositivo que utilicen.
+
+3. Enfoque en la Información Relevante: El diseño prioriza la presentación de la información más importante para los usuarios del segmento objetivo, evitando sobrecargar la interfaz.
+<img src="Img/Web App Prototyping.png">
+
+Link para el flujo: para acceder al flujo: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=BB0xoxW9qrVogveU-1 
 
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 	Para crear diagramas efectivos que representen la arquitectura de nuestro proyecto, es fundamental realizar un análisis exhaustivo del funcionamiento de la aplicación. Utilizaremos el modelo de lenguaje C4 en Structurizr para ofrecer una visión clara y detallada de la arquitectura de nuestro sistema. Este enfoque nos permitirá ilustrar de manera precisa cómo interactúan los distintos componentes y usuarios de la aplicación, asegurando una comprensión integral del diseño y facilitando la comunicación entre el equipo y las partes interesadas.
