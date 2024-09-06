@@ -346,6 +346,12 @@ El problema tiene un impacto significativo en la efectividad de los esfuerzos de
 
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 
+Nuestro servicio se enfoca en promover el bienestar y la salud a través de una aplicación que permite a los usuarios registrar actividades como la alimentación y el ejercicio para llevar un seguimiento constante de su progreso. 
+
+Hemos identificado un desafío crítico que afecta la efectividad del servicio y la satisfacción del usuario: la falta de constancia y motivación para registrar las actividades diariamente. A pesar de los múltiples métodos de registro que existen, muchas personas no logran mantener un registro continuo, lo que reduce su progreso.
+
+¿Cómo podemos mejorar la constancia de los usuarios en el registro de sus actividades diarias y, al mismo tiempo, incrementar su motivación para mantener un seguimiento regular de su bienestar, logrando que se sientan más comprometidos y satisfechos con el servicio?
+
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 
