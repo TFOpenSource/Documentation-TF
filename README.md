@@ -1017,9 +1017,13 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 
 <div id= '4.8.'><h3>4.8. Database Design.</h4></div>
+El diseño de la base de datos constituye un aspecto fundamental en la organización y gestión de la información. En este informe, se ha estructurado una base de datos que optimiza la eficiencia en el almacenamiento y recuperación de datos, asegurando la integridad y consistencia de la información. La implementación de relaciones bien definidas entre las tablas permite minimizar la redundancia y garantizar la escalabilidad del sistema, facilitando así el análisis y la generación de reportes precisos y confiables.
 
 
 <div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
+
+<img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/Diagrama%20ER%20de%20base%20de%20datos.png">
+
 
 
 <div id='5.'><h2>CAPÍTULO IV: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT </h4></div>
