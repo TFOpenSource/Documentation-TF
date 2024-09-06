@@ -46,11 +46,11 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSource
 
 <div align="center">
-  <img src="">
+  <img src="Img/Insights 1.png">
 </div>
 
 <div align="center">
-  <img src="">
+  <img src="Img/NetworkInsight.png">
 </div>
 
 <div align="center">
@@ -2035,6 +2035,18 @@ Landing Page:
 | Jimenez Melgar, Daniel Luciano | Implementación de la sección principal y contact.|
 | Silva Tirado, Sebastian Valentino | Implementación de la sección de más información de los servicios, Implementación de cambio de idioma.|
 | Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
+
+<div align="center">
+  <img src="Img/Insights 1.png">
+</div>
+
+<div align="center">
+  <img src="Img/NetworkInsight.png">
+</div>
+
+<div align="center">
+  <img src="Img/PulseInsights.png">
+</div>
 
 <div id='5.3.'><h3> 5.3.  Validation Interviews.</h3></div>
 
