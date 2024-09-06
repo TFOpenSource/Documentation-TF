@@ -1185,7 +1185,7 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar la landing
     <td>&nbsp;&nbsp;&nbsp;<br>HU18&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Acceso a navegador web<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Creación de navegador web&nbsp;&nbsp;&nbsp;cuenta.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Creación de navegador web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>funcionalidad redirigir a la información fácilmente&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Sebastian Bohorquez&nbsp;&nbsp;&nbsp;</td>
