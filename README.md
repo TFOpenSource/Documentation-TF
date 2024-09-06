@@ -788,21 +788,224 @@ Posicionamiento de la plataforma como referente mundial en soluciones de bienest
 
 <div id='3.2.1.'><h4> 3.2.1 User Stories.</h4></div>
 
-
-<div id='3.2.2.'><h4> 3.2.2 Epics.</h4></div>
-
-En la gestión de proyectos de desarrollo de software, los "Epics" representan una capa crucial de planificación que agrupa varias User Stories relacionadas bajo un objetivo común más amplio.
-
-| Epic ID | Título                           | Descripción                                                                                           | Criterios de Aceptación                                                                                  | Relacionado con (User Stories)     |
-|---------|----------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------|
-| EP001   | Gestión de Actividades de Salud  | Agrupa todas las funcionalidades relacionadas con el registro y seguimiento de actividades diarias, como alimentación, ejercicio, así como la revisión del historial | Los usuarios pueden registrar y revisar sus actividades diarias. El historial debe ser accesible y editable. | HU05, HU09, HU17            |
-| EP002   | Visualización y Análisis de Progreso | Incluye las funcionalidades para visualizar gráficos y estadísticas que ayuden al usuario a analizar su progreso en términos de salud y ejercicio | Los usuarios pueden seleccionar períodos de tiempo para visualizar su progreso. Las estadísticas se deben mostrar en gráficos detallados. | HU05, HU06, HU11                        |
-| EP003   | Recomendaciones y Objetivos de Salud | Se enfoca en ofrecer recomendaciones personalizadas basadas en las actividades registradas por el usuario, así como la configuración y seguimiento de objetivos de salud | Los usuarios reciben recomendaciones basadas en su progreso. Los objetivos de salud pueden configurarse y seguirse. | HU04, HU07, HU12, HU13                        |
-| EP004   | Gestión de Perfil de Privacidad  | Agrupa las funcionalidades relacionadas con la creación, actualización y configuración de la privacidad del perfil de usuario | Los usuarios pueden crear y actualizar su perfil con información personal. Los ajustes de privacidad se deben poder configurar y aplicar de inmediato. | HU01, HU02, HU03, HU08, HU15                        |
-| EP005   | Notificaciones y Recordatorios   | Se enfoca en la funcionalidad de enviar notificaciones y recordatorios a los usuarios para el registro de sus actividades diarias | Los recordatorios deben enviarse automáticamente según la configuración del usuario. Los recordatorios adicionales se envían si el usuario no registra la actividad en el tiempo especificado. | HU10                            |
-| EP006   | Comunidad y Contenido Educativo  | Funcionalidades que permiten a los usuarios acceder a una comunidad para compartir experiencias y obtener apoyo, así como acceder a contenido educativo | Los usuarios pueden interactuar con la comunidad y reportar contenido inapropiado. El contenido debe ser accesible y marcar como visto tras ser consumido. | HU14, HU16                        |
-| EP007   | Landing Page                     | Funcionalidades pertenecientes a la Landing Page de NutriMove                                          | Los usuarios pueden interactuar con la Landing Page para conocer más acerca del producto                                                         | HU17, HU18, HU19, HU20, HU21, HU22 |
-
+<table><thead>
+  <tr>
+    <th>Story ID /&nbsp;&nbsp;Epic ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación</th>
+    <th>Relacionado con (Epic ID)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>HU01</td>
+    <td>Registro de cuenta</td>
+    <td>Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles.</td>
+    <td>Escenario: Registro exitoso<br>Dado que el usuario no tiene una cuenta registrada, Cuando ingresa su correo electrónico, establece una contraseña y hace clic en el botón de registro, Entonces debería recibir un correo de confirmación y ser redirigido a la pantalla de inicio de sesión con un mensaje de éxito.<br>Escenario: Error en el registro por correo ya existente<br>Dado que el usuario intenta registrarse con un correo electrónico que ya está en uso, Cuando hace clic en el botón de registro, Entonces debería ver un mensaje de error indicando que el correo ya está registrado y se le debe dar la opción de iniciar sesión o recuperar su cuenta.</td>
+    <td>EP004</td>
+  </tr>
+  <tr>
+    <td>HU02</td>
+    <td>Inicio de Sesión</td>
+    <td>Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación.</td>
+    <td>Escenario: Inicio de sesión exitoso<br>Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electrónico y contraseña correctos y hace clic en el botón de iniciar sesión, Entonces debería ser redirigido a la pantalla principal con acceso a todas las funcionalidades de la aplicación.<br>Escenario: Error en el inicio de sesión por contraseña incorrecta<br>Dado que el usuario intenta iniciar sesión con una contraseña incorrecta, Cuando hace clic en el botón de iniciar sesión, Entonces debería ver un mensaje de error indicando que la contraseña es incorrecta y se le debe dar la opción de intentar nuevamente o recuperar su contraseña.</td>
+    <td>EP004</td>
+  </tr>
+  <tr>
+    <td>HU03</td>
+    <td>Recuperación de Cuenta</td>
+    <td>Como usuario registrado, quiero poder recuperar mi cuenta en caso de olvidar mi contraseña, para restablecer mi acceso sin perder mis datos e historial de uso.</td>
+    <td>Escenario: Recuperación de cuenta exitosa<br>Dado que el usuario ha olvidado su contraseña, Cuando hace clic en "¿Olvidaste tu contraseña?" e ingresa su correo electrónico registrado, Entonces debería recibir un correo electrónico con un enlace para restablecer su contraseña y ser redirigido a una pantalla de confirmación.<br>Escenario: Error en la recuperación de cuenta por correo no registrado<br>Dado que el usuario intenta recuperar su cuenta usando un correo electrónico que no está registrado, Cuando hace clic en "¿Olvidaste tu contraseña?" e ingresa un correo no registrado, Entonces debería ver un mensaje de error indicando que no hay ninguna cuenta asociada a ese correo y se le debe dar la opción de registrarse.</td>
+    <td>EP004</td>
+  </tr>
+  <tr>
+    <td>HU04</td>
+    <td>Registro de actividades diarias</td>
+    <td>Como usuario, quiero registrar mis actividades diarias de alimentación y ejercicio para llevar un seguimiento de mis hábitos de salud.</td>
+    <td>Escenario: Guardar actividad registradaDado que el usuario está en la página de registro de actividades, cuando introduce los detalles de su actividad de alimentación y ejercicio, entonces los datos se guardan en su perfil.<br>Escenario: Ver historial de actividadesDado que el usuario ha registrado una actividad, cuando revise su historial de actividades, entonces podrá ver la lista de todas las actividades registradas con fecha y detalles.</td>
+    <td>EP003</td>
+  </tr>
+  <tr>
+    <td>HU05</td>
+    <td>Visualización de gráficos de progreso</td>
+    <td>Como usuario, quiero visualizar gráficos de progreso para entender mejor mis avances en términos de salud y ejercicio.</td>
+    <td>Escenario: Selección de período de tiempoDado que el usuario está en la sección de gráficos de progreso, cuando selecciona el período de tiempo (semanal, mensual, anual), entonces se mostrarán los gráficos correspondientes al período seleccionado.</td>
+    <td>EP002</td>
+  </tr>
+  <tr>
+    <td>HU06</td>
+    <td>Recomendaciones personalizadas</td>
+    <td>Como usuario, quiero recibir recomendaciones personalizadas basadas en mis actividades registradas para mejorar mi salud.</td>
+    <td>Escenario: Generación de recomendacionesDado que el usuario ha registrado actividades por al menos una semana, cuando accede a la sección de recomendaciones, entonces recibe sugerencias personalizadas en base a sus datos.<br>Escenario: Actualización de recomendacionesDado que el usuario sigue una recomendación, cuando registra una nueva actividad relacionada con la recomendación, entonces se actualiza su progreso y se recalculan las futuras recomendaciones.</td>
+    <td>EP002</td>
+  </tr>
+  <tr>
+    <td>HU07</td>
+    <td>Registro de ingesta de alimentos</td>
+    <td>Como usuario, quiero registrar mi ingesta de alimentos para controlar las calorías y nutrientes.</td>
+    <td>Escenario: Cálculo de calorías y nutrientesDado que el usuario está en la página de registro de alimentos, cuando introduce los alimentos consumidos, entonces la aplicación calcula las calorías y nutrientes correspondientes.<br>Escenario: Sugerencias de alimentosDado que el usuario ha registrado alimentos previamente, cuando busca un alimento similar, entonces la aplicación sugiere alimentos basados en el historial de registro del usuario.</td>
+    <td>EP003</td>
+  </tr>
+  <tr>
+    <td>HU08</td>
+    <td>Actualización de datos un perfil de usuario</td>
+    <td>Como usuario, quiero actualizar los datos personales para obtener recomendaciones y análisis precisos.</td>
+    <td>Escenario: Actualización de perfilDado que el usuario desea actualizar su perfil, cuando hace cambios en su información personal, entonces la aplicación guarda los cambios y muestra una confirmación.</td>
+    <td>EP004</td>
+  </tr>
+  <tr>
+    <td>HU09</td>
+    <td>Configuración de objetivos de salud.</td>
+    <td>Como usuario, quiero configurar mis objetivos de salud para que la aplicación me ayude a alcanzarlos.</td>
+    <td>Escenario: Establecimiento de nuevos objetivosDado que el usuario está en la sección de objetivos de salud, cuando establece un nuevo objetivo, entonces la aplicación guarda el objetivo y lo muestra en el perfil del usuario.<br>Escenario: Notificación de logroDado que el usuario ha alcanzado un objetivo de salud, cuando revisa su progreso, entonces la aplicación muestra una notificación de logro y sugiere nuevos objetivos.</td>
+    <td>EP001</td>
+  </tr>
+  <tr>
+    <td>HU10</td>
+    <td>Recepción de notificaciones de recordatorio.</td>
+    <td>Como usuario, quiero recibir notificaciones de recordatorio para registrar mis actividades diarias de salud.</td>
+    <td>Escenario: Envío de recordatorios automáticosDado que el usuario ha activado las notificaciones, cuando es la hora configurada, entonces la aplicación envía un recordatorio para registrar las actividades diarias.<br>Escenario: Envío de recordatorio adicionalDado que el usuario ignora un recordatorio, cuando no registra la actividad en un plazo de una hora, entonces la aplicación envía un recordatorio adicional.</td>
+    <td>EP005</td>
+  </tr>
+  <tr>
+    <td>HU11</td>
+    <td>Seguimiento de hidratación diaria.</td>
+    <td>Como usuario, quiero llevar un seguimiento de mi consumo de agua diario para mantenerse hidratado.</td>
+    <td>Escenario: Registro de consumo de aguaDado que el usuario está en la sección de hidratación, cuando registra su consumo de agua, entonces la aplicación actualiza el gráfico de hidratación diario.<br>Escenario: Meta de hidratación alcanzadaDado que el usuario ha alcanzado su meta de hidratación, cuando revisa su gráfico diario, entonces la aplicación muestra un mensaje de felicitación.</td>
+    <td>EP002</td>
+  </tr>
+  <tr>
+    <td>HU12</td>
+    <td>Revisión de historial de actividades</td>
+    <td>Como usuario, quiero revisar mi historial de actividades para evaluar la consistencia y progreso a lo largo del tiempo</td>
+    <td>Escenario: Visualización de historial de actividadesDado que el usuario está en la página de historial, cuando selecciona un rango de fechas, entonces se muestra una lista de todas las actividades registradas durante ese período.<br>Escenario: Eliminación de actividad del historialDado que el usuario desea eliminar una actividad del historial, cuando selecciona la opción de eliminar, entonces la actividad se elimina y el historial se actualiza.</td>
+    <td>EP003</td>
+  </tr>
+  <tr>
+    <td>HU13</td>
+    <td>Visualización de estadísticas de salud</td>
+    <td>Como usuario, quiero ver estadísticas detalladas de mi salud para entender mejor mis patrones y ajustar mis hábitos en consecuencia.</td>
+    <td>Escenario: Selección de tipo de estadísticaDado que el usuario está en la sección de estadísticas, cuando selecciona un tipo de estadística, entonces se muestra un gráfico detallado con los datos correspondientes.<br>Escenario: Exportación de estadísticasDado que el usuario desea exportar sus estadísticas, cuando selecciona la opción de exportar, entonces la aplicación genera un archivo descargable con los datos seleccionados.</td>
+    <td>EP003</td>
+  </tr>
+  <tr>
+    <td>HU14</td>
+    <td>Acceso a la comunidad de usuarios.</td>
+    <td>Como usuario, quiero acceder a una comunidad de usuarios para compartir experiencias y obtener apoyo en mi camino hacia la salud.</td>
+    <td>Escenario: Publicación en la comunidadDado que el usuario está en la sección de comunidad, cuando escribe y publica una nueva entrada, entonces la entrada se muestra en el feed de la comunidad.<br>Escenario: Reportar contenido inapropiadoDado que el usuario ve una publicación inapropiada, cuando selecciona la opción de reportar, entonces la publicación se envía para revisión por parte del administrador.</td>
+    <td>EP006</td>
+  </tr>
+  <tr>
+    <td>HU15</td>
+    <td>Configuración de privacidad del perfil.</td>
+    <td>Como usuario, quiero configurar la privacidad de mi perfil para controlar quién puede ver mi información personal.</td>
+    <td>Escenario: Ajuste de configuración de privacidadDado que el usuario está en la página de configuración de privacidad, cuando ajusta las opciones de visibilidad de datos, entonces la aplicación guarda las preferencias y las aplica de inmediato.<br>Escenario: Acceso restringido al perfilDado que el usuario ha configurado su privacidad como "solo yo", cuando otro usuario intenta ver su perfil, entonces se muestra un mensaje indicando que los datos son privados.</td>
+    <td>EP004</td>
+  </tr>
+  <tr>
+    <td>HU16</td>
+    <td>Acceso a contenido educativo.</td>
+    <td>Como usuario, quiero acceder a contenido educativo sobre salud y bienestar para aprender a mejorar mi estilo de vida.</td>
+    <td>Escenario: Visualización de contenido educativoDado que el usuario está en la sección de contenido educativo, cuando selecciona un artículo o vídeo, entonces el contenido se muestra en pantalla completa.<br>Escenario: Marcado de contenido como vistoDado que el usuario ha leído un artículo o visto un video, cuando regresa a la lista de contenido, entonces la aplicación marca el contenido como "visto".</td>
+    <td>EP006</td>
+  </tr>
+  <tr>
+    <td>HU17</td>
+    <td>Acceso rutinas de ejercicio</td>
+    <td>Como usuario, quiero acceder a contenido sobre rutinas de ejercicio en base a mis propósitos y metas.</td>
+    <td>Escenario: Visualización de contenido de rutinas<br>Dado que el usuario está en la sección de rutinas, cuando selecciona una rutina, entonces el contenido se muestra en pantalla completa<br>.</td>
+    <td>EP007</td>
+  </tr>
+<tr>
+    <td>HU18</td>
+    <td>Acceso a navegador web</td>
+    <td>como usuario quiero visualizar un navegador para poder interactuar libremente con el sitio web.</td>
+    <td>Escenario: Visualización de navegador web
+DADO que el usuario ingresa al sitio web CUANDO cargue por completo, aparecerá un navegador web para ir a las distintas secciones<br>.</td>
+    <td>EP007</td>
+  </tr>
+<tr>
+    <td>HU19</td>
+    <td>Cambio de idioma</td>
+    <td>Como usuario quiero configurar la pagina y ver en distintos idiomas mediante un boton</td>
+    <td>cambio de idioma
+DADO que el usuario ve el boton de cambio de idioma CUANDO interactue con este, se desplegará en que idioma quiere visualizar la página<br>.</td>
+    <td>EP007</td>
+  </tr>
+<tr>
+    <td>HU20</td>
+    <td>Formulario de consulta</td>
+    <td>como usuario quiero comunicarme con VidaActiva para solucionar unas dudas acerca del producto mediante un formulario en la parte inferior.</td>
+    <td>Formulario de Consultas
+-DADO que el usuario se dirige a la parte inferior de la página web, CUANDO ingrese los datos que requiere el formulario y presione en “enviar”, el mensaje con los datos se guardará y se mandará la consulta<br>.</td>
+    <td>EP007</td>
+  </tr>
+<tr>
+    <td>HU21</td>
+    <td>Registro de cuenta</td>
+    <td>Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles.</td>
+    <td>Escenario: Registro exitoso
+Dado que el usuario no tiene una cuenta registrada, Cuando ingresa su correo electrónico, establece una contraseña y hace clic en el botón de registro, Entonces debería recibir un correo de confirmación y ser redirigido a la pantalla de inicio de sesión con un mensaje de éxito<br>.</td>
+    <td>EP007</td>
+  </tr>
+<tr>
+    <td>HU22</td>
+    <td>Inicio de Sesión</td>
+    <td>Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación.</td>
+    <td>Escenario: Inicio de sesión exitoso
+Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electrónico y contraseña correctos y hace clic en el botón de iniciar sesión, Entonces debería ser redirigido a la pantalla principal a la aplicación web con acceso a todas las funcionalidades de la aplicación<br>.</td>
+    <td>EP007</td>
+  </tr>
+  <tr>
+    <td>EP001</td>
+    <td>Gestión de Actividades de Salud</td>
+    <td>Agrupa todas las funcionalidades relacionadas con el registro y seguimiento de actividades diarias, como alimentación, ejercicio, así como la revisión del historial</td>
+    <td>Los usuarios pueden registrar y revisar sus actividades diarias<br>El historial debe ser accesible y editable.</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP002</td>
+    <td>Visualizacion y Analisis de Progreso</td>
+    <td>Incluye las funcionalidades para visualizar gráficos y estadísticas que ayuden al usuario a analizar su progreso en términos de salud y ejercicio</td>
+    <td>Los usuarios pueden seleccionar períodos de tiempo para visualizar su progresa<br>Las estadísticas se deben mostrar en gráficos detallados y se deben exponer</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP003</td>
+    <td>Recomendaciones y Objetivos de Salud</td>
+    <td>Se enfoca en ofrecer recomendaciones personalizadas basadas en las actividades registradas por el usuario, así como la configuración y seguimiento de objetivos de salud</td>
+    <td>Los usuarios reciben recomendaciones basadas en su progreso<br>Los objetivos de salud pueden configurarse y seguirse</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP004</td>
+    <td>Gestión de Perfil de Privacidad</td>
+    <td>Agrupa las funcionalidades relacionadas con la creación, actualización y configuración de la privacidad del perfil de usuario</td>
+    <td>Los usuarios pueden crear y actualizar su perfil con información personal<br>Los ajustes de privacidad se deben poder configurar y aplicar de inmediato</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP005</td>
+    <td>Notificaciones y Recordatorios</td>
+    <td>Se enfoca en la funcionalidad de enviar notificaciones y recordatorios a los usuarios para el registro de sus actividades diarias</td>
+    <td>Los recordatorios deben enviarse automáticamente segun la configuracion del usuario<br>Los recordatorios adicionales se envian si el usuario no registra la actividad en el tiempo especificado</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP006</td>
+    <td>Comunidad y contenido educativo</td>
+    <td>Funcionalidades que permiten a los usuarios acceder a una comunidad  para compartir experiencias y obtener apoyo, asi como acceder a contenido educativo,</td>
+    <td>Los usuarios pueden interactuar con la comunidad y reportar contenido inapropiado<br>El contenido debe ser accesible y marcar como visto tras ser consumido</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP007</td>
+    <td>Landing Page</td>
+    <td>Funcionalidades pertenecientes a la Landing Page de NutriMove</td>
+    <td>Los usuarios pueden interactuar con la Landing Page para conocer más acerca del producto</td>
+    <td>-</td>
+  </tr>
+</tbody></table>
 
 <div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
 
