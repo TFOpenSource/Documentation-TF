@@ -972,7 +972,7 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
         Dado que el usuario quiere conocer la información nutricional de un alimento, cuando solicita los detalles nutricionales de un alimento específico a la API, entonces recibe los datos como calorías, proteínas, grasas, carbohidratos, y otros valores en el formato esperado.<br>
         Escenario 2:<br>
         Dado que el usuario ingresa el nombre de un alimento, cuando la API no encuentra coincidencias en su base de datos, entonces la API devuelve un mensaje de error indicando que no se encontró información para ese alimento.</td>
-    <td> - </td>
+    <td> E001 </td>
 </tr>
 
 <tr>
@@ -983,7 +983,7 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
         Dado que el usuario desea registrarse en la aplicación, cuando envía la información necesaria a la API, entonces su cuenta se crea correctamente y recibe una confirmación.<br>
         Escenario 2:<br>
         Dado que el usuario no proporciona toda la información requerida, cuando intenta registrarse, entonces recibe un mensaje de error indicando los campos faltantes o inválidos.</td>
-    <td> - </td>
+    <td> E004 </td>
 </tr>
 
 <tr>
@@ -994,7 +994,7 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
         Dado que el usuario quiere actualizar su perfil, cuando envía una solicitud con la información modificada, entonces la API guarda los cambios correctamente.<br>
         Escenario 2:<br>
         Dado que el usuario intenta enviar información incompleta o inválida, cuando la API recibe la solicitud, entonces devuelve un mensaje de error indicando qué información necesita ser corregida.</td>
-    <td> - </td>
+    <td> E004 </td>
 </tr>
 
 <tr>
@@ -1005,7 +1005,7 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
         Dado que el usuario tiene una cuenta registrada, cuando envía sus credenciales correctas a la API, entonces el sistema le permite iniciar sesión y acceder a su cuenta.<br>
         Escenario 2:<br>
         Dado que el usuario ingresa credenciales incorrectas, cuando intenta iniciar sesión, entonces la API devuelve un mensaje de error indicando que las credenciales no son válidas.</td>
-    <td> - </td>
+    <td> E004 </td>
 </tr>
 
 <tr>
@@ -1016,8 +1016,43 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
         Dado que el usuario desea recibir recomendaciones personalizadas, cuando envía su información de salud a la API, entonces recibe un plan de alimentación y ejercicio ajustado a sus necesidades.<br>
         Escenario 2:<br>
         Dado que el usuario cambia alguno de sus datos de salud (como peso o altura), cuando solicita nuevas recomendaciones a la API, entonces la API ajusta las recomendaciones basadas en los datos actualizados.</td>
-    <td> - </td>
+    <td> E006 </td>
 </tr>
+
+<tr>
+
+<tr>
+    <td>TS006</td>
+    <td>API para rutina de ejercicios personalizada</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione rutinas de ejercicios personalizadas basadas en los datos del usuario, para mejorar su condición física de manera adecuada.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario desea obtener una rutina de ejercicios personalizada, cuando envía su información de salud y objetivos a la API, entonces recibe una rutina de ejercicios adaptada a sus necesidades.<br>
+        Escenario 2:<br>
+        Dado que el usuario actualiza sus objetivos de entrenamiento, cuando solicita una nueva rutina a la API, entonces la API genera una nueva rutina basada en sus objetivos actualizados.</td>
+    <td> E003 </td>
+</tr>
+
+<tr>
+    <td>TS007</td>
+    <td>API para recuperación de contraseña</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios recuperar su contraseña en caso de olvido, para que puedan restablecer su acceso a la cuenta de forma segura.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario ha olvidado su contraseña, cuando solicita la recuperación mediante la API, enviando su correo electrónico registrado, entonces recibe un correo electrónico con un enlace para restablecer su contraseña.<br>
+        Escenario 2:<br>
+        Dado que el usuario intenta recuperar la contraseña utilizando un correo electrónico que no está registrado, cuando solicita la recuperación a través de la API, entonces recibe un mensaje de error indicando que el correo no está asociado a ninguna cuenta.</td>
+    <td> E004 </td>
+</tr>
+<tr>
+    <td>TS008</td>
+    <td>API para gráficos de progreso del usuario</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione gráficos de progreso visuales basados en los datos de entrenamiento y nutrición del usuario, para que los usuarios puedan monitorear su avance.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario desea ver su progreso físico, cuando solicita los gráficos de evolución a la API, entonces recibe gráficos que muestran sus mejoras en base a los datos de entrenamiento y nutrición registrados.<br>
+        Escenario 2:<br>
+        Dado que el usuario ha completado varias semanas de entrenamiento, cuando accede a los gráficos de progreso a través de la API, entonces los gráficos muestran comparativas semanales o mensuales de sus datos.</td>
+    <td> E002 </td>
+</tr>
+
  
   <tr>
     <td>EP001</td>
@@ -1101,6 +1136,14 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 20 | HU20         | Formulario de consulta  | Como usuario quiero comunicarme con VidaActiva para solucionar unas dudas acerca del producto mediante un formulario en la parte inferior de la landing page. | 2            |
 | 21      | HU21           | Registro de Cuenta    | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles desde la landing page. | 5            |
 | 22      | HU22           | Inicio de Sesión      | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación desde la landing page. | 5            |
+| 23 | TS001  | API para obtener información nutricional de un alimento | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita obtener información nutricional de alimentos específicos, para que los usuarios puedan conocer los valores nutricionales de los alimentos que consumen.                                                        | 5           |
+| 24 | TS002  | API para registrar nuevos usuarios en la plataforma | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita registrar nuevos usuarios en la plataforma, para que puedan acceder a todas las funcionalidades de la aplicación.                                                                                      | 8           |
+| 25 | TS003  | API para actualizar información de perfil de usuario | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios actualizar la información de su perfil, para mantener sus datos personales al día.                                                                                                    | 3           |
+| 26 | TS004  | API para inicio de sesión de usuarios           | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios iniciar sesión en la plataforma, para que puedan acceder a sus cuentas y funcionalidades personalizadas.                                                                              | 8           |
+| 27 | TS005  | API para recomendaciones personalizadas        | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que ofrezca recomendaciones personalizadas de planes de alimentación y actividad física, basadas en los datos del usuario, para mejorar su bienestar.                                                        | 13          |
+| 28 | TS006  | API para rutina de ejercicios personalizada     | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione rutinas de ejercicios personalizadas basadas en los datos del usuario, para mejorar su condición física de manera adecuada.                                                                  | 5           |
+| 29 | TS007  | API para recuperación de contraseña            | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios recuperar su contraseña en caso de olvido, para que puedan restablecer su acceso a la cuenta de forma segura.                                                                       | 3           |
+| 30 | TS008  | API para gráficos de progreso del usuario       | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione gráficos de progreso visuales basados en los datos de entrenamiento y nutrición del usuario, para que los usuarios puedan monitorear su avance.                                                 | 8           |
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
