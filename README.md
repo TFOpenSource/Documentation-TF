@@ -1477,6 +1477,13 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
+Enlace Figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2 <br>
+User Goal: Registrar usuario <br>
+<img src="Img/Web App Wireflow Diagrams.png"> <br>
+User Goal: Escojo de planes <br>
+<img src="Img/Web App Wireflow Diagrams2.png"> <br>
+Añadir dieta: <br>
+<img src="Img/Web App Wireflow Diagrams3.png"> <br>
 
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
 
