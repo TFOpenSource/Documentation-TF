@@ -754,7 +754,7 @@ En la gestión de proyectos de desarrollo de software, los "Epics" representan u
 <div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
 
 Es una técnica de medición estratégica que ayuda a los equipos de desarrollo a alinear las actividades con los objetivos de negocios. A continuación Impact Map en diferentes contextos:
-<img src="Img/imagen_2024-09-05_181533328.png">
+<img src="Img/imagen_2024-09-05_181533328.png" alt="Impact Mapping">
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
@@ -1299,7 +1299,12 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 
 <div id='8.'><h2>CAPÍTULO VIII: ANEXOS </h2></div>
 
-Enlace para acceder a la landing page: https://tfopensource.github.io/Landing_Page/
-
-Video exposición TB1: 
+| Descripcion | Enlace |
+|-------------|--------|
+|Url Del Repositorio| https://github.com/TFOpenSource |
+|Enlace para acceder a la landing page: | https://tfopensource.github.io/Landing_Page/ |
+|Video Exposicion TB1: | |
+|Diapositivas TB1: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit | 
+|Url del As-Is Scenario Mapping | https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1| |
+|Url Figma NutriMove| https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1| 
 
