@@ -1284,43 +1284,117 @@ La propuesta de UI para la Landing Page traduce las decisiones de diseño y arqu
 
 Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2&node-type=CANVAS&t=wF2yISmwEvN14sh4-0
 
-#### Home:
+#### Landing Page Wireframe:
 
-- Aqui encontraremos el frame que se le mostrara al usuario cuando entre a nuestra landing.
+- **Home:** Aqui encontraremos el frame que se le mostrara al usuario cuando entre a nuestra landing.
 
 <img src="Img/landing-desktop-home.jpg" alt="landing home">
 
-#### Suscripciones:
-
-- Aqui encontraremos frames que nos mostraran los planes que ofreceremos en NutriMove.
+- **Suscripciones:** Aqui encontraremos frames que nos mostraran los planes que ofreceremos en NutriMove.
 
 <img src="Img/landing-desktop-suscripcion.jpg" alt="landing suscripciones">
 <img src="Img/landing-desktop-home-suscripciones-al.jpg" alt="landing suscripciones alimentacion">
 <img src="Img/landing-desktop-home-suscripciones-ej.jpg" alt="landing suscripciones ejercicio">
 <img src="Img/landing-desktop-home-suscripciones-am.jpg" alt="landing suscripciones ambos">
 
-#### Home:
-
-- Aqui encontraremos el frame que muestra las opiniones de nuestros usuarios.
+- **Testimonios:** Aqui encontraremos el frame que muestra las opiniones de nuestros usuarios.
 
 <img src="Img/landing-desktop-testimonios.jpg" alt="landing testimonios">
 
-#### Contacto:
-
-- Aqui encontraremos el frame que muestra al usuarios un formulario para contactarse con nosotros.
+- **Contacto:** Aqui encontraremos el frame que muestra al usuarios un formulario para contactarse con nosotros.
 
 <img src="Img/landing-desktop-contacto.jpg" alt="landing contacto">
 
-#### Login:
-
-- Aqui encontraremos frames para iniciar sesión, crear una cuenta y recuperar cuenta.
+- **Login:** Aqui encontraremos frames para iniciar sesión, crear una cuenta y recuperar cuenta.
 
 <img src="Img/landing-desktop-login.jpg" alt="landing login">
 <img src="Img/landing-desktop-login-cc.jpg" alt="landing login crear">
 <img src="Img/landing-desktop-login-rc.jpg" alt="landing login recuperar">
 
+#### Landing Mobile Web Browser Wireframe:
+
+- **Home:** Aqui encontraremos el frame de home adaptado a mobile.
+
+<img src="Img/landing-mobile-home.png" alt="landing home">
+
+- **Suscripciones:** Aqui encontraremos los frames de suscripciones adaptados a mobile.
+
+<img src="Img/landing-mobile-suscripciones.png" alt="landing suscripciones">
+<img src="Img/landing-mobile-suscripciones-al.png" alt="landing suscripciones alimentacion">
+<img src="Img/landing-mobile-suscripciones-ej.png" alt="landing suscripciones ejercicio">
+<img src="Img/landing-mobile-suscripciones-am.png" alt="landing suscripciones ambos">
+
+- **Testimonios:** Aqui encontraremos el frame que muestra las opiniones adptado a mobile.
+
+<img src="Img/landing-mobile-testimonios.png" alt="landing testimonios">
+
+- **Contacto:** Aqui encontraremos el frame que muestra al usuarios un formulario para contactarse con nosotros.
+
+<img src="Img/landing-mobile-contacto.png" alt="landing contacto">
+
+- **Login:** Aqui encontraremos frames para iniciar sesión, crear una cuenta y recuperar cuenta.
+
+<img src="Img/landing-mobile-login.png" alt="landing login">
+<img src="Img/landing-mobile-login-cc.png" alt="landing login crear">
+<img src="Img/landing-mobile-login-rc.png" alt="landing login recuperar">
+
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
+Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2&node-type=CANVAS&t=wF2yISmwEvN14sh4-0
+
+#### Landing Page Mock-up:
+
+- **Home:** Aqui encontraremos el frame que se le mostrara al usuario cuando entre a nuestra landing.
+
+<img src="Img/landing-desktop-mockup-home.png" alt="landing mockup home">
+
+- **Suscripciones:** Aqui encontraremos frames que nos mostraran los planes que ofreceremos en NutriMove.
+
+<img src="Img/landing-desktop-mockup-suscripciones.png" alt="landing suscripciones">
+<img src="Img/landing-desktop-mockup-suscripciones-al.png" alt="landing mockup suscripciones alimentacion">
+<img src="Img/landing-desktop-mockup-suscripciones-ej.png" alt="landing mockup suscripciones ejercicio">
+<img src="Img/landing-desktop-mockup-suscripciones-am.png" alt="landing mockup suscripciones ambos">
+
+- **Testimonios:** Aqui encontraremos el frame que muestra las opiniones de nuestros usuarios.
+
+<img src="Img/landing-desktop-mockup-testimonios.png" alt="landing mockup testimonios">
+
+- **Contacto:** Aqui encontraremos el frame que muestra al usuarios un formulario para contactarse con nosotros.
+
+<img src="Img/landing-desktop-mockup-contacto.png" alt="landing mockup contacto">
+
+- **Login:** Aqui encontraremos frames para iniciar sesión, crear una cuenta y recuperar cuenta.
+
+<img src="Img/landing-desktop-mockup-login.png" alt="landing mockup login">
+<img src="Img/landing-desktop-mockup-login-cc.png" alt="landing mockup login crear">
+<img src="Img/landing-desktop-mockup-login-rc.png" alt="landing mockup login recuperar">
+
+#### Landing Mobile Web Browser Mock-up:
+
+- **Home:** Aqui encontraremos el frame de home adaptado a mobile.
+
+<img src="Img/landing-mobile-mockup-home.png" alt="landing mockup home">
+
+- **Suscripciones:** Aqui encontraremos los frames de suscripciones adaptados a mobile.
+
+<img src="Img/landing-mobile-mockup-suscripciones.png" alt="landing suscripciones">
+<img src="Img/landing-mobile-mockup-suscripciones-al.png" alt="landing mockup suscripciones alimentacion">
+<img src="Img/landing-mobile-mockup-suscripciones-ej.png" alt="landing mockup suscripciones ejercicio">
+<img src="Img/landing-mobile-mockup-suscripciones-am.png" alt="landing mockup suscripciones ambos">
+
+- **Testimonios:** Aqui encontraremos el frame que muestra las opiniones adptado a mobile.
+
+<img src="Img/landing-mobile-mockup-testimonios.png" alt="landing mockup testimonios">
+
+- **Contacto:** Aqui encontraremos el frame que muestra al usuarios un formulario para contactarse con nosotros.
+
+<img src="Img/landing-mobile-mockup-contacto.png" alt="landing mockup contacto">
+
+- **Login:** Aqui encontraremos frames para iniciar sesión, crear una cuenta y recuperar cuenta.
+
+<img src="Img/landing-mobile-mockup-login.png" alt="landing mockup login">
+<img src="Img/landing-mobile-mockup-login-cc.png" alt="landing mockup login crear">
+<img src="Img/landing-mobile-mockup-login-rc.png" alt="landing mockup login recuperar">
 
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 
