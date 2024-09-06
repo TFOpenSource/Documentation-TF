@@ -755,6 +755,12 @@ Posicionamiento de la plataforma como referente mundial en soluciones de bienest
 
 
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+	En esta sección, examinamos cómo el mapeo de escenarios To-Be puede redefinir nuestra aproximación al seguimiento del ejercicio y la nutrición, y orientar el desarrollo de nuestra aplicación web. Este enfoque nos permite visualizar un futuro donde los usuarios gestionan su salud de manera más eficaz, a través de funcionalidades avanzadas y procesos optimizados. Mediante un análisis exhaustivo y una planificación estratégica, garantizamos que cada avance tecnológico no solo cumpla con las expectativas actuales, sino que también anticipe y facilite las necesidades futuras de nuestros usuarios en su camino hacia un estilo de vida más saludable.
+ <br><br>
+
+ <img src="Img/To-Be-Escenario.jpg" alt="To-Be Scenario Mapping" />
+
+ URL del To-Be Scenario Mapping: [https://www.figma.com/board/6fvAOdFqlBZNiRlu4W4IqZ/As-is-Scenario-Map-(Community)?node-id=0-1&t=bqIntouYZo5Umk93-1]
 
 
 <div id='3.2.'><h3> 3.2. User Stories.</h3></div>
