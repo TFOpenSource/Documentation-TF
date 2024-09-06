@@ -943,9 +943,77 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
+<img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/Clase%20UML.png">
 
 
 <div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único de la suscripción |
+| inicio                      | date         | Fecha de inicio de la suscripción |
+| fin                         | date         | Fecha de finalización de la suscripción |
+| precio                      | float        | Costo de la suscripción |
+| plan_mensual                | bool         | Indica si la suscripción es mensual |
+| crear_suscripcion()         | método       | Crea una nueva suscripción |
+| cancelar_suscripcion()      | método       | Cancela la suscripción existente |
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único del usuario |
+| username                    | str          | Nombre de usuario |
+| password                    | str          | Contraseña del usuario |
+| email                       | str          | Correo electrónico del usuario |
+| peso                        | float        | Peso del usuario |
+| altura                      | int          | Altura del usuario |
+| edad                        | int          | Edad del usuario |
+| registrar_usuario()         | método       | Registra un nuevo usuario |
+| actualizar_usuario()        | método       | Actualiza la información del usuario |
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único del plan de rutina de ejercicio |
+| ejercicios                  | list[Ejercicio] | Lista de ejercicios asignados al plan |
+| asignar_ejercicio()         | método       | Asigna un ejercicio al plan |
+| modificar_series_repeticiones() | método   | Modifica las series y repeticiones de los ejercicios |
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único del ejercicio |
+| nombre                      | str          | Nombre del ejercicio |
+| repeticiones                | int          | Número de repeticiones del ejercicio |
+| series                      | int          | Número de series del ejercicio |
+| crear_ejercicio()           | método       | Crea un nuevo ejercicio |
+| modificar_ejercicio()       | método       | Modifica un ejercicio existente |
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único de la rutina |
+| nombre                      | str          | Nombre de la rutina |
+| crear_rutina()              | método       | Crea una nueva rutina |
+| eliminar_rutina()           | método       | Elimina una rutina existente |
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único del plan de alimentación |
+| alimentos                   | list[Alimento] | Lista de alimentos asignados al plan |
+| asignar_alimento()          | método       | Asigna un alimento al plan |
+| modificar_cantidad()        | método       | Modifica la cantidad de un alimento en el plan |
+
+| Nombre de atributo o método | Tipo de dato | Descripción |
+|-----------------------------|--------------|-------------|
+| id                          | int          | Identificador único del alimento |
+| nombre                      | str          | Nombre del alimento |
+| calorias                    | int          | Calorías del alimento |
+| proteinas                   | float        | Cantidad de proteínas del alimento |
+| carbohidratos               | float        | Cantidad de carbohidratos del alimento |
+| grasas                      | float        | Cantidad de grasas del alimento |
+| crear_alimento()            | método       | Crea un nuevo alimento |
+| actualizar_alimento()       | método       | Actualiza un alimento existente |
+| eliminar_alimento()         | método       | Elimina un alimento existente |
+
+
+
 
 
 <div id= '4.8.'><h3>4.8. Database Design.</h4></div>
