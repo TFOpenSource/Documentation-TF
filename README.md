@@ -54,7 +54,7 @@ URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSourc
 </div>
 
 <div align="center">
-  <img src="">
+  <img src="Img/PulseInsights">
 </div>
 
 **TB1**
