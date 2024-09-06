@@ -1401,6 +1401,79 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 
+Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2&node-type=CANVAS&t=wF2yISmwEvN14sh4-0
+
+#### Web Applications Wireframe:
+
+- **Inicio:** Aqui encontraremos los frames de inicio de sesión, creación y recuperación de cuenta.
+
+<img src="Img/WebApp-Inicio.png" alt="WebApp inicio">
+<img src="Img/WebApp-Inicio-is.png" alt="WebApp inicio sesion">
+<img src="Img/WebApp-Inicio-cc.png" alt="WebApp inicio crear cuenta">
+<img src="Img/WebApp-Inicio-rc.png" alt="WebApp inicio recuperar cuenta">
+
+- **Home:** Aqui encontraremos frames que nos muestran las estadisticas del usuario.
+
+<img src="Img/WebApp-Home.png" alt="WebApp home">
+<img src="Img/WebApp-Home2.png" alt="WebApp home2">
+
+
+- **Dieta:** Aqui encontraremos el frame que muestra las dietas.
+
+<img src="Img/WebApp-Dieta.png" alt="WebApp dieta">
+<img src="Img/WebApp-Dieta2.png" alt="WebApp dieta2">
+
+- **Recomendaciones:** Aqui encontraremos el frame que muestra recomendaciones a los usuarios.
+
+<img src="Img/WebApp-Recomendaciones.png" alt="WebApp recomendaciones">
+<img src="Img/WebApp-Recomendaciones2.png" alt="WebApp recomendaciones2">
+
+- **Comunidad:** Aqui encontraremos frames relacionados a la comunidad de NutriMove.
+
+<img src="Img/WebApp-Comunidad.png" alt="WebApp comunidad">
+<img src="Img/WebApp-Comunidad2.png" alt="WebApp comunidad2">
+<img src="Img/WebApp-Comunidad3.png" alt="WebApp comunidad3">
+
+- **Perfil:** Aqui encontraremos frames relacionados al perfil del usuario.
+
+<img src="Img/WebApp-Perfil.png" alt="WebApp perfil">
+<img src="Img/WebApp-Perfil2.png" alt="WebApp perfil2">
+
+#### Web Mobile Applications Wireframe::
+
+- **Inicio:** Aqui encontraremos los frames de inicio de sesión, creación y recuperación de cuenta.
+
+<img src="Img/Webapp-mobile-inicio.png" alt="WebApp mobile inicio">
+<img src="Img/Webapp-mobile-inicio2.png" alt="WebApp mobile inicio2">
+<img src="Img/Webapp-mobile-inicio3.png" alt="WebApp mobile inicio3">
+<img src="Img/Webapp-mobile-inicio4.png" alt="WebApp mobile inicio4">
+
+- **Home:** Aqui encontraremos frames que nos muestran las estadisticas del usuario.
+
+<img src="Img/Webapp-mobile-home.png" alt="WebApp mobile home">
+<img src="Img/Webapp-mobile-home2.png" alt="WebApp mobile home2">
+
+
+- **Dieta:** Aqui encontraremos el frame que muestra las dietas.
+
+<img src="Img/Webapp-mobile-dieta.png" alt="WebApp mobile dieta">
+<img src="Img/Webapp-mobile-dieta2.png" alt="WebApp mobile dieta2">
+
+- **Recomendaciones:** Aqui encontraremos el frame que muestra recomendaciones a los usuarios.
+
+<img src="Img/Webapp-mobile-recomendaciones.png" alt="WebApp mobile recomendaciones">
+<img src="Img/Webapp-mobile-recomendaciones2.png" alt="WebApp mobile recomendaciones">
+
+- **Comunidad:** Aqui encontraremos frames relacionados a la comunidad de NutriMove.
+
+<img src="Img/Webapp-mobile-comunidad.png" alt="WebApp mobile comunidad">
+<img src="Img/Webapp-mobile-comunidad2.png" alt="WebApp mobile comunidad2">
+<img src="Img/Webapp-mobile-comunidad3.png" alt="WebApp mobile comunidad3">
+
+- **Perfil:** Aqui encontraremos frames relacionados al perfil del usuario.
+
+<img src="Img/Webapp-mobile-perfil.png" alt="WebApp mobile perfil">
+<img src="Img/Webapp-mobile-perfil2.png" alt="WebApp mobile perfil2">
 
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
