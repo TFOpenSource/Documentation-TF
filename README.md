@@ -757,6 +757,32 @@ En la gestión de proyectos de desarrollo de software, los "Epics" representan u
 Es una técnica de medición estratégica que ayuda a los equipos de desarrollo a alinear las actividades con los objetivos de negocios. A continuación Impact Map en diferentes contextos:
 <img src="Img/imagen_2024-09-05_181533328.png" alt="Impact Mapping">
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
+El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado. 
+
+| # Orden | User story ID | Título                | Description                                                                 | Story points (1,2,3,5,8,13) |
+|---------|----------------|-----------------------|-----------------------------------------------------------------------------|--------------|
+| 01      | HU01           | Registro de Cuenta    | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles. | 5            |
+| 02      | HU02           | Inicio de Sesión      | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación. | 5            |
+| 03      | HU03           | Recuperación de cuenta| Como usuario registrado, quiero poder recuperar mi cuenta en caso de olvidar mi contraseña, para restablecer mi acceso sin perder mis datos e historial de uso. | 5            |
+| 04      | HU04           | Registro de actividades diarias | Desarrollar una funcionalidad en la que se pueda guardar y ver la lista del registro de actividades detalladamente. | 5            |
+| 05 | HU05 | Visualización de gráficos de progreso | Como usuario, quiero visualizar gráficos de progreso para entender mejor mis avances en términos de salud y ejercicio. | 3 |
+| 06 | HU06 | Recomendaciones personalizadas | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis actividades registradas para mejorar mi salud. | 3 |
+| 07 | HU07 | Registro de ingesta de alimentos | Como usuario, quiero registrar mi ingesta de alimentos para controlar las calorías y nutrientes. | 5 |
+| 08 | HU08 | Actualización o personalización del perfil del usuario | Como usuario, quiero actualizar los datos de mi perfil para obtener recomendaciones y análisis precisos. | 1 |
+| 09 | HU09 | Configuración de objetivos de salud | Como usuario, quiero configurar mis objetivos de salud para que la aplicación me ayude a alcanzarlos. | 3 |
+| 10 | HU10 | Recepción de notificaciones recordatorias | Como usuario, quiero recibir notificaciones de recordatorio para registrar mis actividades diarias de salud. | 1 |
+| 11 | HU11 | Seguimiento de hidratación diaria | Como usuario, quiero llevar un seguimiento de mi consumo de agua diario para mantenerme hidratado. | 3 |
+| 12 | HU12 | Revisión de historial de actividades | Como usuario, quiero revisar mi historial de actividades para evaluar la consistencia y progreso a lo largo del tiempo. | 5 |
+| 13 | HU13 | Visualización de estadísticas de salud | Como usuario, quiero ver estadísticas detalladas de mi salud para entender mejor mis patrones y ajustar mis hábitos en consecuencia. | 5 |
+| 14 | HU14 | Acceso a la comunidad | Como usuario, quiero acceder a una comunidad de usuarios para compartir experiencias y obtener apoyo en mi camino hacia la salud. | 5 |
+| 15 | HU15 | Configuración del perfil privado | Como usuario, quiero configurar la privacidad de mi perfil para controlar quién puede ver mi información personal. | 1 |
+| 16 | HU16 | Acceso a contenido educativo | Como usuario, quiero acceder a contenido educativo sobre salud y bienestar para aprender a mejorar mi estilo de vida. | 1 |
+| 17 | HU17 | Acceso a rutinas de ejercicio | Como usuario, quiero acceder a contenido sobre rutinas de ejercicio en base a mis propósitos y metas. | 5 |
+18 | HU18          | Acceso a navegador web  | Como usuario quiero visualizar un navegador para poder interactuar libremente con la landing page| 3            |
+19 | HU19        | Cambio de idioma        | Como usuario quiero configurar la página y ver en distintos idiomas mediante un botón en el navegador de la landing page. | 5            |
+20 | HU20         | Formulario de consulta  | Como usuario quiero comunicarme con VidaActiva para solucionar unas dudas acerca del producto mediante un formulario en la parte inferior de la landing page. | 2            |
+| 21      | HU21           | Registro de Cuenta    | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles desde la landing page. | 5            |
+| 22      | HU22           | Inicio de Sesión      | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación desde la landing page. | 5            |
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
