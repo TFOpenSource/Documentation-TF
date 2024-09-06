@@ -934,15 +934,20 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
+	Para crear diagramas efectivos que representen la arquitectura de nuestro proyecto, es fundamental realizar un análisis exhaustivo del funcionamiento de la aplicación. Utilizaremos el modelo de lenguaje C4 en Structurizr para ofrecer una visión clara y detallada de la arquitectura de nuestro sistema. Este enfoque nos permitirá ilustrar de manera precisa cómo interactúan los distintos componentes y usuarios de la aplicación, asegurando una comprensión integral del diseño y facilitando la comunicación entre el equipo y las partes interesadas.
 
 
 <div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
 
+<img src="Img/context-arch.png">
 
 <div id= '4.6.2'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
 
+<img src="Img/containet-arch.png">
 
 <div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
+
+<img src="Img/component-arch.png">
 
 
 <div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
