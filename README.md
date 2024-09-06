@@ -351,7 +351,11 @@ El problema tiene un impacto significativo en la efectividad de los esfuerzos de
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
+Creemos que al implementar un sistema de recompensas por cumplir con metas de actividad diaria, los usuarios estarán más motivados para mantener un registro constante en la aplicación de bienestar y salud. Sabremos que estamos en lo correcto cuando veamos un aumento del 20% en la cantidad de metas alcanzadas por los usuarios.
 
+Creemos que al integrar gráficos de progreso más visuales y fáciles de entender, los usuarios se sentirán más incentivados a continuar registrando sus actividades diarias. Sabremos que estamos en lo correcto cuando veamos un incremento del 15% en la frecuencia con la que los usuarios revisan su progreso, medido a través de métricas de interacción con los gráficos.
+
+Creemos que al ofrecer recomendaciones personalizadas basadas en los patrones de actividad y preferencias individuales, los usuarios encontrarán más valor en la aplicación y serán más constantes en su uso. Sabremos que estamos en lo correcto cuando veamos un aumento del 25% en la tasa de adopción de las recomendaciones sugeridas por la aplicación.
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 Después de completar los pasos del proceso Lean UX, se dispone a crear el Lean UX Canvas, el cual nos permitirá obtener una perspectiva completa del problema y comenzar la investigación inicial antes de diseñar la propuesta de solución.
