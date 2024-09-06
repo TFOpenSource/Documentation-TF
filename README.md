@@ -956,6 +956,61 @@ Dado que el usuario no tiene una cuenta registrada, Cuando ingresa su correo ele
 Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electrónico y contraseña correctos y hace clic en el botón de iniciar sesión, Entonces debería ser redirigido a la pantalla principal a la aplicación web con acceso a todas las funcionalidades de la aplicación<br>.</td>
     <td>EP007</td>
   </tr>
+<tr>
+    <td>TS001</td>
+    <td>API para obtener información nutricional de un alimento</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita obtener información nutricional de alimentos específicos, para que los usuarios puedan conocer los valores nutricionales de los alimentos que consumen.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario quiere conocer la información nutricional de un alimento, cuando solicita los detalles nutricionales de un alimento específico a la API, entonces recibe los datos como calorías, proteínas, grasas, carbohidratos, y otros valores en el formato esperado.<br>
+        Escenario 2:<br>
+        Dado que el usuario ingresa el nombre de un alimento, cuando la API no encuentra coincidencias en su base de datos, entonces la API devuelve un mensaje de error indicando que no se encontró información para ese alimento.</td>
+    <td> - </td>
+</tr>
+
+<tr>
+    <td>TS002</td>
+    <td>API para registrar nuevos usuarios en la plataforma</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita registrar nuevos usuarios en la plataforma, para que puedan acceder a todas las funcionalidades de la aplicación.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario desea registrarse en la aplicación, cuando envía la información necesaria a la API, entonces su cuenta se crea correctamente y recibe una confirmación.<br>
+        Escenario 2:<br>
+        Dado que el usuario no proporciona toda la información requerida, cuando intenta registrarse, entonces recibe un mensaje de error indicando los campos faltantes o inválidos.</td>
+    <td> - </td>
+</tr>
+
+<tr>
+    <td>TS003</td>
+    <td>API para actualizar información de perfil de usuario</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios actualizar la información de su perfil, para mantener sus datos personales al día.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario quiere actualizar su perfil, cuando envía una solicitud con la información modificada, entonces la API guarda los cambios correctamente.<br>
+        Escenario 2:<br>
+        Dado que el usuario intenta enviar información incompleta o inválida, cuando la API recibe la solicitud, entonces devuelve un mensaje de error indicando qué información necesita ser corregida.</td>
+    <td> - </td>
+</tr>
+
+<tr>
+    <td>TS004</td>
+    <td>API para inicio de sesión de usuarios</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios iniciar sesión en la plataforma, para que puedan acceder a sus cuentas y funcionalidades personalizadas.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario tiene una cuenta registrada, cuando envía sus credenciales correctas a la API, entonces el sistema le permite iniciar sesión y acceder a su cuenta.<br>
+        Escenario 2:<br>
+        Dado que el usuario ingresa credenciales incorrectas, cuando intenta iniciar sesión, entonces la API devuelve un mensaje de error indicando que las credenciales no son válidas.</td>
+    <td> - </td>
+</tr>
+
+<tr>
+    <td>TS005</td>
+    <td>API para recomendaciones personalizadas</td>
+    <td>Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que ofrezca recomendaciones personalizadas de planes de alimentación y actividad física, basadas en los datos del usuario, para mejorar su bienestar.</td>
+    <td>Escenario 1:<br>
+        Dado que el usuario desea recibir recomendaciones personalizadas, cuando envía su información de salud a la API, entonces recibe un plan de alimentación y ejercicio ajustado a sus necesidades.<br>
+        Escenario 2:<br>
+        Dado que el usuario cambia alguno de sus datos de salud (como peso o altura), cuando solicita nuevas recomendaciones a la API, entonces la API ajusta las recomendaciones basadas en los datos actualizados.</td>
+    <td> - </td>
+</tr>
+ 
   <tr>
     <td>EP001</td>
     <td>Gestión de Actividades de Salud</td>
