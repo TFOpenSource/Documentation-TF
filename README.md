@@ -470,7 +470,7 @@ Comunidad altamente activa y la ayuda mutua de los clientes mediante recomendaci
 
 El análisis de la competencia en el mercado nos permite entender mejor el entorno en el que competirá nuestro producto. Esto nos ayuda a desarrollar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.
 
-| Aspecto                 | **NutriMove** <br> ![NutriMove Logo](Img/logo.jpg) | **Cronometer** <br> ![Cronometer Logo](Img/logo-cronometer.jpg) | **Lose It!** <br> ![Lose It! Logo](Img/logo-loseit.jpg) | **SparkPeople** <br> ![SparkPeople Logo](Img/logo-spark.jpg) |
+| Aspecto                 | **NutriMove** <br> <img src="Img/logo.jpg" alt="Logo NutriMove"> | **Cronometer** <br> <img src="Img/logo-cronometer.jpg" alt="Logo Cronometer"> | **Lose It!** <br> <img src="Img/logo-loseit.jpg" alt="Logo Loseit"> | **SparkPeople** <br> <img src="Img/logo-spark.jpg" alt="Logo Spark People"> |
 |-------------------------|---------------------------------------------------|----------------------------------------------------|------------------------------------------------|---------------------------------------------------|
 | **Overview**             | Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio. | Sitio web que permite a los usuarios hacer un seguimiento detallado de su ingesta de alimentos y nutrientes, así como de sus actividades físicas. | Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas. | Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo. |
 | **Ventaja Competitiva**  | Personalización profunda que ofrece en las recomendaciones de salud y bienestar, utilizando datos recogidos de la actividad diaria de los usuarios. | Enfoque en la precisión del seguimiento de micronutrientes y base de datos científica. | Simplicidad y enfoque en la pérdida de peso. | Comunidad activa y soporte social, lo que fomenta la motivación y la adherencia a los programas de salud y bienestar. |
@@ -1278,9 +1278,46 @@ El sistema de búsqueda es esencial para facilitar el acceso rápido a la inform
 
 <div id= '4.3.'><h3>4.3. Landing Page UI Design.</h3></div>
 
+La propuesta de UI para la Landing Page traduce las decisiones de diseño y arquitectura de la información en una experiencia de usuario fluida y atractiva. Hemos creado una interfaz intuitiva que facilita la navegación y resalta los beneficios de nuestros planes. Cada sección está estratégicamente organizada para guiar al usuario a través de la propuesta de valor, optimizando la conversión y asegurando una buena experiencia web y móvil.
 
 <div id= '4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
 
+Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2&node-type=CANVAS&t=wF2yISmwEvN14sh4-0
+
+#### Home:
+
+- Aqui encontraremos el frame que se le mostrara al usuario cuando entre a nuestra landing.
+
+<img src="Img/landing-desktop-home.jpg" alt="landing home">
+
+#### Suscripciones:
+
+- Aqui encontraremos frames que nos mostraran los planes que ofreceremos en NutriMove.
+
+<img src="Img/landing-desktop-suscripcion.jpg" alt="landing suscripciones">
+<img src="Img/landing-desktop-home-suscripciones-al.jpg" alt="landing suscripciones alimentacion">
+<img src="Img/landing-desktop-home-suscripciones-ej.jpg" alt="landing suscripciones ejercicio">
+<img src="Img/landing-desktop-home-suscripciones-am.jpg" alt="landing suscripciones ambos">
+
+#### Home:
+
+- Aqui encontraremos el frame que muestra las opiniones de nuestros usuarios.
+
+<img src="Img/landing-desktop-testimonios.jpg" alt="landing testimonios">
+
+#### Contacto:
+
+- Aqui encontraremos el frame que muestra al usuarios un formulario para contactarse con nosotros.
+
+<img src="Img/landing-desktop-contacto.jpg" alt="landing contacto">
+
+#### Login:
+
+- Aqui encontraremos frames para iniciar sesión, crear una cuenta y recuperar cuenta.
+
+<img src="Img/landing-desktop-login.jpg" alt="landing login">
+<img src="Img/landing-desktop-login-cc.jpg" alt="landing login crear">
+<img src="Img/landing-desktop-login-rc.jpg" alt="landing login recuperar">
 
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
@@ -1324,6 +1361,7 @@ El sistema de búsqueda es esencial para facilitar el acceso rápido a la inform
 
 
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
+
 <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/Clase%20UML.png">
 
 
