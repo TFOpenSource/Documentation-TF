@@ -1480,6 +1480,74 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
 
+Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2&node-type=CANVAS&t=wF2yISmwEvN14sh4-0
+
+#### Web Applications Mock-ups:
+
+- **Inicio:** Aqui encontraremos los frames de inicio de sesión, creación y recuperación de cuenta.
+
+<img src="Img/Webapp-mockup-inicio.png" alt="WebApp mockup inicio">
+<img src="Img/WebApp-mockup-inicio-is.png" alt="WebApp mockup inicio sesion">
+<img src="Img/WebApp-mockup-inicio-cc.png" alt="WebApp mockup inicio crear cuenta">
+<img src="Img/WebApp-mockup-inicio-rc.png" alt="WebApp mockup inicio recuperar cuenta">
+
+- **Home:** Aqui encontraremos frames que nos muestran las estadisticas del usuario.
+
+<img src="Img/WebApp-mockup-home.png" alt="WebApp mockup home">
+
+- **Dieta:** Aqui encontraremos el frame que muestra las dietas.
+
+<img src="Img/WebApp-mockup-dieta.png" alt="WebApp mockup dieta">
+
+- **Recomendaciones:** Aqui encontraremos el frame que muestra recomendaciones a los usuarios.
+
+<img src="Img/WebApp-mockup-recomendaciones.png" alt="WebApp mockup recomendaciones">
+
+- **Comunidad:** Aqui encontraremos frames relacionados a la comunidad de NutriMove.
+
+<img src="Img/WebApp-mockup-comunidad.png" alt="WebApp mockup comunidad">
+<img src="Img/WebApp-mockup-comunidad2.png" alt="WebApp mockup comunidad">
+
+- **Perfil:** Aqui encontraremos frames relacionados al perfil del usuario.
+
+<img src="Img/WebApp-mockup-perfil.png" alt="WebApp mockup perfil">
+
+#### Web Mobile Applications Mobile Mock-ups:
+
+- **Inicio:** Aqui encontraremos los frames de inicio de sesión, creación y recuperación de cuenta.
+
+<img src="Img/Webapp-mobile-mockup-inicio.png" alt="WebApp mobile mockup inicio">
+<img src="Img/Webapp-mobile-mockup-inicio2.png" alt="WebApp mobile mockup inicio2">
+<img src="Img/Webapp-mobile-mockup-inicio3.png" alt="WebApp mobile mockup inicio3">
+<img src="Img/Webapp-mobile-mockup-inicio4.png" alt="WebApp mobile mockup inicio4">
+
+- **Home:** Aqui encontraremos frames que nos muestran las estadisticas del usuario.
+
+<img src="Img/Webapp-mobile-mockup-home.png" alt="WebApp mobile mockup home">
+<img src="Img/Webapp-mobile-mockup-home2.png" alt="WebApp mobile mockup home2">
+
+
+- **Dieta:** Aqui encontraremos el frame que muestra las dietas.
+
+<img src="Img/Webapp-mobile-mockup-dieta.png" alt="WebApp mobile mockup dieta">
+<img src="Img/Webapp-mobile-mockup-dieta2.png" alt="WebApp mobile mockup dieta2">
+
+- **Recomendaciones:** Aqui encontraremos el frame que muestra recomendaciones a los usuarios.
+
+<img src="Img/Webapp-mobile-mockup-recomendaciones.png" alt="WebApp mobile mockup recomendaciones">
+<img src="Img/Webapp-mobile-mockup-recomendaciones2.png" alt="WebApp mobile mockup recomendaciones">
+
+- **Comunidad:** Aqui encontraremos frames relacionados a la comunidad de NutriMove.
+
+<img src="Img/Webapp-mobile-mockup-comunidad.png" alt="WebApp mobile mockup comunidad">
+<img src="Img/Webapp-mobile-mockup-comunidad2.png" alt="WebApp mobile mockup comunidad2">
+<img src="Img/Webapp-mobile-mockup-comunidad3.png" alt="WebApp mobile mockup comunidad3">
+
+- **Perfil:** Aqui encontraremos frames relacionados al perfil del usuario.
+
+<img src="Img/Webapp-mobile-mockup-perfil.png" alt="WebApp mobile mockup perfil">
+<img src="Img/Webapp-mobile-mockup-perfi2.png" alt="WebApp mobile mockup perfil2">
+
 
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
