@@ -731,6 +731,14 @@ En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que v
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
+Segmento 1: Dieta saludable, comer bien, bajar de peso  
+
+<img src="Img/Juan Pérez.png" alt="User Persona Juan Pérez" />
+
+Segmento 2: Hacer ejercicio, rutinas 
+
+<img src="Img/María López.png" alt="User Persona María López" />
+
 <div id='2.3.5.'><h4> 2.3.5. As-Is Scenario Mapping.</h4></div>
 Este subapartado se centra en documentar y analizar la situación actual de los usuarios al realizar sus actividades normales sin un sistema de prevención de robos. A través de esta técnica, se identifican los procesos, comportamientos y experiencias existentes, destacando los problemas, ineficiencias y oportunidades de mejora. Este mapeo permite que el equipo de desarrollo comprenda mejor las limitaciones del contexto actual y diseñe soluciones que ofrezcan una mejora significativa en la experiencia del usuario, guiando el desarrollo hacia intervenciones más efectivas y centradas en el usuario.
 <br><br>
