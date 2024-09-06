@@ -1390,10 +1390,10 @@ Landing Page:
 | Alumno  | Actividad |
 | -------- | -------- |
 | Bohorquez Lerzundi Gerardo Sebastian| Implementación de la sección de encabezado de la landing page.     |
-| Luza Carhuamaca, Jose Adrian | Implementación de la sección de preguntas frecuentes y valores de la empresa.|
-| Jimenez Melgar, Daniel Luciano | Implementación de la sección principal, beneficios y contacto.|
-| Silva Tirado, Sebastian Valentino | Implementación de la sección de aprendizaje.|
-| Uribe Quispe, Jesús Guillermo | Implementación de la sección de pie de página y colaboradores.|
+| Luza Carhuamaca, Jose Adrian | Implementación de los tipos de servicio a elegir|
+| Jimenez Melgar, Daniel Luciano | Implementación de la sección principal y contacto.|
+| Silva Tirado, Sebastian Valentino | Implementación de la sección de más información de los servicios.|
+| Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login, Register y Cambio de idioma.|
 
 <div id='5.3.'><h3> 5.3.  Validation Interviews.</h3></div>
 
