@@ -1489,7 +1489,7 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 <img src="Img/Webapp-mockup-inicio.png" alt="WebApp mockup inicio">
 <img src="Img/WebApp-mockup-inicio-is.png" alt="WebApp mockup inicio sesion">
 <img src="Img/WebApp-mockup-inicio-cc.png" alt="WebApp mockup inicio crear cuenta">
-<img src="Img/WebApp-mockup-inicio-rc.png" alt="WebApp mockup inicio recuperar cuenta">
+<img src="Img/WebApp-mockup-nicio-rc.png" alt="WebApp mockup inicio recuperar cuenta">
 
 - **Home:** Aqui encontraremos frames que nos muestran las estadisticas del usuario.
 
@@ -1546,7 +1546,7 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 - **Perfil:** Aqui encontraremos frames relacionados al perfil del usuario.
 
 <img src="Img/Webapp-mobile-mockup-perfil.png" alt="WebApp mobile mockup perfil">
-<img src="Img/Webapp-mobile-mockup-perfi2.png" alt="WebApp mobile mockup perfil2">
+<img src="Img/Webapp-mobile-mockup-perfil2.png" alt="WebApp mobile mockup perfil2">
 
 
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
