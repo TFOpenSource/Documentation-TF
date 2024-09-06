@@ -356,32 +356,32 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
-##**Business Assumptions**
--**Creemos que nuestros usuarios necesitan una manera más eficiente y personalizada de gestionar su bienestar físico y mental.**
--**Estas necesidades se pueden resolver mediante el uso de una aplicación web que registre y analice actividades diarias como ejercicio, alimentación y sueño, ofreciendo recomendaciones personalizadas basadas en estos datos.**
--**Los usuarios iniciales son personas activas o que desean mejorar su salud y bienestar mediante el seguimiento y análisis de sus actividades diarias.**
--**El valor #1 que un usuario busca en el servicio es la capacidad de tener un control integral sobre su bienestar, con información y recomendaciones que les permitan alcanzar sus objetivos de salud de manera efectiva.**
--**El usuario también puede obtener beneficios adicionales con funcionalidades como el seguimiento de metas, alertas para hábitos saludables, y la integración con dispositivos de fitness, lo que les permitirá mejorar su estilo de vida de manera continua y holística.**
--**Vamos a adquirir la mayoría de los usuarios a través de campañas de marketing digital, asociaciones con gimnasios y nutricionistas, y la creación de contenido educativo sobre salud y bienestar que aumente la visibilidad de la aplicación.**
--**Se hará dinero a través de las ventas de suscripciones a diferentes niveles de acceso a la plataforma, incluyendo planes premium con características avanzadas y personalización adicional.**
+**Business Assumptions**<br>
+- Creemos que nuestros usuarios necesitan una manera más eficiente y personalizada de gestionar su bienestar físico y mental.
+- Estas necesidades se pueden resolver mediante el uso de una aplicación web que registre y analice actividades diarias como ejercicio, alimentación y sueño, ofreciendo recomendaciones personalizadas basadas en estos datos.
+- Los usuarios iniciales son personas activas o que desean mejorar su salud y bienestar mediante el seguimiento y análisis de sus actividades diarias.
+- El valor #1 que un usuario busca en el servicio es la capacidad de tener un control integral sobre su bienestar, con información y recomendaciones que les permitan alcanzar sus objetivos de salud de manera efectiva.
+- El usuario también puede obtener beneficios adicionales con funcionalidades como el seguimiento de metas, alertas para hábitos saludables, y la integración con dispositivos de fitness, lo que les permitirá mejorar su estilo de vida de manera continua y holística.
+- Vamos a adquirir la mayoría de los usuarios a través de campañas de marketing digital, asociaciones con gimnasios y nutricionistas, y la creación de contenido educativo sobre salud y bienestar que aumente la visibilidad de la aplicación.
+- Se hará dinero a través de las ventas de suscripciones a diferentes niveles de acceso a la plataforma, incluyendo planes premium con características avanzadas y personalización adicional.
 -Nuestra competencia principal en el mercado serán otras aplicaciones de bienestar que no ofrecen una personalización profunda o que carecen de análisis detallados de actividades diarias.
--**Los superaremos mediante el uso de tecnologías avanzadas de análisis de datos, un enfoque centrado en el usuario, y la integración con múltiples dispositivos y plataformas, ofreciendo un servicio que se adapta continuamente a las necesidades de los usuarios.**
--**Nuestro mayor riesgo es la falta de adherencia por parte de los usuarios, quienes podrían desmotivarse si no ven resultados rápidos o si la aplicación es demasiado compleja de usar.**
--**Resolveremos esto mediante un diseño intuitivo y motivador, además de proporcionar guías y soporte continuo para que los usuarios puedan aprovechar al máximo la aplicación desde el primer día.**
+- Los superaremos mediante el uso de tecnologías avanzadas de análisis de datos, un enfoque centrado en el usuario, y la integración con múltiples dispositivos y plataformas, ofreciendo un servicio que se adapta continuamente a las necesidades de los usuarios.
+- Nuestro mayor riesgo es la falta de adherencia por parte de los usuarios, quienes podrían desmotivarse si no ven resultados rápidos o si la aplicación es demasiado compleja de usar.
+- Resolveremos esto mediante un diseño intuitivo y motivador, además de proporcionar guías y soporte continuo para que los usuarios puedan aprovechar al máximo la aplicación desde el primer día.
 
-##**Assumptions worksheet**
--**¿Quién es el usuario?
+**Assumptions worksheet**<br>
+- ¿Quién es el usuario?
 Personas activas o que buscan mejorar su salud y bienestar mediante el seguimiento de sus actividades diarias.**
--**¿Dónde encaja nuestro producto en su vida?
+- ¿Dónde encaja nuestro producto en su vida?
 Nuestra aplicación se integra en la vida diaria de los usuarios para registrar y analizar sus actividades de ejercicio, alimentación y sueño, ofreciendo recomendaciones que los ayudan a mejorar su bienestar general.**
--**¿Qué problemas tiene nuestro producto? ¿Resolver?
-La falta de motivación y adherencia a largo plazo puede ser un desafío para algunos usuarios. También, la complejidad de uso podría desanimar a usuarios menos tecnológicos.**
--**¿Cuándo y cómo es nuestro producto usado?
-La aplicación se utiliza a diario para registrar actividades, revisar gráficos de progreso, y recibir recomendaciones personalizadas. Los usuarios pueden acceder a ella desde cualquier dispositivo conectado a internet.**
--**¿Qué características son importantes?
-Personalización de recomendaciones, integración con dispositivos de fitness, accesibilidad en múltiples plataformas, gráficos de progreso intuitivos, y alertas automáticas para hábitos saludables.**
--**¿Cómo debe verse nuestro producto y cómo comportarse?
-Debe tener un diseño limpio, motivador y fácil de usar, con una interfaz que promueva la acción y el seguimiento continuo. La aplicación debe ser rápida, fiable y ofrecer una experiencia de usuario fluida en cualquier dispositivo.**
+- ¿Qué problemas tiene nuestro producto? ¿Resolver?
+La falta de motivación y adherencia a largo plazo puede ser un desafío para algunos usuarios. También, la complejidad de uso podría desanimar a usuarios menos tecnológicos.
+- ¿Cuándo y cómo es nuestro producto usado?
+La aplicación se utiliza a diario para registrar actividades, revisar gráficos de progreso, y recibir recomendaciones personalizadas. Los usuarios pueden acceder a ella desde cualquier dispositivo conectado a internet.
+- ¿Qué características son importantes?
+Personalización de recomendaciones, integración con dispositivos de fitness, accesibilidad en múltiples plataformas, gráficos de progreso intuitivos, y alertas automáticas para hábitos saludables.
+- ¿Cómo debe verse nuestro producto y cómo comportarse?
+Debe tener un diseño limpio, motivador y fácil de usar, con una interfaz que promueva la acción y el seguimiento continuo. La aplicación debe ser rápida, fiable y ofrecer una experiencia de usuario fluida en cualquier dispositivo.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
