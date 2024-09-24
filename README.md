@@ -797,7 +797,7 @@ Posicionamiento de la plataforma como referente mundial en soluciones de bienest
 
 
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
-	En esta sección, examinamos cómo el mapeo de escenarios To-Be puede redefinir nuestra aproximación al seguimiento del ejercicio y la nutrición, y orientar el desarrollo de nuestra aplicación web. Este enfoque nos permite visualizar un futuro donde los usuarios gestionan su salud de manera más eficaz, a través de funcionalidades avanzadas y procesos optimizados. Mediante un análisis exhaustivo y una planificación estratégica, garantizamos que cada avance tecnológico no solo cumpla con las expectativas actuales, sino que también anticipe y facilite las necesidades futuras de nuestros usuarios en su camino hacia un estilo de vida más saludable.
+En esta sección, examinamos cómo el mapeo de escenarios To-Be puede redefinir nuestra aproximación al seguimiento del ejercicio y la nutrición, y orientar el desarrollo de nuestra aplicación web. Este enfoque nos permite visualizar un futuro donde los usuarios gestionan su salud de manera más eficaz, a través de funcionalidades avanzadas y procesos optimizados. Mediante un análisis exhaustivo y una planificación estratégica, garantizamos que cada avance tecnológico no solo cumpla con las expectativas actuales, sino que también anticipe y facilite las necesidades futuras de nuestros usuarios en su camino hacia un estilo de vida más saludable.
  <br><br>
 
  <img src="Img/To-Be-Escenario.jpg" alt="To-Be Scenario Mapping" />
@@ -1592,7 +1592,7 @@ Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web
 Link para el flujo: para acceder al flujo: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=BB0xoxW9qrVogveU-1 
 
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
-	Para crear diagramas efectivos que representen la arquitectura de nuestro proyecto, es fundamental realizar un análisis exhaustivo del funcionamiento de la aplicación. Utilizaremos el modelo de lenguaje C4 en Structurizr para ofrecer una visión clara y detallada de la arquitectura de nuestro sistema. Este enfoque nos permitirá ilustrar de manera precisa cómo interactúan los distintos componentes y usuarios de la aplicación, asegurando una comprensión integral del diseño y facilitando la comunicación entre el equipo y las partes interesadas.
+Para crear diagramas efectivos que representen la arquitectura de nuestro proyecto, es fundamental realizar un análisis exhaustivo del funcionamiento de la aplicación. Utilizaremos el modelo de lenguaje C4 en Structurizr para ofrecer una visión clara y detallada de la arquitectura de nuestro sistema. Este enfoque nos permitirá ilustrar de manera precisa cómo interactúan los distintos componentes y usuarios de la aplicación, asegurando una comprensión integral del diseño y facilitando la comunicación entre el equipo y las partes interesadas.
 
 
 <div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
