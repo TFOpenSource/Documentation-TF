@@ -1102,53 +1102,53 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
 
  
   <tr>
-    <td>EP001</td>
+    <td>TS009</td>
     <td>Gestión de Actividades de Salud</td>
     <td>Agrupa todas las funcionalidades relacionadas con el registro y seguimiento de actividades diarias, como alimentación, ejercicio, así como la revisión del historial</td>
     <td>Los usuarios pueden registrar y revisar sus actividades diarias<br>El historial debe ser accesible y editable.</td>
-    <td>-</td>
+    <td>E001</td>
   </tr>
   <tr>
-    <td>EP002</td>
+    <td>TS010</td>
     <td>Visualizacion y Analisis de Progreso</td>
     <td>Incluye las funcionalidades para visualizar gráficos y estadísticas que ayuden al usuario a analizar su progreso en términos de salud y ejercicio</td>
     <td>Los usuarios pueden seleccionar períodos de tiempo para visualizar su progresa<br>Las estadísticas se deben mostrar en gráficos detallados y se deben exponer</td>
-    <td>-</td>
+    <td>E002</td>
   </tr>
   <tr>
-    <td>EP003</td>
+    <td>TS011</td>
     <td>Recomendaciones y Objetivos de Salud</td>
     <td>Se enfoca en ofrecer recomendaciones personalizadas basadas en las actividades registradas por el usuario, así como la configuración y seguimiento de objetivos de salud</td>
     <td>Los usuarios reciben recomendaciones basadas en su progreso<br>Los objetivos de salud pueden configurarse y seguirse</td>
-    <td>-</td>
+    <td>E003</td>
   </tr>
   <tr>
-    <td>EP004</td>
+    <td>TS012</td>
     <td>Gestión de Perfil de Privacidad</td>
     <td>Agrupa las funcionalidades relacionadas con la creación, actualización y configuración de la privacidad del perfil de usuario</td>
     <td>Los usuarios pueden crear y actualizar su perfil con información personal<br>Los ajustes de privacidad se deben poder configurar y aplicar de inmediato</td>
-    <td>-</td>
+    <td>E004</td>
   </tr>
   <tr>
-    <td>EP005</td>
+    <td>TS013</td>
     <td>Notificaciones y Recordatorios</td>
     <td>Se enfoca en la funcionalidad de enviar notificaciones y recordatorios a los usuarios para el registro de sus actividades diarias</td>
     <td>Los recordatorios deben enviarse automáticamente segun la configuracion del usuario<br>Los recordatorios adicionales se envian si el usuario no registra la actividad en el tiempo especificado</td>
-    <td>-</td>
+    <td>E005</td>
   </tr>
   <tr>
-    <td>EP006</td>
+    <td>TS014</td>
     <td>Comunidad y contenido educativo</td>
     <td>Funcionalidades que permiten a los usuarios acceder a una comunidad  para compartir experiencias y obtener apoyo, asi como acceder a contenido educativo,</td>
     <td>Los usuarios pueden interactuar con la comunidad y reportar contenido inapropiado<br>El contenido debe ser accesible y marcar como visto tras ser consumido</td>
-    <td>-</td>
+    <td>E006</td>
   </tr>
   <tr>
-    <td>EP007</td>
+    <td>TS015</td>
     <td>Landing Page</td>
     <td>Funcionalidades pertenecientes a la Landing Page de NutriMove</td>
     <td>Los usuarios pueden interactuar con la Landing Page para conocer más acerca del producto</td>
-    <td>-</td>
+    <td>E007</td>
   </tr>
 </tbody></table>
 
