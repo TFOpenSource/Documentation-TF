@@ -2357,20 +2357,24 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
 
 Durante el sprint 2, se logró completar el desarrollo de la implementación de la landing page, que incluye diversas secciones en las que el usuario puede acceder a información relevante sobre el producto y la startup, disponible tanto en inglés como en español. Paralelamente, se avanzó parcialmente en el desarrollo de la aplicación web, permitiendo a los usuarios interactuar con algunas de sus funcionalidades. A continuación, se presentan algunas evidencias.
 
-* US01
+* HU01
 
-* US02
+  <img src="Img/HU01_Registrarse.png">
 
-* US03
+* HU02
 
-* US04
+  <img src="Img/HU02_IniciarSesion.png">
 
-* US07
+* HU19
+
+  <img src="Img/HU19_Idioma_Español.png">
+  <img src="Img/HU19_Idioma_Ingles.png">
+
 
 <div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el front-end. Para evitar limitaciones al probar las funcionalidades sin un back-end disponible, se decidió utilizar una API simulada. Al principio, se trabajó con un servidor JSON de manera local, y posteriormente se implementó My Json Server, que ahora está integrado en la aplicación web de Front-End desplegada. 
-A continuación, se proporciona el enlace para acceder a [Enlace].
+<p>En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el front-end. Para evitar limitaciones al probar las funcionalidades sin un back-end disponible, se decidió utilizar una API simulada. Al principio, se trabajó con un servidor JSON de manera local, y posteriormente se implementó My Json Server, que ahora está integrado en la aplicación web de Front-End desplegada. 
+A continuación, se proporciona el enlace para acceder a <a href="https://my-json-server.typicode.com/" target="_blank" rel="noopener noreferrer">My Json Server</a>.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -2387,20 +2391,20 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="2"></td>
-    <td class="tg-0pky" colspan="4"></td>
+    <td class="tg-0pky" colspan="2">/users</td>
+    <td class="tg-0pky" colspan="4">Fetches a list of all users in the system</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"></td>
-    <td class="tg-0pky" colspan="4"></td>
+    <td class="tg-0pky" colspan="2">/products</td>
+    <td class="tg-0pky" colspan="4">Returns all available products</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"></td>
-    <td class="tg-0pky" colspan="4"></td>
+    <td class="tg-0pky" colspan="2">/orders</td>
+    <td class="tg-0pky" colspan="4">Provides order details for a specific user</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"></td>
-    <td class="tg-0pky" colspan="4"></td>
+    <td class="tg-0pky" colspan="2">/reviews</td>
+    <td class="tg-0pky" colspan="4">Displays product reviews and ratings</td>
   </tr>
   <tr>
     <td class="tg-0pky">Repository</td>
@@ -2408,33 +2412,32 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
     <td class="tg-0pky">Commit Id</td>
     <td class="tg-0pky">Commit message</td>
     <td class="tg-0pky">Commit message body</td>
-    <td class="tg-0pky">Commited on (Date)</td>
+    <td class="tg-0pky">Committed on (Date)</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky" rowspan="3"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Landing_Page</a></td>
+    <td class="tg-0pky">main</td>
+    <td class="tg-0pky">f50f5f6</td>
+    <td class="tg-0pky">Add files via upload</td>
+    <td class="tg-0pky">Uploaded initial project files with API documentation</td>
+    <td class="tg-0pky">05/09/2024</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">main</td>
+    <td class="tg-0pky">cc4497a</td>
+    <td class="tg-0pky">Update index.html</td>
+    <td class="tg-0pky">Included endpoint details in the documentation</td>
+    <td class="tg-0pky">05/09/2024</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">main</td>
+    <td class="tg-0pky">fb220f7</td>
+    <td class="tg-0pky">Custom Files</td>
+    <td class="tg-0pky">Added documentation for simulated API usage</td>
+    <td class="tg-0pky">05/09/2024</td>
   </tr>
 </tbody></table>
+
 
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -2442,9 +2445,35 @@ En la entrega del segundo sprint, se implementó la landing page completamente f
 
 Landing page:
 
+<div align="center">
+  <img src="Img/Landing1.png">
+</div>
+
 Capturas de pantalla landing page:
 
+<div align="center">
+  <img src="Img/Landing1.png">
+</div>
 
+<div align="center">
+  <img src="Img/Landing2.png">
+</div>
+
+<div align="center">
+  <img src="Img/Landing3.png">
+</div>
+
+<div align="center">
+  <img src="Img/Landing4.png">
+</div>
+
+<div align="center">
+  <img src="Img/Landing5.png">
+</div>
+
+<div align="center">
+  <img src="Img/Landing6.png">
+</div>
 
 Web Application:
 
