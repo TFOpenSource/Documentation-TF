@@ -1725,9 +1725,7 @@ El diseño de la base de datos constituye un aspecto fundamental en la organizac
 
 <div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
 
-<img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/Diagrama%20ER%20de%20base%20de%20datos.png">
-
-
+<img src="Img/DB_diagram_2.jpeg">
 
 <div id='5.'><h2>CAPÍTULO IV: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT </h4></div>
 
