@@ -2481,13 +2481,49 @@ Web Application:
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
-| Alumno  | Actividad |
-| -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| Implementación |
-| Luza Carhuamaca, Jose Adrian | Implementación |
-| Jimenez Melgar, Daniel Luciano | Implementación |
-| Silva Tirado, Sebastian Valentino | Implementación |
-| Uribe Quispe, Jesús Guillermo | Implementación |
+<table>
+  <thead>
+    <tr>
+      <th>Alumno</th>
+      <th>Actividad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bohórquez Lerzundi, Gerardo Sebastián</td>
+      <td>Implementación, Sprint 2, Execution Evidence for Sprint Review</td>
+    </tr>
+    <tr>
+      <td>Jimenez Melgar, Daniel Luciano</td>
+      <td>Implementación, Sprint Planning 2, Services Documentation Evidence for Sprint Review</td>
+    </tr>
+    <tr>
+      <td>Luza Carhuamaca, Jose Adrian</td>
+      <td>Implementación, Sprint Backlog 2, Software Deployment Evidence for Sprint Review</td>
+    </tr>
+    <tr>
+      <td>Silva Tirado, Sebastian Valentino</td>
+      <td>Implementación, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint</td>
+    </tr>
+    <tr>
+      <td>Uribe Quispe, Jesús Guillermo</td>
+      <td>Implementación, Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint</td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src="Img/Collaboration_2_Informe.png">
+</div>
+
+<div align="center">
+  <img src="Img/Collaboration_2_Landing.png">
+</div>
+
+<div align="center">
+  <img src="Img/Collaboration_2_Application.png">
+</div>
+
 
 <div id='5.3.'><h3> 5.3.  Validation Interviews.</h3></div>
 
