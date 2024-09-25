@@ -2367,7 +2367,7 @@ Durante el sprint 2, se logró completar el desarrollo de la implementación de 
 
 * HU19
 
-  <img src="Img/HU19_Idioma_Español.png">
+  <img src="Img/HU19_Idioma_Español.png"><br>
   <img src="Img/HU19_Idioma_Ingles.png">
 
 
@@ -2376,14 +2376,6 @@ Durante el sprint 2, se logró completar el desarrollo de la implementación de 
 <p>En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el front-end. Para evitar limitaciones al probar las funcionalidades sin un back-end disponible, se decidió utilizar una API simulada. Al principio, se trabajó con un servidor JSON de manera local, y posteriormente se implementó My Json Server, que ahora está integrado en la aplicación web de Front-End desplegada. 
 A continuación, se proporciona el enlace para acceder a <a href="https://my-json-server.typicode.com/" target="_blank" rel="noopener noreferrer">My Json Server</a>.</p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0pky" colspan="2">Endpoint </th>
@@ -2420,21 +2412,21 @@ A continuación, se proporciona el enlace para acceder a <a href="https://my-jso
     <td class="tg-0pky">f50f5f6</td>
     <td class="tg-0pky">Add files via upload</td>
     <td class="tg-0pky">Uploaded initial project files with API documentation</td>
-    <td class="tg-0pky">05/09/2024</td>
+    <td class="tg-0pky">25/09/2024</td>
   </tr>
   <tr>
     <td class="tg-0pky">main</td>
     <td class="tg-0pky">cc4497a</td>
     <td class="tg-0pky">Update index.html</td>
     <td class="tg-0pky">Included endpoint details in the documentation</td>
-    <td class="tg-0pky">05/09/2024</td>
+    <td class="tg-0pky">25/09/2024</td>
   </tr>
   <tr>
     <td class="tg-0pky">main</td>
     <td class="tg-0pky">fb220f7</td>
     <td class="tg-0pky">Custom Files</td>
     <td class="tg-0pky">Added documentation for simulated API usage</td>
-    <td class="tg-0pky">05/09/2024</td>
+    <td class="tg-0pky">25/09/2024</td>
   </tr>
 </tbody></table>
 
