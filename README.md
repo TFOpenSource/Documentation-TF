@@ -2464,7 +2464,11 @@ Web Application:
 </div>
 
 <div align="center">
-  <img src="">
+  <img src="Img/IniciarSesionpng.png">
+</div>
+
+<div align="center">
+  <img src="Img/registro_dieta.png">
 </div>
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
