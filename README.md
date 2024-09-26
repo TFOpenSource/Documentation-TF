@@ -2139,7 +2139,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
     <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;In-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>HU01&nbsp;&nbsp;&nbsp;</td>
@@ -2169,7 +2169,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
     <td>&nbsp;&nbsp;&nbsp;<br>Como usuario registrado, quiero poder recuperar mi cuenta en caso de olvidar mi contraseña, para restablecer mi acceso sin perder mis datos e historial de uso.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Sebastián Bohorquez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>In-process&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>HU04&nbsp;&nbsp;&nbsp;</td>
@@ -2179,7 +2179,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
     <td>&nbsp;&nbsp;&nbsp;<br>Como usuario, quiero registrar mis actividades diarias de alimentación y ejercicio para llevar un seguimiento de mis hábitos de salud.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Sebastian Silva &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>In-process&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>HU07&nbsp;&nbsp;&nbsp;</td>
@@ -2189,7 +2189,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
     <td>&nbsp;&nbsp;&nbsp;<br>Como usuario, quiero registrar mi ingesta de alimentos para controlar las calorías y nutrientes.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>To - review&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
 </tbody></table>
@@ -2434,12 +2434,6 @@ A continuación, se proporciona el enlace para acceder a <a href="https://my-jso
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial de la aplicación web.
-
-Landing page:
-
-<div align="center">
-  <img src="Img/Landing1.png">
-</div>
 
 Capturas de pantalla landing page:
 
