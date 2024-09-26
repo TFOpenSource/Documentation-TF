@@ -2109,6 +2109,7 @@ Landing Page:
 <div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2.</h5></div>
 
 En el segundo sprint backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el sprint board, dividiendo las user stories y asignándolas a los miembros del equipo.
+Sin embargo no se llego a reportar un integrante para este sprint y por ello que no está completo.
 
 <img src="Img/Captura_SprintBacklog_2.png" alt="Caputra de Sprint Backlog 2"><br>
 Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/sprint-backlog-2<br>
