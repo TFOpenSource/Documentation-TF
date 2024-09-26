@@ -2508,6 +2508,17 @@ Web Application:
   <img src="Img/Collaboration_2_Application.png">
 </div>
 
+<div align="center">
+  <img src="Img/registro1.png">
+</div>
+
+<div align="center">
+  <img src="Img/registro2.png">
+</div>
+
+<div align="center">
+  <img src="Img/registro3.png">
+</div>
 
 <div id='5.3.'><h3> 5.3.  Validation Interviews.</h3></div>
 
