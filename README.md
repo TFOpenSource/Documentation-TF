@@ -2551,7 +2551,7 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 |-------------|--------|
 |Url Del Repositorio| https://github.com/TFOpenSource |
 |Enlace para acceder a la landing page: | https://tfopensource.github.io/Landing_Page/ |
-|Enlace para acceder al Web Aplication: | |
+|Enlace para acceder al Web Aplication: | https://github.com/TFOpenSource/NutriMove |
 |Video Exposicion TB1: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ES5UupezJyZHj-hO5xYHGgABJ-2emfkJ0m4Q1FrpTV6_bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vCzAZ5|
 |Video Exposicion TP1: |  |
 |Diapositivas TP1: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit | 
