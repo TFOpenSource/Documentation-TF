@@ -183,7 +183,7 @@ ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un 
    5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
-   5.2.2. [Sprint 2.](#5.2.1.)<br>
+   5.2.2. [Sprint 2.](#5.2.2.)<br>
    5.2.2.1. [Sprint Planning 2.](#5.2.2.1.)<br>
    5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.)<br>
    5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
@@ -192,6 +192,15 @@ ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un 
    5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+   5.2.3. [Sprint 3.](#5.2.3.)<br>
+   5.2.3.1. [Sprint Planning 3.](#5.2.3.1.)<br>
+   5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.)<br>
+   5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.)<br>
+   5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.)<br>
+   5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.)<br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+   5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
 7. [**Conclusiones.**](#6.)<br>
 6.1. [Conclusiones y recomendaciones](#6.1.)<br>
 6.2. [Video About-The-Team](#6.2.)<br>
