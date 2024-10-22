@@ -24,7 +24,6 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Bohorquez Lerzundi, Gerardo Sebastián | U202224149 |
 |     Luza Carhuamaca, Jose Adrian      | U202213404 |
-|    Jimenez Melgar, Daniel Luciano     | U20221a569 |
 |   Silva Tirado, Sebastián Valentino   | U20211g296 |
 |     Uribe Quispe, Jesús Guillermo     | U202221876 |
 
@@ -45,6 +44,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 |TP1 |26/09/2024 |Luza Carhuamaca, Jose Adrian |Sprint Backlog 2, Software Deployment Evidence for Sprint Review.|
 |TP1 |26/09/2024 |Silva Tirado, Sebastian Valentino |Development Evidence for Sprint Review, Team Collaboration Insights during Sprint|
 |TP1 |26/09/2024 |Uribe Quispe, Jesús Guillermo |Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint|
+|TB2 |29/10/2024 |Bohórquez Lerzundi, Gerardo Sebastián|(Modificacion)|
+|TB2 |29/10/2024 |Luza Carhuamaca, Jose Adrian |(Modificacion)|
+|TB2 |29/10/2024 |Silva Tirado, Sebastian Valentino |(Modificacion)|
+|TB2 |29/10/2024 |Uribe Quispe, Jesús Guillermo | (Modificacion)|
 
 ## Project Report Collaboration Insights
 
@@ -86,7 +89,6 @@ Para la elaboración del informe correspondiente a la entrega TB2, la implementa
 | Integrante | Tareas Asignadas |
 | ---------- | ---------------- |
 |Bohórquez Lerzundi, Gerardo Sebastián| (Asignado).|
-|Jimenez Melgar, Daniel Luciano |(Asignado).|
 |Luza Carhuamaca, Jose Adrian |(Asignado).|
 |Silva Tirado, Sebastian Valentino |(Asignado).|
 |Uribe Quispe, Jesús Guillermo |(Asignado).|
