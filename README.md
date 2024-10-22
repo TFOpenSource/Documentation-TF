@@ -78,16 +78,28 @@ Para la elaboración del informe correspondiente a la entrega TP1, la implementa
 |Silva Tirado, Sebastian Valentino |Development Evidence for Sprint Review, Team Collaboration Insights during Sprint|
 |Uribe Quispe, Jesús Guillermo |Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint|
 
+
+**TB2**
+
+Para la elaboración del informe correspondiente a la entrega TB2, la implementación de las secciones se asignó a cada integrante del equipo de la siguiente manera:
+
+| Integrante | Tareas Asignadas |
+| ---------- | ---------------- |
+|Bohórquez Lerzundi, Gerardo Sebastián| (Asignado).|
+|Jimenez Melgar, Daniel Luciano |(Asignado).|
+|Luza Carhuamaca, Jose Adrian |(Asignado).|
+|Silva Tirado, Sebastian Valentino |(Asignado).|
+|Uribe Quispe, Jesús Guillermo |(Asignado).|
+
 **Github Collaboration Insights**
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
 Los integrantes son:
-- Bohórquez Lerzundi, Gerardo Sebastián()
-- Jimenez Melgar, Daniel Luciano()
-- Luza Carhuamaca, Jose Adrian()
-- Silva Tirado, Sebastian Valentino(SebasSilvaT)
-- Uribe Quispe, Jesús Guillermo()
+- Bohórquez Lerzundi, Gerardo Sebastián | (Sebasbl562)
+- Luza Carhuamaca, Jose Adrian          | (Adrianluza1)
+- Silva Tirado, Sebastian Valentino     | (SebasSilvaT)
+- Uribe Quispe, Jesús Guillermo         | (JesusU27)
 
 ## STUDENT OUTCOME
 ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
