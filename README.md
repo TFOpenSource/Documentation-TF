@@ -2840,13 +2840,175 @@ Back-end:
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
+En la sección "Validation Interviews" de nuestro proyecto, nos concentramos en mejorar la página web diseñada para los usuarios estén más comprometidos con su físico y salud. Esta fase esencial del proyecto involucra un diálogo activo con nuestros principales usuarios: dieta balancada y ejercicios. Mediante entrevistas estructuradas, buscamos captar sus opiniones y sugerencias. Esto asegura que la web no solo cumpla con los requisitos técnicos, sino que también se alinee con las dinámicas operativas y las expectativas del personal de planta. A continuación, se detallan los objetivos de usuario necesarios para realizar las entrevistas:
+
 <div id='5.3.1.'><h4> 5.3.1. Diseño de Entrevistas.</h4></div>
 
+En esta sección se especifican los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que la app de dietas y ejercicios responda a las necesidades reales de sus usuarios. A continuación, se presentan los user goals:
+
+**User Goal: Iniciar sesión**  
+**User persona:** Usuarios generales.  
+**Explicación del flujo:** El usuario accederá a la aplicación e introducirá su correo electrónico y contraseña en el formulario de inicio de sesión. Si las credenciales son correctas, será redirigido al dashboard principal. Si no lo son, se le pedirá que reintroduzca los datos.
+
+**User Goal: Navegar por el dashboard**  
+**User persona:** Usuarios generales.  
+**Explicación del flujo:** Después de iniciar sesión, el usuario llegará al dashboard, donde podrá acceder a diferentes secciones, como actividades físicas, plan de dieta, nutrición y su perfil personal.
+
+**User Goal: Actividades**  
+**User persona:** Usuarios interesados en fitness.  
+**Explicación del flujo:** Desde el dashboard, el usuario seleccionará la opción "Actividades" para acceder a su plan de ejercicios personalizado. Podrá ver las rutinas, marcarlas como completadas y recibir recomendaciones según su progreso.
+
+**User Goal: Dieta y nutrición**  
+**User persona:** Usuarios interesados en mejorar su alimentación.  
+**Explicación del flujo:** El usuario podrá acceder a la sección de "Dieta y Nutrición", donde encontrará su plan alimenticio personalizado. Además, podrá registrar sus comidas diarias, recibir alertas sobre sus hábitos alimenticios y hacer ajustes en base a sus necesidades nutricionales.
+
+**User Goal: Mi perfil**  
+**User persona:** Usuarios generales.  
+**Explicación del flujo:** El usuario puede acceder a su perfil a través de la barra superior de la app. Allí, podrá ver y modificar su información personal, sus preferencias y ajustar las configuraciones de notificaciones y objetivos de salud.
+
 <div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
+
+<table><thead>
+  <tr>
+    <th colspan="3">   <br>
+Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
+   </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+	<td> <img src="Img/imagen_2024-09-05_144516929.png"><br></td>
+    <td>Entrevistado N°1: Estrella Ticona<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Rimac </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW7gpaJaEipNigtWbEVgpQ0BUsGMjxfIn_FCWHVfe447vg?e=sZUs8O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Estrella solía seguir dietas blandas, incluso llegó a bajar 3 kg en una semana pero <br>sumamente difícil para ella, fue una dieta muy estricta pero si está dispuesta a volver a intentarlo, <br>incluso con incentivos de limitandose temporalmente para conseguir ese premio, un gusto que <br>se pueda llegar a dar, le agrada la idea de una app que le exija y apoye en su dieta.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144514031.png"> </td>
+    <td>Entrevistado N°2: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EetHhN1mEgVJr8N3DmPcLn0BnCYK1kMQmRnpW3sou3N2dQ?e=sYqgsV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Diego temporalmente hizo dieta y ejercicio, sin embargo, tenía muchas tentaciones a <br>su alrededor como comidas chatarras que caían muy fácilmente. Le incomoda la idea de <br>notificaciones de apoyo, pero le gustaría seguir la dieta en otros ámbitos o guías específicas.<br></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144510281.png"> </td>
+    <td>Entrevistado N°3: Elmer Riva<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: Santa Anita </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Eegk2qvEx_NBo-WcFwOMhtIBKFoSW45hLcg2sNZWQlnPcQ?e=82ssH5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Elmer intentó una dieta llegando a mantenerla por varias semanas pero llegaron <br>eventos festivos lo cuál le impidió seguir limitándose. Le gustaría que la aplicación tuviera <br>recordatorios y cómo alentarlo a seguir progresando. Incluso saber cuantas calorías de <br>cada alimento o producto y que sería ideal para ciertos días para evitar romper la dieta.</td>
+  </tr>
+</tbody></table>
+
+
+
+<table><thead>
+  <tr>
+    <th colspan="3">Segmento objetivo: Hacer ejercicio, rutinas.</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144505757.png"><br></td>
+    <td>Entrevistado N°1: Camila Sanchez<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco, Lima, Perú.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EReBiEY_-aBIodz51qCCW1gBDSeozVthDf-lS10uharn7Q?e=DhOC3p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Camila suele hacer ejercicios por semana de vez en cuando, no frecuentemente y <br>suele usar su smartwatch para hacer un seguimiento de actividad física. Le gustaría que haya <br>planes para entrenar cada parte del cuerpo y esa frecuencia para no perder la rutina que suele <br>hacer y proponerse objetivos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144501791.png"></td>
+    <td>Entrevistado N°2: Marcelo Ávalos<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: San Luis, Lima, Perú.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW9Ev2daNSBIrdTjVlg6VE4B6Ws54RB2ktXKlZCP8-DWyw?e=AGbGAd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Marcelo hace frecuentemente rutinas en el gimnasio apuntado en un block de notas <br>y con rutinas ya creadas, aún así le gustaría un seguimiento y no tanto sugerencias de nuevos <br>ejercicios, sino promedios y estadísticas de lo que ya suele hacer. También indicaciones <br>específicas de lo que se debe sentir con cada ejercicio para saber si lo está haciendo bien.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144601015.png"></td>
+    <td>Entrevistado N°3: Marcia Rea<br>Sexo:  Femenino<br>Edad: 20<br>Domicilio: San Martín de Porres.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea0Wg14Q_R1IkBM0Fsn5T9gBZtadxHe_iWyxKCWtHRa6rw?e=xG4NiC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Marcia de vez en cuando entrena en su casa, no siempre puede por tiempos que <br>está en el trabajo o haciendo pendientes de su casa, por lo que no sigue una rutina constante <br>sino casual. Le gustaría volver a empezar y seguir consecutivamente, haciendo posible micro <br>ejercicios en el día sin perjudicar tiempo en otras actividades. Le agrada la idea de tener <br>recordatorios y que le impidan hacer otras actividades salvo que sea del ejercicio.</td>
+  </tr>
+</tbody></table>
 
 <div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.</h4></div>
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
+
+A continuación, se muestra el video "About the product", que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes validan la calidad del software desarrollado.
+
+Enlace para visualizar el video About the product:
+Enlace del video subido a Stream: 
+
 
 <div id='6.'><h2>CAPÍTULO VI: CONCLUSIONES </h2></div>
 
