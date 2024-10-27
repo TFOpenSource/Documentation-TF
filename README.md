@@ -2225,7 +2225,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="8"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Landing_Page</a></td>
+    <td rowspan="8"><a href="https://github.com/TFOpenSource/" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Landing_Page</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>f50f5f6&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Add files via upload&nbsp;&nbsp;&nbsp;</td>
@@ -2283,14 +2283,14 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
   </tr>
 </tbody></table>
 
-<h6>Repositorio: <a href="https://github.com/TFOpenSource/NutriMove" target="_blank" rel="noopener noreferrer">TFOpenSource / NutriMove</a></h6>
+<h6>Repositorio: <a href="https://github.com/TFOpenSource/NutriMoveTF" target="_blank" rel="noopener noreferrer">TFOpenSource / NutriMoveTF</a></h6>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Repository   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Branch   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit ID   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message   </th>
 <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message Body   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Committed on   (Date)   </th></tr>
 </thead>
 <tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="9"><a href="https://github.com/TFOpenSource/NutriMove">https://github.com/TFOpenSource/NutriMove</a></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>main   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>10a20f6   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Toolbar and footer   </td>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="9"><a href="https://github.com/TFOpenSource/NutriMoveTF">https://github.com/TFOpenSource/NutriMoveTF</a></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>main   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>10a20f6   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Toolbar and footer   </td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Initial implementation of toolbar and footer   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>23/09/2024   </td></tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>07d61fe   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Add toolbar and footer, and DDD structure model   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Toolbar, footer, and DDD structure integration   </td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>23/09/2024   </td></tr>
@@ -2323,7 +2323,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="5"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Landing_Page</a></td>
+    <td rowspan="5"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/NutriMoveTF</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>184b899&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>docs:update_sprint_backlog2&nbsp;&nbsp;&nbsp;</td>
@@ -2414,7 +2414,7 @@ A continuación, se proporciona el enlace para acceder a <a href="https://my-jso
     <td class="tg-0pky">Committed on (Date)</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="3"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Landing_Page</a></td>
+    <td class="tg-0pky" rowspan="3"><a href="https://github.com/TFOpenSource/NutriMoveTF" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/NutriMoveTF</a></td>
     <td class="tg-0pky">main</td>
     <td class="tg-0pky">f50f5f6</td>
     <td class="tg-0pky">Add files via upload</td>
@@ -2440,7 +2440,8 @@ A continuación, se proporciona el enlace para acceder a <a href="https://my-jso
 
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
-En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial de la aplicación web.
+En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial de la aplicación web. <br>
+Link del Web Aplication: https://thunderous-phoenix-31b1f9.netlify.app/
 
 Capturas de pantalla landing page:
 
@@ -3039,14 +3040,14 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 |-------------|--------|
 |Url Del Repositorio| https://github.com/TFOpenSource |
 |Enlace para acceder a la landing page: | https://tfopensource.github.io/Landing_Page/ |
-|Enlace para acceder al Web Aplication: | https://github.com/TFOpenSource/NutriMove |
+|Enlace para acceder al Web Aplication: | https://github.com/TFOpenSource/NutriMoveTF |
 |Video Exposicion TB1: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ES5UupezJyZHj-hO5xYHGgABJ-2emfkJ0m4Q1FrpTV6_bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vCzAZ5|
 |Video Exposicion TP1: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWCeLBysn21Dj19wV0eNZaYB0LmFEm7eEBmmRPCwxXcx6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rKwpPV|
 |Diapositivas TP1: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit |
 |Video Exposicion TB2: | (Enlace) |
-|Diapositivas TB2: | (Enlace)  | 
+|Diapositivas TB2: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit  | 
 |Development Landing: | (Enlace)  | 
-|Development Web Application: | (Enlace)  |
+|Development Web Application: | https://thunderous-phoenix-31b1f9.netlify.app/ |
 |About The Product: | (Enlace)  |
 |About The Team: | (Enlace)  | 
 |Url del As-Is Scenario Mapping | https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1| |
