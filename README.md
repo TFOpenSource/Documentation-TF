@@ -97,6 +97,9 @@ Para la elaboración del informe correspondiente a la entrega TB2, la implementa
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
+<img src="Img/colab_ins.png" alt="colab_ins">
+<br><br>
+
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián | (Sebasbl562)
 - Luza Carhuamaca, Jose Adrian          | (Adrianluza1)
@@ -2323,40 +2326,22 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="5"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/NutriMoveTF</a></td>
+    <td rowspan="5"><a href="https://github.com/TFOpenSource/Documentation-TF" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Documentation-TF</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>184b899&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update_sprint_backlog2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated sprint backlog with latest test results&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2502e3559023158e81b9a5566cc8da9d2fc1f74e&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>files: Update HU02 - HU04
+&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>files: Update HU02 - HU04
+&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
+  
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>981832b&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Sprint Backlog 2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Documentation update for sprint backlog tests&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>78dc3b8&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update_sprint2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated sprint 2 testing documentation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>9855bce&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update_actu&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated test cases documentation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>621da8e&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update estructura TP1&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated TP1 structure with relevant test documentation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>611799f3aac9a8c39e33d9f9c91f5a5dfebc38f5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> files: Update HU05 - HU17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>files: Update HU02 - HU04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody></table>
 
@@ -2649,7 +2634,7 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
   </tr>
 </tbody></table>
 
-<h6>Repositorio: <a href="https://github.com/TFOpenSource/NutriMove" target="_blank" rel="noopener noreferrer">TFOpenSource / NutriMove</a></h6>
+<h6>Repositorio: <a href="https://github.com/TFOpenSource/NutriMoveTF" target="_blank" rel="noopener noreferrer">TFOpenSource / NutriMoveTF</a></h6>
 
 <table><thead>
   <tr>
@@ -2662,27 +2647,14 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="3"><a href="https://github.com/TFOpenSource/NutriMove" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/NutriMove</a></td>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>10a20f6&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Toolbar and footer&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Initial implementation of toolbar and footer&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td rowspan="3"><a href="https://github.com/TFOpenSource/NutriMoveTF" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/NutriMoveTF</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
   </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>07d61fe&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Add toolbar and footer, and DDD structure model&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Toolbar, footer, and DDD structure integration&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>fd64a75&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Initial commit&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Initial project setup&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
+  
 </tbody></table>
 
 
@@ -2699,57 +2671,40 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="5"><a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Landing_Page</a></td>
+    <td rowspan="5"><a href="https://github.com/TFOpenSource/Documentation-TF" target="_blank" rel="noopener noreferrer">https://github.com/TFOpenSource/Documentation-TF</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>184b899&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update_sprint_backlog2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated sprint backlog with latest test results&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>611799f3aac9a8c39e33d9f9c91f5a5dfebc38f5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> files: Update HU05 - HU17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> files: Update HU05 - HU17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>981832b&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Sprint Backlog 2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Documentation update for sprint backlog tests&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>78dc3b8&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update_sprint2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated sprint 2 testing documentation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>9855bce&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update_actu&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated test cases documentation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>621da8e&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>docs:update estructura TP1&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Updated TP1 structure with relevant test documentation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
+
+  
 </tbody></table>
 
 
 <div id='5.2.3.5.'><h5> 5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
 
-Durante el sprint 3, se logró completar el desarrollo de la implementación del Web Aplication, que incluye diversas secciones en las que el usuario puede acceder como a su perfil, balanza, alimentos, entre otros. Paralelamente, se avanzó parcialmente en el desarrollo del back end, permitiendo que se conectará a la base de datos. A continuación, se presentan algunas evidencias.
+Durante el sprint 3, se logró completar el desarrollo de la implementación del Web Aplication, que incluye diversas secciones en las que el usuario puede acceder como a su perfil, balanza, alimentos, entre otros. Paralelamente, se avanzó parcialmente en el desarrollo del back end, permitiendo que se conectará a la base de datos. A continuación, se presentan evidencias de las importantes y nuevas funcionalidades implementadas.
 
-* US00
+* Dashboard:
+<img src="Img/dashboard.png">
 
-* US00
+* Dieta:
+<img src="Img/mydiet.png">
 
-* US00
+* Actividades:
+<img src="Img/activities.png">
 
-* US00
+* Workout:
+<img src="Img/workout.png">
 
-* US00
+* Analisis:
+<img src="Img/analysis.png">
+
+
+Link de video: 
+
 
 <div id='5.2.3.6.'><h5> 5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -2824,8 +2779,12 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
 
 En la entrega del tercer sprint, se implementó el web aplication completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial del back end.
 
-Web Application:
+Despliegue de Web Application en Netlify:
+<img src="Img/deploy1.png">
+<img src="Img/deploy1.png">
 
+
+Link de Web Application: <a href="https://thunderous-phoenix-31b1f9.netlify.app/">https://thunderous-phoenix-31b1f9.netlify.app/</a>
 
 Back-end:
 
@@ -2834,10 +2793,10 @@ Back-end:
 
 | Alumno  | Actividad |
 | -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| (Implementación) |
-| Luza Carhuamaca, Jose Adrian | (Implementación) |
-| Silva Tirado, Sebastian Valentino | (Implementación) |
-| Uribe Quispe, Jesús Guillermo | (Implementación) |
+| Bohorquez Lerzundi Gerardo Sebastian| implementación de Actividades, entrevistas, realización de canvas de exposición. |
+| Luza Carhuamaca, Jose Adrian | implementación de funcionalidad de comunidad y perfil, realización de informe, entrevistas.  |
+| Silva Tirado, Sebastian Valentino | implementación de funcionalidad de Dieta y Workout, realización del informe, entrevistas |
+| Uribe Quispe, Jesús Guillermo | gestionamiento del proyecto mediante el control de versiones, implementación de funcionalidad dashboard y analisis, corrección de servicios |
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
