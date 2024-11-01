@@ -1846,13 +1846,13 @@ En la siguiente sección, se presentará el sprint #1 con la primera versión de
   </tr>
 </tbody></table>    
 
-<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog #1.</h5></div>
+<div id='5.2.1.2.'><h5> 5.2.1.2.  Backlog #1.</h5></div>
 
-En el primer sprint backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de Sprint, que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint fue construir una landing page completamente atractiva y funcional. 
+En el primer  backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de , que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del  fue construir una landing page completamente atractiva y funcional. 
 <table><thead>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="7">Sprint 1</th>
+    <th>&nbsp;&nbsp;&nbsp;<br># &nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7"> 1</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -1922,7 +1922,7 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar la landing
   
 </tbody></table>
 
-<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for  Review.</h5></div>
 
 <table><thead>
   <tr>
@@ -2007,9 +2007,9 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar la landing
   </tr>
 </tbody></table>
 
-<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for  Review. </h5></div>
 
-Para la entrega del Sprint 1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el sprint backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
+Para la entrega del  1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el  backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
    
 <table><thead>
   <tr>
@@ -2031,9 +2031,9 @@ Para la entrega del Sprint 1, se buscó lograr el desarrollo, implementación, y
   </tr>
 </tbody></table>
 
-<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for  Review. </h5></div>
 
-Durante el sprint 1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
+Durante el  1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
 Evidencia 1
 [Captura]
 Evidencia 2
@@ -2041,7 +2041,7 @@ Evidencia 2
 Evidencia 3
 [Captura]
 
-<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for  Review. </h5></div>
 
 Pasos para realizar la landing page:
 1) Crear cuenta en GitHub para crea un repositorio donde subir la página web.
@@ -2065,7 +2065,7 @@ ponemos “NutriMove” y le damos a Continuar.
 
 10) Para poder visualizar el estado de la página web, tenemos que acceder al link 
 
-<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for  Review.</h5></div>
 
 Landing Page:
 <img src="Img/Landing1.png"> <br>
@@ -2075,7 +2075,7 @@ Landing Page:
 <img src="Img/Landing5.png"> <br>
 <img src="Img/Landing6.png">
 
-<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during . </h5></div>
 
 | Alumno  | Actividad |
 | -------- | -------- |
@@ -2097,13 +2097,13 @@ Landing Page:
   <img src="Img/PulseInsights.png">
 </div>
 
-<div id='5.2.2.'><h4> 5.2.2. Sprint #2.</h4></div>
+<div id='5.2.2.'><h4> 5.2.2.  #2.</h4></div>
 
-<div id='5.2.2.1.'><h5> 5.2.2.1.Sprint Planning 2.</h5></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Planning 2.</h5></div>
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0pky">Sprint #</th>
+    <th class="tg-0pky"> #</th>
     <th class="tg-0pky">Date</th>
     <th class="tg-0pky">Time</th>
     <th class="tg-0pky">Location</th>
@@ -2120,8 +2120,8 @@ Landing Page:
     <td class="tg-0pky">Sebastian Bohorquez, Jose Luza, Melgar Jimenez, Sebastian Silva y Jesús Uribe</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="4">Sprint 2 Goal</td>
-    <td class="tg-mq6t">Sprint 2 Velocity    </td>
+    <td class="tg-0pky" colspan="4"> 2 Goal</td>
+    <td class="tg-mq6t"> 2 Velocity    </td>
     <td class="tg-mq6t">Sum of Story Points   </td>
   </tr>
   <tr>
@@ -2132,18 +2132,18 @@ Landing Page:
 </tbody>
 </table>
 
-<div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2.</h5></div>
+<div id='5.2.2.2.'><h5> 5.2.2.2. Backlog 2.</h5></div>
 
-En el segundo sprint backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el sprint board, dividiendo las user stories y asignándolas a los miembros del equipo.
-Sin embargo no se llego a reportar un integrante para este sprint y por ello que no está completo.
+En el segundo  backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el  board, dividiendo las user stories y asignándolas a los miembros del equipo.
+Sin embargo no se llego a reportar un integrante para este  y por ello que no está completo.
 
-<img src="Img/Captura_SprintBacklog_2.png" alt="Caputra de Sprint Backlog 2"><br>
-Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/sprint-backlog-2<br>
+<img src="Img/Captura_Backlog_2.png" alt="Caputra de  Backlog 2"><br>
+Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/-backlog-2<br>
 
 <table><thead>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="7">Sprint 2</th>
+    <th>&nbsp;&nbsp;&nbsp;<br># &nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7"> 2</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -2213,7 +2213,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
   
 </tbody></table>
 
-<div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for  Review.</h5></div>
 
 <h6>Repositorio: <a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">TFOpenSource / Landing_Page</a></h6>
 
@@ -2586,7 +2586,7 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
 <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message Body   </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Committed on   (Date)   </th></tr>
 </thead>
 <tbody>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="12"><a href="https://github.com/TFOpenSource/NutriMove">https://github.com/TFOpenSource/NutriMove</a></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-mydiet</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">470d043</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commit mydiet</td>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="12"><a href="https://github.com/TFOpenSource/NutriMoveTF">https://github.com/TFOpenSource/NutriMoveTF</a></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-mydiet</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">470d043</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commit mydiet</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commit mydiet</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>18/10/2024   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">release</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">82afef1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Update authen-api.service.ts</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Update authen-api.service.ts</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>25/10/2024   </td></tr>
