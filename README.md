@@ -2850,7 +2850,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="Img/interview-Fabrisio.png"></td>
+    <td> <img src="./Img/interview-Fabrisio.png"></td>
     <td>Entrevistado N°2: Fabrisio Belahonia<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: San Juan de Lurigancho</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/Ee_Fh_tLp3NPne2AQ3msCbABwVM-SRUcJP4Wec7mJBguLw?e=tWt7ur&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
@@ -2916,7 +2916,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="Img/interview-Angel.png"></td>
+    <td> <img src="./Img/interview-Angel.png"></td>
     <td>Entrevistado N°2: Angel Gabriel<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: San Juan de Miraflores.</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EURNUPP7aVJNgjrHqp1YfqQBvBo9Y5LimHf9-_N8ktsZ9g?e=LWhBJ0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista #2</a></td>
   </tr>
