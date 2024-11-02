@@ -1846,13 +1846,13 @@ En la siguiente sección, se presentará el sprint #1 con la primera versión de
   </tr>
 </tbody></table>    
 
-<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog #1.</h5></div>
+<div id='5.2.1.2.'><h5> 5.2.1.2.  Backlog #1.</h5></div>
 
-En el primer sprint backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de Sprint, que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint fue construir una landing page completamente atractiva y funcional. 
+En el primer  backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de , que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del  fue construir una landing page completamente atractiva y funcional. 
 <table><thead>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="7">Sprint 1</th>
+    <th>&nbsp;&nbsp;&nbsp;<br># &nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7"> 1</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -1922,7 +1922,7 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar la landing
   
 </tbody></table>
 
-<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for  Review.</h5></div>
 
 <table><thead>
   <tr>
@@ -2007,9 +2007,9 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar la landing
   </tr>
 </tbody></table>
 
-<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for  Review. </h5></div>
 
-Para la entrega del Sprint 1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el sprint backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
+Para la entrega del  1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el  backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
    
 <table><thead>
   <tr>
@@ -2031,9 +2031,9 @@ Para la entrega del Sprint 1, se buscó lograr el desarrollo, implementación, y
   </tr>
 </tbody></table>
 
-<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for  Review. </h5></div>
 
-Durante el sprint 1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
+Durante el  1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
 Evidencia 1
 [Captura]
 Evidencia 2
@@ -2041,7 +2041,7 @@ Evidencia 2
 Evidencia 3
 [Captura]
 
-<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for  Review. </h5></div>
 
 Pasos para realizar la landing page:
 1) Crear cuenta en GitHub para crea un repositorio donde subir la página web.
@@ -2065,7 +2065,7 @@ ponemos “NutriMove” y le damos a Continuar.
 
 10) Para poder visualizar el estado de la página web, tenemos que acceder al link 
 
-<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for  Review.</h5></div>
 
 Landing Page:
 <img src="Img/Landing1.png"> <br>
@@ -2075,7 +2075,7 @@ Landing Page:
 <img src="Img/Landing5.png"> <br>
 <img src="Img/Landing6.png">
 
-<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during . </h5></div>
 
 | Alumno  | Actividad |
 | -------- | -------- |
@@ -2097,13 +2097,13 @@ Landing Page:
   <img src="Img/PulseInsights.png">
 </div>
 
-<div id='5.2.2.'><h4> 5.2.2. Sprint #2.</h4></div>
+<div id='5.2.2.'><h4> 5.2.2.  #2.</h4></div>
 
-<div id='5.2.2.1.'><h5> 5.2.2.1.Sprint Planning 2.</h5></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Planning 2.</h5></div>
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0pky">Sprint #</th>
+    <th class="tg-0pky"> #</th>
     <th class="tg-0pky">Date</th>
     <th class="tg-0pky">Time</th>
     <th class="tg-0pky">Location</th>
@@ -2120,8 +2120,8 @@ Landing Page:
     <td class="tg-0pky">Sebastian Bohorquez, Jose Luza, Melgar Jimenez, Sebastian Silva y Jesús Uribe</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="4">Sprint 2 Goal</td>
-    <td class="tg-mq6t">Sprint 2 Velocity    </td>
+    <td class="tg-0pky" colspan="4"> 2 Goal</td>
+    <td class="tg-mq6t"> 2 Velocity    </td>
     <td class="tg-mq6t">Sum of Story Points   </td>
   </tr>
   <tr>
@@ -2132,18 +2132,18 @@ Landing Page:
 </tbody>
 </table>
 
-<div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2.</h5></div>
+<div id='5.2.2.2.'><h5> 5.2.2.2. Backlog 2.</h5></div>
 
-En el segundo sprint backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el sprint board, dividiendo las user stories y asignándolas a los miembros del equipo.
-Sin embargo no se llego a reportar un integrante para este sprint y por ello que no está completo.
+En el segundo  backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el  board, dividiendo las user stories y asignándolas a los miembros del equipo.
+Sin embargo no se llego a reportar un integrante para este  y por ello que no está completo.
 
-<img src="Img/Captura_SprintBacklog_2.png" alt="Caputra de Sprint Backlog 2"><br>
-Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/sprint-backlog-2<br>
+<img src="Img/Captura_Backlog_2.png" alt="Caputra de  Backlog 2"><br>
+Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/-backlog-2<br>
 
 <table><thead>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="7">Sprint 2</th>
+    <th>&nbsp;&nbsp;&nbsp;<br># &nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7"> 2</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -2213,7 +2213,7 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
   
 </tbody></table>
 
-<div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for  Review.</h5></div>
 
 <h6>Repositorio: <a href="https://github.com/TFOpenSource/Landing_Page" target="_blank" rel="noopener noreferrer">TFOpenSource / Landing_Page</a></h6>
 
@@ -2533,14 +2533,14 @@ Web Application:
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
-<tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint #</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Date</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Location</th>
-<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Prepared By</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Attendees</th></tr>
+<tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Sprint #</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Date</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Time</span></th>
+<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Location</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Prepared By</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Attendees</span></th></tr>
 </thead>
 <tbody>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">22/10/2024</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">12:00 p.m.</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Reunión online por discord</td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Jesús Uribe</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sebastian Bohorquez, Jose Luza, Sebastian Silva y Jesús Uribe</td></tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Sprint 3 Goal</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint 3 Velocity    </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sum of Story Points   </td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Actualizar el Aplication We y conectado con la base de datos y back-end.</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Actualizar el Aplication We y conectado con la base de datos y back-end.</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">36</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">36</td></tr></tbody></table>
 
 <div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3.</h5></div>
 
@@ -2551,7 +2551,7 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Id   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Title   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Id   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Title   </td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Descripción   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Estimación (Hours)   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Assigned to   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Status (In   -process / To - review / Done)   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">HU05</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visualización de gráficos de progreso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UT11</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gráfico de progreso a tiempo real</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero visualizar gráficos de progreso para entender mejor mis avances en términos de salud y ejercicio.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Jesús Uribe      </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">In process</td></tr>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero visualizar gráficos de progreso para entender mejor mis avances en términos de salud y ejercicio.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Jesús Uribe      </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Done</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">HU06</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Recomendaciones personalizadas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UT12</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ruta de recomendaciones</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero recibir recomendaciones personalizadas basadas en mis actividades registradas para mejorar mi salud.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>3   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>José Luza      </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">HU08</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Actualización de datos un perfil de usuario</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UT13</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cambiar datos del usuario</td>
@@ -2572,7 +2572,7 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">HU15</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Configuración de privacidad del perfil.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UT20</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Configuración de preferencias de privacidad.</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero configurar la privacidad de mi perfil para controlar quién puede ver mi información personal.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>José Luza      </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">HU16</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acceso a contenido educativo.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UT21</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Exploración de recursos educativos.</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero acceder a contenido educativo sobre salud y bienestar para aprender a mejorar mi estilo de vida.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Sebastián Bohorquez       </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">In process</td></tr>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero acceder a contenido educativo sobre salud y bienestar para aprender a mejorar mi estilo de vida.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Sebastián Bohorquez       </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Done</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">HU17</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acceso rutinas de ejercicio</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UT22</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Realización de rutinas de entrenamiento personalizadas.</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como usuario, quiero acceder a contenido sobre rutinas de ejercicio en base a mis propósitos y metas.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Sebastian Silva       </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 </tbody></table>
@@ -2748,10 +2748,10 @@ Back-end:
 
 | Alumno  | Actividad |
 | -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| implementación de Actividades, entrevistas, realización de canvas de exposición. |
-| Luza Carhuamaca, Jose Adrian | implementación de funcionalidad de comunidad y perfil, realización de informe, entrevistas.  |
-| Silva Tirado, Sebastian Valentino | implementación de funcionalidad de Dieta y Workout, realización del informe, entrevistas |
-| Uribe Quispe, Jesús Guillermo | gestionamiento del proyecto mediante el control de versiones, implementación de funcionalidad dashboard y analisis, corrección de servicios |
+| Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team|
+| Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas|
+| Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product|
+| Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones|
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
@@ -2800,14 +2800,14 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
   </tr>
   <tr>
 	<td> <img src="Img/imagen_2024-09-05_144516929.png"><br></td>
-    <td>Entrevistado N°1: Estrella Ticona<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Rimac </td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW7gpaJaEipNigtWbEVgpQ0BUsGMjxfIn_FCWHVfe447vg?e=sZUs8O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+    <td>Entrevistado N°1: Alejandra Neyra <br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/Ecwsjeqs2axPqb3CJgeX-s0BOKeLcBFKNEIUgALwBUOBMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1WhkSH" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
   <tr>
     <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="3">La joven Estrella solía seguir dietas blandas, incluso llegó a bajar 3 kg en una semana pero <br>sumamente difícil para ella, fue una dieta muy estricta pero si está dispuesta a volver a intentarlo, <br>incluso con incentivos de limitandose temporalmente para conseguir ese premio, un gusto que <br>se pueda llegar a dar, le agrada la idea de una app que le exija y apoye en su dieta.</td>
+    <td colspan="3">La joven Alejandra solía seguir dietas no tan equilibradas, por lo tanto el objetivo de bajar de peso no fue tan sencillo, por lo tanto quiere guiarse y tener mejor ayuda con sus objetivos, le gusta que le den los platos que deberia comer y la ayuda en consejos, le agrada la idea de una app que le exija y apoye en su dieta.</td>
   </tr>
   <tr>
     <td colspan="3">   <br>Entrevista 2:    </td>
@@ -2838,14 +2838,14 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
   </tr>
   <tr>
     <td> <img src="Img/imagen_2024-09-05_144510281.png"> </td>
-    <td>Entrevistado N°3: Elmer Riva<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: Santa Anita </td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Eegk2qvEx_NBo-WcFwOMhtIBKFoSW45hLcg2sNZWQlnPcQ?e=82ssH5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+    <td>Entrevistado N°3: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EZRPhAS_yHBInZpQAgR0ivsBRpquT5axvxmIx84dwzkSkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yn7wGo">Entrevista #3</a></td>
   </tr>
   <tr>
     <td colspan="3">   <br>Resumen   de la entrevista:   </td>
   </tr>
   <tr>
-    <td colspan="3">El joven Elmer intentó una dieta llegando a mantenerla por varias semanas pero llegaron <br>eventos festivos lo cuál le impidió seguir limitándose. Le gustaría que la aplicación tuviera <br>recordatorios y cómo alentarlo a seguir progresando. Incluso saber cuantas calorías de <br>cada alimento o producto y que sería ideal para ciertos días para evitar romper la dieta.</td>
+    <td colspan="3">El joven Diego estuvo interesado en nuestra página web por sus funcionalidades que tiene, pero también agrega funcionalidades como una respuesta al medir nuesto indice de masa corporal y que se llegara a ver mejor visualmente. Le gustó poder agregar dietas, tener su promedio de cada uno y el poder actualizar su perfil.</td>
   </tr>
 </tbody></table>
 
@@ -2866,14 +2866,14 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
   </tr>
   <tr>
     <td> <img src="Img/imagen_2024-09-05_144505757.png"><br></td>
-    <td>Entrevistado N°1: Camila Sanchez<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco, Lima, Perú.</td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EReBiEY_-aBIodz51qCCW1gBDSeozVthDf-lS10uharn7Q?e=DhOC3p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+    <td>Entrevistado N°1: Ernie Cossio<br>Sexo: Masculino<br>Edad: 19<br>Domicilio: Ate </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EUCv8g1gq1dDn2zGQBHdiG8BMiMjIa6GSl3EiEKwE8kUMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3Pf4rr" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
   <tr>
     <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="3">La joven Camila suele hacer ejercicios por semana de vez en cuando, no frecuentemente y <br>suele usar su smartwatch para hacer un seguimiento de actividad física. Le gustaría que haya <br>planes para entrenar cada parte del cuerpo y esa frecuencia para no perder la rutina que suele <br>hacer y proponerse objetivos.</td>
+    <td colspan="3">El Joven Ernie es una persona con sus metas de avance fisico claro y opina que una aplicacion asi seria de ayuda ya que al ser una pagina web puede ingresar desde el telefono.
   </tr>
   <tr>
     <td colspan="3">   <br>Entrevista 2:    </td>
@@ -2904,26 +2904,186 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
   </tr>
   <tr>
     <td> <img src="Img/imagen_2024-09-05_144601015.png"></td>
-    <td>Entrevistado N°3: Marcia Rea<br>Sexo:  Femenino<br>Edad: 20<br>Domicilio: San Martín de Porres.</td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea0Wg14Q_R1IkBM0Fsn5T9gBZtadxHe_iWyxKCWtHRa6rw?e=xG4NiC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+    <td>Entrevistado N°3: Sebastian Escobar<br>Sexo:  Masculino<br>Edad: 20<br>Domicilio: Santa Anita</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea8ffOcWO8RNsINTHP5b0AcBf9V7oUZYxeTRkooggjxpeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BQfsak" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
   <tr>
     <td colspan="3">   <br>Resumen   de la entrevista:   </td>
   </tr>
   <tr>
-    <td colspan="3">La joven Marcia de vez en cuando entrena en su casa, no siempre puede por tiempos que <br>está en el trabajo o haciendo pendientes de su casa, por lo que no sigue una rutina constante <br>sino casual. Le gustaría volver a empezar y seguir consecutivamente, haciendo posible micro <br>ejercicios en el día sin perjudicar tiempo en otras actividades. Le agrada la idea de tener <br>recordatorios y que le impidan hacer otras actividades salvo que sea del ejercicio.</td>
+    <td colspan="3">El joven Sebastian le agradó la página Web con sus funcionalidades de actividades físicas y al poder promediar el índice de masa corporal. Recomendó sobretodo los estilos y diseños, un poco más de variedad en rutinas de ejercicios.</td>
   </tr>
 </tbody></table>
 
 <div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.</h4></div>
+
+<h4>SITE o APP A EVALUAR:</h4>
+
+NutriMove
+
+Objetivo: El objetivo principal de esta evaluación es identificar los problemas presentes en la aplicación web NutriMove.
+
+Método: Los hallazgos en la aplicación se obtendrán utilizando la Lista de Heurísticas de Nielsen, inicialmente investigada y desarrollada por Jakob Nielsen.
+
+<h4>TAREAS A EVALUAR:</h4>
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Busqueda de Rutinas
+3. Acceso rutinas de ejercicio
+4. Cambio de idioma
+5. API para rutina de ejercicios personalizada 
+6. Visualizacion y Analisis de Progreso
+7. Registro de ingesta de alimentos 
+8. API para obtener información nutricional de un alimento
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Exportar datos
+2. Alerta de precaución
+3. Calendario de actividades
+4. Historial
+
+<h4>ESCALA DE SEVERIDAD:</h4>
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Nivel</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción</th></tr></thead>
+<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema superficial: puede ser fácilmente superador por el usuario ó&nbsp;&nbsp;&nbsp;ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista&nbsp;&nbsp;&nbsp;disponibilidad de tiempo</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más&nbsp;&nbsp;&nbsp;difícil de superar para el usuario. Se le debería asignar una prioridad baja&nbsp;&nbsp;&nbsp;resolverlo de cara al siguiente reléase</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de&nbsp;&nbsp;&nbsp;resolverlos. Es importante que sean corregidos y se les debe asignar una&nbsp;&nbsp;&nbsp;prioridad alta.</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema muy grave: un error de gran impacto que impide al usuario&nbsp;&nbsp;&nbsp;continuar con el uso de la herramienta. Es imperativo que sea corregido antes&nbsp;&nbsp;&nbsp;del lanzamiento.</td></tr></tbody></table>
+
+<h4>TABLA RESUMEN:</h4>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
+<tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">#</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Problema</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Escala de severidad </span></th>
+<th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Heurística/Principio violada(o)</span></th></tr>
+</thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Falta de confirmación visual para el registro exitoso de compra</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visability: Del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No hay opción de búsqueda avanzada para las rutinas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Efficiency: El sistema debe permitir personalización y atajos que agilicen el uso, especialmente para usuarios avanzados.</td>
+</tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No hay confirmacion de ingreso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cambio de idioma parcial</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Consistencia y estándares</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">API de rutinas basica</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">La visualizacion del progreso no es clara y evidente</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Registro de ingesta de alimentos</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">API para obtener información nutricional de un alimento</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr></tbody></table>
+
+<h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
+ 
+* PROBLEMA #1:  Falta de confirmación visual para el registro exitoso
+- Severidad: 2
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+Al momento de completar el registro de un nuevo usuario, no se muestra un mensaje o indicación visual de éxito o error. Esto puede generar confusión en el usuario al no saber si el registro se ha realizado correctamente o si necesita hacer alguna corrección en los datos ingresados.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar un mensaje de confirmación visual claramente visible, indicando si el registro fue exitoso o si hubo algún error. Esto puede incluir una alerta emergente, un cambio de pantalla o un mensaje en el mismo formulario.
+
+---
+
+* PROBLEMA #2:  No hay opción de búsqueda avanzada para las rutinas
+- Severidad: 3
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Actualmente, la parte de rutinas en la aplicación no ofrece opciones avanzadas de filtro. Los usuarios no pueden personalizar su búsqueda para especificar criterios como el nivel de dificultad o el tipo de rutina, lo cual limita la capacidad de encontrar rutinas específicas según sus necesidades.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Añadir una opción de búsqueda avanzada que permita filtrar las rutinas por criterios relevantes, como nivel de dificultad, duración o tipo de entrenamiento (cardio, fuerza, etc.). Esto mejorará la experiencia de usuario al permitir búsquedas más precisas y personalizadas.
+
+
+---
+
+* PROBLEMA #3: No hay confirmacion de ingreso
+* Severidad: 2
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar una animación o mensaje de carga mientras se accede a las rutinas. En caso de error, mostrar un mensaje claro que indique el problema y sugiera acciones, como volver a intentar o contactar soporte.
+
+---
+
+* PROBLEMA #4: Cambio de idioma parcial
+
+- Severidad: 3
+Heurística violada: Consistencia y estándares
+- Problema:
+El cambio de idioma en la aplicación no se aplica inmediatamente a todas las secciones, o algunas secciones quedan parcialmente traducidas. Esto genera una experiencia inconsistente para usuarios que dependen del cambio de idioma para comprender el contenido.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Garantizar que al cambiar el idioma, todas las secciones se actualicen inmediatamente y de manera coherente. Implementar pruebas para verificar que todos los textos se carguen en el idioma correcto al realizar el cambio.
+ 
+---
+ 
+ * PROBLEMA #5: API de rutinas  basica
+- Severidad: 3
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+La API no ofrece suficiente personalización para los usuarios avanzados que desean rutinas específicas según criterios como nivel de dificultad, duración, o tipo de entrenamiento. Esto limita la experiencia de usuarios que buscan adaptar las rutinas a sus necesidades individuales.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Agregar opciones de filtrado avanzadas en la API para que los usuarios puedan solicitar rutinas personalizadas según criterios específicos. Esto permitiría a los usuarios encontrar rutinas más adecuadas y aumentaría la relevancia de las recomendaciones.
+ 
+---
+ 
+ * PROBLEMA #6: La visualizacion del progreso no es clara y evidente
+- Severidad: 4
+Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+- Problema:
+La funcionalidad de visualización y análisis de progreso no permite a los usuarios comprender fácilmente sus avances, ya que carece de indicadores visuales claros (gráficos, comparativas de semanas previas, etc.) y opciones de interpretación de datos. Esto puede frustrar al usuario y hacer que abandone el seguimiento de su progreso.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar gráficos claros y fáciles de interpretar, junto con indicadores y comparativas que resuman el progreso de manera visual. Incluir recomendaciones o análisis automáticos que sugieran próximas metas o evaluaciones basadas en los datos obtenidos.
+ 
+---
+ 
+ * PROBLEMA #7: No se ve los nombres al registrar nuevos alimentos y tampoco la suma de cada valor del alimento.
+- Severidad: 2
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+La aplicación debería mostrar que es cada item en cada recuadro para que el usuario sepa mejor que colocar en cada uno y poder agregar el alimento, a la vez que se sume en cada columna y llevar mejor control.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Para mejorar la experiencia de usuario sería actualizar o agregar un titulo encima para saber que se refiere cada item y al final de la tabla colocar la suma total de lo agregado hasta el momento.
+ 
+---
+ 
+ * PROBLEMA #8: No se visualiza bien para el usuario el API para obtener información nutricional de un alimento
+
+- Severidad: 1
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Si los usuarios necesitan frecuentemente verificar la información nutricional de alimentos, la API debe responder de manera rápida y mejor visualmente, no solamente texto donde el usuario se puede perder.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Para mejorar la experiencia de usuario se agregaría estilos o algo característico en cada card para hacerlo más intuitivo.
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 A continuación, se muestra el video "About the product", que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes validan la calidad del software desarrollado.
 
 Enlace para visualizar el video About the product:
-Enlace del video subido a Stream: 
-
+Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f
 
 <div id='6.'><h2>CAPÍTULO VI: CONCLUSIONES </h2></div>
 
@@ -2936,7 +3096,7 @@ En este primer entregable, el equipo VidaActiva ha logrado cumplir con los objet
 El segundo entregable del proyecto NutriMove representó un avance significativo en la implementación técnica del producto. Durante el Sprint #2, se logró desarrollar una aplicación web utilizando Angular y WebStorm, apoyada en una FAKE API con JSON Server para simular la interacción con datos reales. Este entregable no solo permitió consolidar las funcionalidades básicas del sistema, sino también garantizar que la aplicación fuera robusta y escalable para futuras iteraciones. La integración efectiva de herramientas modernas y una arquitectura organizada fueron clave para cumplir con los objetivos de este sprint.
 
 **TB2**<br>
-
+El tercer entregable del proyecto NutriMove marca un hito importante en la evolución del producto. Durante el Sprint #3, el equipo se concentró en robustecer la experiencia del usuario y sentar las bases para una interacción más dinámica con los datos. Se realizaron actualizaciones significativas en el front-end, optimizando la interfaz de usuario y mejorando la usabilidad general. Paralelamente, se dio inicio al desarrollo del back-end, implementando una API robusta utilizando Node.js y una base de datos MySQL para almacenar y gestionar los datos de manera eficiente. Esta integración de front-end y back-end permitió conectar las funcionalidades de la aplicación y garantizar una sincronización fluida entre las diferentes capas del sistema. El resultado de este sprint es una aplicación más sólida y escalable, preparada para enfrentar los desafíos de las próximas etapas del proyecto.
 
 <div id='6.2.'><h3> 6.2.  Video About-the-Team.</h3></div>
 
@@ -2962,7 +3122,7 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 |Diapositivas TB2: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit  | 
 |Development Landing: | (Enlace)  | 
 |Development Web Application: | https://thunderous-phoenix-31b1f9.netlify.app/ |
-|About The Product: | (Enlace)  |
+|About The Product: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f |
 |About The Team: | (Enlace)  | 
 |Url del As-Is Scenario Mapping | https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1| |
 |Url Figma NutriMove| https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1| 
