@@ -44,10 +44,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 |TP1 |26/09/2024 |Luza Carhuamaca, Jose Adrian |Sprint Backlog 2, Software Deployment Evidence for Sprint Review.|
 |TP1 |26/09/2024 |Silva Tirado, Sebastian Valentino |Development Evidence for Sprint Review, Team Collaboration Insights during Sprint|
 |TP1 |26/09/2024 |Uribe Quispe, Jesús Guillermo |Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint|
-|TB2 |29/10/2024 |Bohórquez Lerzundi, Gerardo Sebastián|(Modificacion)|
-|TB2 |29/10/2024 |Luza Carhuamaca, Jose Adrian |(Modificacion)|
-|TB2 |29/10/2024 |Silva Tirado, Sebastian Valentino |(Modificacion)|
-|TB2 |29/10/2024 |Uribe Quispe, Jesús Guillermo | (Modificacion)|
+|TB2 |29/10/2024 | Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team|
+|TB2 |29/10/2024 | Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
+|TB2 |29/10/2024 | Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas|
+|TB2 |29/10/2024 | Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard|
 
 ## Project Report Collaboration Insights
 
@@ -88,10 +88,10 @@ Para la elaboración del informe correspondiente a la entrega TB2, la implementa
 
 | Integrante | Tareas Asignadas |
 | ---------- | ---------------- |
-|Bohórquez Lerzundi, Gerardo Sebastián| (Asignado).|
-|Luza Carhuamaca, Jose Adrian |(Asignado).|
-|Silva Tirado, Sebastian Valentino |(Asignado).|
-|Uribe Quispe, Jesús Guillermo |(Asignado).|
+| Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team|
+| Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
+| Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas|
+| Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard|
 
 **Github Collaboration Insights**
 
@@ -113,12 +113,12 @@ ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
 <tbody>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br> TB1:<br> Me enfoqué en transmitir de manera clara las ideas del proyecto a todos los involucrados. Organicé presentaciones sobre los perfiles de usuario para asegurar que el equipo comprendiera las necesidades y expectativas de quienes utilizarán la plataforma. Expliqué de forma detallada el marco estratégico del Lean UX Canvas y los principios de diseño visual, permitiendo que los conceptos complejos fueran entendidos de forma sencilla. Además, guié al equipo a través de la estructura de navegación de la plataforma, facilitando una visión común del flujo del usuario. <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB1:<br> Participé en la elaboración y presentación del proyecto, incluyendo la descripción, el Lean UX Process, y los diagramas de arquitectura, comunicando nuestras ideas y avances claramente a diferentes audiencias. <br> <br> Jimenez Melgar, Daniel Luciano<br> TB1:<br> Realicé los Lean UX Hypothesis Statements y los Problem Statements, una descripción detallada de la startup, realicé un análisis competitivo, elaboré los Empathy Mapping de los usuarios, creé User Stories basadas en sus expectativas y diseñe wireframe y el mockup de la landing page, así como el wireframe de la aplicación web. <br> <br> Silva Tirado, Sebastián Valentino<br> TB1:<br>  En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB1:<br> Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno.<br><br> Luza Carhuamaca, Jose Adrian<br> TP1:<br>Mostré habilidades sólidas al adaptar su lenguaje y tono al tipo de audiencia durante las presentaciones grupales, empleando ejemplos claros y relevantes para cada contexto. Además, utilizó herramientas visuales efectivas para transmitir sus ideas.<br><br> Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Destaqué por la claridad y precisión en sus exposiciones, logrando captar la atención de audiencias técnicas y no técnicas. Fue capaz de responder preguntas y clarificar dudas de manera adecuada durante las sesiones de feedback.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Mostré un dominio significativo en sus presentaciones orales, empleando un lenguaje técnico cuando se dirigía a sus compañeros y simplificando conceptos para un público más general. Utilizó recursos multimedia para mejorar su exposición.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br> Me preparé para organizar y desarrollar parte del Web App<br><br> Uribe Quispe, Jesús Guillermo<br> TP1:<br>Distinguí por su habilidad para conectar con la audiencia a través de un lenguaje claro y un enfoque estructurado. Adaptó su tono y profundidad de los temas según las necesidades del público, logrando un alto grado de interacción. <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br> (Texto) </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br>TB1:<br> Estas acciones me permitieron conectar con los miembros del equipo, garantizando que todos compartieran una visión clara del proyecto. La comunicación cara a cara ayudó a fomentar un ambiente colaborativo, donde las ideas y sugerencias podían fluir libremente, mejorando así la toma de decisiones y la eficiencia del equipo. <br> <br>Bohorquez Lerzundi, Gerardo Sebastián<br>TB1:<br> Esta experiencia fortaleció mi capacidad para explicar conceptos de manera efectiva a diversos grupos, adaptando mi comunicación para asegurar que todos comprendieran y se alinearan con los objetivos del proyecto. <br> <br>Jimenez Melgar, Daniel Luciano<br>TB1:<br> Gracias a estas acciones, logré comunicar mis ideas y avances a diferentes tipos de audiencia, adaptando algunos detalles. Esto me permitió presentar una propuesta bien estructurada para la startup. <br> <br>Silva Tirado, Sebastián Valentino<br>TB1:<br> Se realizó un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió entregar un resultado de calidad. <br> <br>Uribe Quispe, Jesús Guillermo<br>TB1:<br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable.<br><br>Luza Carhuamaca, Jose Adrian<br> TP1:<br>Demostré una comunicación oral efectiva al presentar conceptos técnicos de manera comprensible para diversos tipos de audiencia, desde compañeros hasta profesores, ajustando su estilo según el público.<br><br>Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Comuniqué ideas con éxito, demostrando su habilidad para ajustar su discurso a diferentes públicos y manteniendo un alto nivel de efectividad en la transmisión de información compleja.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Comuniqué de manera efectiva a diversos rangos de audiencia, demostrando una flexibilidad en su forma de presentación y garantizando que su mensaje fuera entendido por todos los participantes.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br>Concluyo que fue conveniente el entregable para actualizar la pagina web siendo intuitivo<br><br> Uribe Quispe, Jesús Guillermo<br> TP1:<br>Demostré ser un comunicador oral efectivo al transmitir información técnica a audiencias con distintos niveles de conocimiento, manteniendo un enfoque adecuado y comprensible.  <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br> (Texto)</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br> TB1:<br> Me enfoqué en transmitir de manera clara las ideas del proyecto a todos los involucrados. Organicé presentaciones sobre los perfiles de usuario para asegurar que el equipo comprendiera las necesidades y expectativas de quienes utilizarán la plataforma. Expliqué de forma detallada el marco estratégico del Lean UX Canvas y los principios de diseño visual, permitiendo que los conceptos complejos fueran entendidos de forma sencilla. Además, guié al equipo a través de la estructura de navegación de la plataforma, facilitando una visión común del flujo del usuario. <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB1:<br> Participé en la elaboración y presentación del proyecto, incluyendo la descripción, el Lean UX Process, y los diagramas de arquitectura, comunicando nuestras ideas y avances claramente a diferentes audiencias. <br> <br> Jimenez Melgar, Daniel Luciano<br> TB1:<br> Realicé los Lean UX Hypothesis Statements y los Problem Statements, una descripción detallada de la startup, realicé un análisis competitivo, elaboré los Empathy Mapping de los usuarios, creé User Stories basadas en sus expectativas y diseñe wireframe y el mockup de la landing page, así como el wireframe de la aplicación web. <br> <br> Silva Tirado, Sebastián Valentino<br> TB1:<br>  En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB1:<br> Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno.<br><br> Luza Carhuamaca, Jose Adrian<br> TP1:<br>Mostré habilidades sólidas al adaptar su lenguaje y tono al tipo de audiencia durante las presentaciones grupales, empleando ejemplos claros y relevantes para cada contexto. Además, utilizó herramientas visuales efectivas para transmitir sus ideas.<br><br> Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Destaqué por la claridad y precisión en sus exposiciones, logrando captar la atención de audiencias técnicas y no técnicas. Fue capaz de responder preguntas y clarificar dudas de manera adecuada durante las sesiones de feedback.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Mostré un dominio significativo en sus presentaciones orales, empleando un lenguaje técnico cuando se dirigía a sus compañeros y simplificando conceptos para un público más general. Utilizó recursos multimedia para mejorar su exposición.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br> Me preparé para organizar y desarrollar parte del Web App<br><br> Uribe Quispe, Jesús Guillermo<br> TP1:<br>Distinguí por su habilidad para conectar con la audiencia a través de un lenguaje claro y un enfoque estructurado. Adaptó su tono y profundidad de los temas según las necesidades del público, logrando un alto grado de interacción. <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br>  Para este entregable me propuse gestionar las tareas para cada uno de los integrantes realizandolo de manera oral clara y concisa para el desarrollo exitoso del proyecto Nutrimove. </td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br>TB1:<br> Estas acciones me permitieron conectar con los miembros del equipo, garantizando que todos compartieran una visión clara del proyecto. La comunicación cara a cara ayudó a fomentar un ambiente colaborativo, donde las ideas y sugerencias podían fluir libremente, mejorando así la toma de decisiones y la eficiencia del equipo. <br> <br>Bohorquez Lerzundi, Gerardo Sebastián<br>TB1:<br> Esta experiencia fortaleció mi capacidad para explicar conceptos de manera efectiva a diversos grupos, adaptando mi comunicación para asegurar que todos comprendieran y se alinearan con los objetivos del proyecto. <br> <br>Jimenez Melgar, Daniel Luciano<br>TB1:<br> Gracias a estas acciones, logré comunicar mis ideas y avances a diferentes tipos de audiencia, adaptando algunos detalles. Esto me permitió presentar una propuesta bien estructurada para la startup. <br> <br>Silva Tirado, Sebastián Valentino<br>TB1:<br> Se realizó un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió entregar un resultado de calidad. <br> <br>Uribe Quispe, Jesús Guillermo<br>TB1:<br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable.<br><br>Luza Carhuamaca, Jose Adrian<br> TP1:<br>Demostré una comunicación oral efectiva al presentar conceptos técnicos de manera comprensible para diversos tipos de audiencia, desde compañeros hasta profesores, ajustando su estilo según el público.<br><br>Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Comuniqué ideas con éxito, demostrando su habilidad para ajustar su discurso a diferentes públicos y manteniendo un alto nivel de efectividad en la transmisión de información compleja.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Comuniqué de manera efectiva a diversos rangos de audiencia, demostrando una flexibilidad en su forma de presentación y garantizando que su mensaje fuera entendido por todos los participantes.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br>Concluyo que fue conveniente el entregable para actualizar la pagina web siendo intuitivo<br><br> Uribe Quispe, Jesús Guillermo<br> TP1:<br>Demostré ser un comunicador oral efectivo al transmitir información técnica a audiencias con distintos niveles de conocimiento, manteniendo un enfoque adecuado y comprensible.  <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br> Como conclusión, he podido aprender que la mejor forma de avanzar juntos como equipo en el proyecto es hablar de forma clara.</td>
 </tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br>TB1:<br> Preparé documentación exhaustiva para respaldar cada fase del proyecto, asegurando que la información fuera comprensible y accesible para todos. Desarrollé perfiles detallados de los usuarios y guías de entrevistas. Creé descripciones claras y completas de las tareas principales y las funciones del usuario para guiar el desarrollo. También redacté el Lean UX Canvas y las directrices de estilo, detallando desde los colores y la tipografía hasta la estructura de la información, lo cual ayudó a mantener la coherencia en el diseño y la implementación del proyecto. <br> <br>Bohorquez Lerzundi, Gerardo Sebastián<br>TB1:<br> Redacté documentos clave como el Startup Profile, Lean UX Assumptions y el registro de entrevistas, asegurando que la información fuera clara y comprensible para todos. <br> <br>Jimenez Melgar, Daniel Luciano<br>TB1:<br> Redacté el Lean UX Hypothesis Statements y Problem Statements, realicé una descripción detallada de la startup, redacté el análisis competitivo y las User Stories. <br> <br>Silva Tirado, Sebastián Valentino<br>TB1:<br> En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br><br>Uribe Quispe, Jesús Guillermo<br>TB1:<br> Preparé la esquematización del informe, la realización de competidores, estrategias frente a estas, user stories, product backlog, diseño de base de datos y diagrama de clases, asi como también el diseño y realización de la landing page y web application.<br><br>Luza Carhuamaca, Jose Adrian<br> TP1:<br>Redacté la documentación técnica de la Web App, utilizando un lenguaje claro y detallado para los desarrolladores, y un tono más accesible en los informes dirigidos a los stakeholders. Además, realizó reportes claros sobre los avances del proyecto en el Sprint #2.<br><br> Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Me encargué de escribir las guías de usuario para la Web App, dirigiéndose a usuarios finales con instrucciones simples y precisas. Además, redactó tickets detallados para los desarrolladores con especificaciones técnicas en términos más especializados.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Fuí responsable de crear el informe final del Sprint #2 y redactar la documentación de la API, empleando un lenguaje técnico adecuado para los desarrolladores. También escribió resúmenes ejecutivos accesibles para los stakeholders no técnicos.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br> Elaboré de manera efectiva la comunicación del proyecto ya sea en el informe y aplicación <br><br> Uribe Quispe, Jesús Guillermo<br> TP1:<br>Redacté el plan de pruebas de la Web App y un informe general de los resultados de las pruebas. Utilizó un lenguaje preciso y técnico para el equipo de desarrollo, mientras que los reportes entregados a los stakeholders fueron más concisos y comprensibles.  <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br> (Texto) </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br>TB1:<br> La creación de estos documentos me permitió transmitir ideas complejas de una manera estructurada, facilitando el entendimiento y la colaboración entre todos. La documentación escrita proporcionó una base sólida para el desarrollo del proyecto, ayudando a prevenir malentendidos y asegurando que todos los involucrados estuvieran alineados con los objetivos. <br> <br>Bohorquez Lerzundi, Gerardo Sebastián<br> TB1:<br> Este trabajo me permitió mejorar mi habilidad para comunicarme por escrito de manera efectiva, ajustando el contenido y el tono según la audiencia para facilitar el entendimiento y la toma de decisiones. <br> <br>Jimenez Melgar, Daniel Luciano<br> TB1:<br> Estas acciones me permitieron mejorar mis habilidades de comunicación escrita, adaptando cada mensaje a la audiencia específica y garantizando que la información fuera  precisa. <br> <br>Silva Tirado, Sebastián Valentino<br> TB1:<br>Como equipo, logramos este primer entregale establecer un landing page comunicando efectivamente que nos permitirá entregar un trabajo completo a posteriormene a pesar del desafío que representaban los plazos cortos para la entrega del proyecto. <br> <br>Uribe Quispe, Jesús Guillermo<br>TB1: <br>Mediante la herramienta MarkDown he podido transmitir las ideas de buena manera estructuralmente hablando, ya que, la base para todo informe es el orden y la estructura de esta.  <br>  <br>Luza Carhuamaca, Jose Adrian<br> TP1:<br>Demostré una excelente capacidad para comunicar por escrito a diferentes audiencias, entregando documentos comprensibles tanto para técnicos como para no técnicos, lo que facilitó la comprensión del desarrollo de la Web App por todos los involucrados.<br><br> Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Comuniqué por escrito de manera efectiva, ajustando su estilo de redacción según el público objetivo, lo que permitió una mejor implementación de las tareas del equipo y una correcta comprensión de la Web App por parte de los usuarios finales.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Mostré una alta efectividad en la comunicación escrita, adaptando su redacción tanto a desarrolladores como a partes interesadas con distintos niveles de conocimiento técnico, lo que mejoró la transparencia y comprensión del progreso del proyecto.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br>Concluyo que me ayudó este entregable a organizarnos mejor y repartirnos con tiempo para que el proyecto se raelice a tiempo.<br><br> Uribe Quispe, Jesús Guillermo<br> TP1: <br>Logré comunicar por escrito con gran efectividad, adaptando sus reportes y documentación a diferentes tipos de audiencia, lo que facilitó tanto la implementación técnica como el seguimiento del proyecto por parte de los stakeholders. <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br> (Texto)</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br>TB1:<br> Preparé documentación exhaustiva para respaldar cada fase del proyecto, asegurando que la información fuera comprensible y accesible para todos. Desarrollé perfiles detallados de los usuarios y guías de entrevistas. Creé descripciones claras y completas de las tareas principales y las funciones del usuario para guiar el desarrollo. También redacté el Lean UX Canvas y las directrices de estilo, detallando desde los colores y la tipografía hasta la estructura de la información, lo cual ayudó a mantener la coherencia en el diseño y la implementación del proyecto. <br> <br>Bohorquez Lerzundi, Gerardo Sebastián<br>TB1:<br> Redacté documentos clave como el Startup Profile, Lean UX Assumptions y el registro de entrevistas, asegurando que la información fuera clara y comprensible para todos. <br> <br>Jimenez Melgar, Daniel Luciano<br>TB1:<br> Redacté el Lean UX Hypothesis Statements y Problem Statements, realicé una descripción detallada de la startup, redacté el análisis competitivo y las User Stories. <br> <br>Silva Tirado, Sebastián Valentino<br>TB1:<br> En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br><br>Uribe Quispe, Jesús Guillermo<br>TB1:<br> Preparé la esquematización del informe, la realización de competidores, estrategias frente a estas, user stories, product backlog, diseño de base de datos y diagrama de clases, asi como también el diseño y realización de la landing page y web application.<br><br>Luza Carhuamaca, Jose Adrian<br> TP1:<br>Redacté la documentación técnica de la Web App, utilizando un lenguaje claro y detallado para los desarrolladores, y un tono más accesible en los informes dirigidos a los stakeholders. Además, realizó reportes claros sobre los avances del proyecto en el Sprint #2.<br><br> Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Me encargué de escribir las guías de usuario para la Web App, dirigiéndose a usuarios finales con instrucciones simples y precisas. Además, redactó tickets detallados para los desarrolladores con especificaciones técnicas en términos más especializados.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Fuí responsable de crear el informe final del Sprint #2 y redactar la documentación de la API, empleando un lenguaje técnico adecuado para los desarrolladores. También escribió resúmenes ejecutivos accesibles para los stakeholders no técnicos.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br> Elaboré de manera efectiva la comunicación del proyecto ya sea en el informe y aplicación <br><br> Uribe Quispe, Jesús Guillermo<br> TP1:<br>Redacté el plan de pruebas de la Web App y un informe general de los resultados de las pruebas. Utilizó un lenguaje preciso y técnico para el equipo de desarrollo, mientras que los reportes entregados a los stakeholders fueron más concisos y comprensibles.  <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br> redacté las tareas asignadas mediante grupos de aplicaciones de mensajería y llamadas, así como también en los reportes entregados anteriormente. </td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Luza Carhuamaca, Jose Adrian<br>TB1:<br> La creación de estos documentos me permitió transmitir ideas complejas de una manera estructurada, facilitando el entendimiento y la colaboración entre todos. La documentación escrita proporcionó una base sólida para el desarrollo del proyecto, ayudando a prevenir malentendidos y asegurando que todos los involucrados estuvieran alineados con los objetivos. <br> <br>Bohorquez Lerzundi, Gerardo Sebastián<br> TB1:<br> Este trabajo me permitió mejorar mi habilidad para comunicarme por escrito de manera efectiva, ajustando el contenido y el tono según la audiencia para facilitar el entendimiento y la toma de decisiones. <br> <br>Jimenez Melgar, Daniel Luciano<br> TB1:<br> Estas acciones me permitieron mejorar mis habilidades de comunicación escrita, adaptando cada mensaje a la audiencia específica y garantizando que la información fuera  precisa. <br> <br>Silva Tirado, Sebastián Valentino<br> TB1:<br>Como equipo, logramos este primer entregale establecer un landing page comunicando efectivamente que nos permitirá entregar un trabajo completo a posteriormene a pesar del desafío que representaban los plazos cortos para la entrega del proyecto. <br> <br>Uribe Quispe, Jesús Guillermo<br>TB1: <br>Mediante la herramienta MarkDown he podido transmitir las ideas de buena manera estructuralmente hablando, ya que, la base para todo informe es el orden y la estructura de esta.  <br>  <br>Luza Carhuamaca, Jose Adrian<br> TP1:<br>Demostré una excelente capacidad para comunicar por escrito a diferentes audiencias, entregando documentos comprensibles tanto para técnicos como para no técnicos, lo que facilitó la comprensión del desarrollo de la Web App por todos los involucrados.<br><br> Bohorquez Lerzundi, Gerardo Sebastián<br> TP1: <br>Comuniqué por escrito de manera efectiva, ajustando su estilo de redacción según el público objetivo, lo que permitió una mejor implementación de las tareas del equipo y una correcta comprensión de la Web App por parte de los usuarios finales.<br><br> Jimenez Melgar, Daniel Luciano<br> TP1: <br>Mostré una alta efectividad en la comunicación escrita, adaptando su redacción tanto a desarrolladores como a partes interesadas con distintos niveles de conocimiento técnico, lo que mejoró la transparencia y comprensión del progreso del proyecto.<br><br> Silva Tirado, Sebastián Valentino<br> TP1:<br>Concluyo que me ayudó este entregable a organizarnos mejor y repartirnos con tiempo para que el proyecto se raelice a tiempo.<br><br> Uribe Quispe, Jesús Guillermo<br> TP1: <br>Logré comunicar por escrito con gran efectividad, adaptando sus reportes y documentación a diferentes tipos de audiencia, lo que facilitó tanto la implementación técnica como el seguimiento del proyecto por parte de los stakeholders. <br> <br> Luza Carhuamaca, Jose Adrian<br> TB2:<br> (Texto) <br> <br> Bohorquez Lerzundi, Gerardo Sebastián<br> TB2:<br> (Texto) <br> <br> Silva Tirado, Sebastián Valentino<br> TB2:<br> (Texto)  <br> <br> Uribe Quispe, Jesús Guillermo<br> TB2:<br>Comunicar por escrito de manera efectiva a diferentes rangos de audiencia es esencial para transmitir mensajes claros y lograr los objetivos de comunicación. Esta habilidad no solo mejora la comprensión, sino que también facilita la toma de decisiones y fomenta relaciones de confianza.</td>
 </tr>
 </tbody></table>
 
@@ -218,11 +218,16 @@ ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un 
    5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
    5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
    5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
-7. [**Conclusiones.**](#6.)<br>
+   5.3. [Validation Interviews](#5.3.)<br>
+   5.3.1 [Diseño de Entrevistas](#5.3.1.)<br>
+   5.3.2. [Registro de Entrevistas](#5.3.2.)<br>
+   5.3.3. [Evaluaciones segun Heurísticas](#5.3.3.)<br>
+   5.4. [About The Product](#5.4.)<br>
+6. [**Conclusiones.**](#6.)<br>
 6.1. [Conclusiones y recomendaciones](#6.1.)<br>
 6.2. [Video About-The-Team](#6.2.)<br>
-8. [**Bibliografía.**](#7.)<br>
-9. [**Anexos.**](#8.)<br>
+7. [**Bibliografía.**](#7.)<br>
+8. [**Anexos.**](#8.)<br>
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
@@ -2035,11 +2040,11 @@ Para la entrega del  1, se buscó lograr el desarrollo, implementación, y despl
 
 Durante el  1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
 Evidencia 1
-[Captura]
+<img src="Img/Landing1.png"> <br>
 Evidencia 2
-[Captura]
+<img src="Img/Landing2.png"> <br>
 Evidencia 3
-[Captura]
+<img src="Img/Landing3.png"> <br>
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for  Review. </h5></div>
 
@@ -2642,6 +2647,18 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
 
 Durante el sprint 3, se logró completar el desarrollo de la implementación del Web Aplication, que incluye diversas secciones en las que el usuario puede acceder como a su perfil, balanza, alimentos, entre otros. Paralelamente, se avanzó parcialmente en el desarrollo del back end, permitiendo que se conectará a la base de datos. A continuación, se presentan evidencias de las importantes y nuevas funcionalidades implementadas.
 
+
+<br>
+<h4>LANDING PAGE:</h4>
+
+* Actualización de sección About The Product:
+
+<img src="Img/ATP.png">
+
+Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ee8-0hdstgdNoQdtL7dZpTcB12wvDd75_IcArEmatnA3PA?e=jlGRGQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/: v:/g/personal/u202221876_upc_edu_pe/Ee8-0hdstgdNoQdtL7dZpTcB12wvDd75_IcArEmatnA3PA?e=jlGRGQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+<h4>APLICACIÓN WEB:</h4>
+
 * Dashboard:
 <img src="Img/dashboard.png">
 
@@ -2656,6 +2673,10 @@ Durante el sprint 3, se logró completar el desarrollo de la implementación del
 
 * Analisis:
 <img src="Img/analysis.png">
+
+Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-_EditrYrF5_e42wA?e=GaMPO1">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-_EditrYrF5_e42wA?e=GaMPO1</a>
+
+<h4>WEB SERVICES:</h4>
 
 
 Link de video: 
@@ -2734,6 +2755,13 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
 
 En la entrega del tercer sprint, se implementó el web aplication completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial del back end.
 
+Despliegue de Landing Page en Github Pages:
+
+<img src="Img/deployld.png">
+
+Link de Landing Page: <a href="https://tfopensource.github.io/Landing_Page/">https://tfopensource.github.io/Landing_Page/</a>
+
+
 Despliegue de Web Application en Netlify:
 <img src="Img/deploy1.png">
 <img src="Img/deploy1.png">
@@ -2749,9 +2777,15 @@ Back-end:
 | Alumno  | Actividad |
 | -------- | -------- |
 | Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team|
-| Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas|
-| Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product|
-| Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones|
+| Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
+| Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas|
+| Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard|
+
+
+<h5>Insights: </h5>
+<img src="Img/insight_sp3_1.png" alt="1">
+<img src="Img/insight_sp3_2.png" alt="2">
+<img src="Img/insight_sp3_3.png" alt="3">
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
@@ -3082,8 +3116,36 @@ Para mejorar la experiencia de usuario se agregaría estilos o algo característ
 
 A continuación, se muestra el video "About the product", que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes validan la calidad del software desarrollado.
 
-Enlace para visualizar el video About the product:
-Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Product</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-sI729-SW51-NutriMove-about-the-product-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: 6:03 min
+    </td>
+    <td>
+      Video relacionado acerca de las funcionalidades y descripciones del producto.
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="Img/ATP.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f
+      ">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f
+      </a>
+      Link (YouTube): <a href="https://youtu.be/VWNUbbYGRvk">https://youtu.be/VWNUbbYGRvk</a>
+    </td>
+  </tr>
+  </table>
+
 
 <div id='6.'><h2>CAPÍTULO VI: CONCLUSIONES </h2></div>
 
@@ -3099,6 +3161,34 @@ El segundo entregable del proyecto NutriMove representó un avance significativo
 El tercer entregable del proyecto NutriMove marca un hito importante en la evolución del producto. Durante el Sprint #3, el equipo se concentró en robustecer la experiencia del usuario y sentar las bases para una interacción más dinámica con los datos. Se realizaron actualizaciones significativas en el front-end, optimizando la interfaz de usuario y mejorando la usabilidad general. Paralelamente, se dio inicio al desarrollo del back-end, implementando una API robusta utilizando Node.js y una base de datos MySQL para almacenar y gestionar los datos de manera eficiente. Esta integración de front-end y back-end permitió conectar las funcionalidades de la aplicación y garantizar una sincronización fluida entre las diferentes capas del sistema. El resultado de este sprint es una aplicación más sólida y escalable, preparada para enfrentar los desafíos de las próximas etapas del proyecto.
 
 <div id='6.2.'><h3> 6.2.  Video About-the-Team.</h3></div>
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Team</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-sI729-SW51-NutriMove-about-the-team-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: min
+    </td>
+    <td>
+      Video relacionado acerca de los integrantes, sus funciones en el proyecto y conclusiones.
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="Img/ATT.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="">
+      </a>
+      Link (YouTube): <a href=""></a>
+    </td>
+  </tr>
+  </table>
 
 <div id='7.'><h2>CAPÍTULO VII: BIBLIOGRAFIA </h2></div>
 
@@ -3120,7 +3210,7 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 |Diapositivas TP1: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit |
 |Video Exposicion TB2: | (Enlace) |
 |Diapositivas TB2: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit  | 
-|Development Landing: | (Enlace)  | 
+|Development Landing: | https://tfopensource.github.io/Landing_Page/ | 
 |Development Web Application: | https://thunderous-phoenix-31b1f9.netlify.app/ |
 |About The Product: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f |
 |About The Team: | (Enlace)  | 
