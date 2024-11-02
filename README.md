@@ -30,24 +30,25 @@ width=50%"/>
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
 # Registro de Versiones del Informe
+
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| :-----: | :---: | :---: | --------------------------- |
-|TB1 |06/09/2024 |Bohórquez Lerzundi, Gerardo Sebastián|Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas|
-|TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano |Lean UX, Hypothesis Statements, LEntrevistasts, Descripción de la Startup, Análisis competitivo, Empathy Mapping, User Stories, Capítulo 4 |
-|TB1 |06/09/2024 |Luza Carhuamaca, Jose Adrian |User Personas, Diseño de entrevistas, Epics, User Task Matrix, As-is Scenario, Mapping, Lean UX Canvas, Capítulo 4|
-|TB1 |06/09/2024 |Silva Tirado, Sebastian Valentino |Entrevistas, Impact Mapping, Antecedentes y problemática, User Journey Mapping, Análisis de entrevistas, Ubiquitous Language, Capítulo 5|
-|TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Product Backlog, Estrategias y tácticas frente a competidores, Competidores, Segmentos objetivos, Needfinding, Capítulo 4|
-|TP1 |26/09/2024 |Bohórquez Lerzundi, Gerardo Sebastián|Sprint 2, Execution Evidence for Sprint Review.|
-|TP1 |26/09/2024 |Jimenez Melgar, Daniel Luciano |Sprint Planning 2, Services Documentation Evidence for Sprint Review.|
-|TP1 |26/09/2024 |Luza Carhuamaca, Jose Adrian |Sprint Backlog 2, Software Deployment Evidence for Sprint Review.|
-|TP1 |26/09/2024 |Silva Tirado, Sebastian Valentino |Development Evidence for Sprint Review, Team Collaboration Insights during Sprint|
-|TP1 |26/09/2024 |Uribe Quispe, Jesús Guillermo |Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint|
-|TB2 |29/10/2024 | Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team|
-|TB2 |29/10/2024 | Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
-|TB2 |29/10/2024 | Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas|
-|TB2 |29/10/2024 | Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard|
+| Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
+| :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   TB1   | 06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián | Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas                                                             |
+|   TB1   | 06/09/2024 |    Jimenez Melgar, Daniel Luciano     | Lean UX, Hypothesis Statements, LEntrevistasts, Descripción de la Startup, Análisis competitivo, Empathy Mapping, User Stories, Capítulo 4                                           |
+|   TB1   | 06/09/2024 |     Luza Carhuamaca, Jose Adrian      | User Personas, Diseño de entrevistas, Epics, User Task Matrix, As-is Scenario, Mapping, Lean UX Canvas, Capítulo 4                                                                   |
+|   TB1   | 06/09/2024 |   Silva Tirado, Sebastian Valentino   | Entrevistas, Impact Mapping, Antecedentes y problemática, User Journey Mapping, Análisis de entrevistas, Ubiquitous Language, Capítulo 5                                             |
+|   TB1   | 06/09/2024 |     Uribe Quispe, Jesús Guillermo     | Product Backlog, Estrategias y tácticas frente a competidores, Competidores, Segmentos objetivos, Needfinding, Capítulo 4                                                            |
+|   TP1   | 26/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián | Sprint 2, Execution Evidence for Sprint Review.                                                                                                                                      |
+|   TP1   | 26/09/2024 |    Jimenez Melgar, Daniel Luciano     | Sprint Planning 2, Services Documentation Evidence for Sprint Review.                                                                                                                |
+|   TP1   | 26/09/2024 |     Luza Carhuamaca, Jose Adrian      | Sprint Backlog 2, Software Deployment Evidence for Sprint Review.                                                                                                                    |
+|   TP1   | 26/09/2024 |   Silva Tirado, Sebastian Valentino   | Development Evidence for Sprint Review, Team Collaboration Insights during Sprint                                                                                                    |
+|   TP1   | 26/09/2024 |     Uribe Quispe, Jesús Guillermo     | Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint                                                                                                  |
+|   TB2   | 29/10/2024 | Bohorquez Lerzundi Gerardo Sebastian  | Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team                                                              |
+|   TB2   | 29/10/2024 |     Luza Carhuamaca, Jose Adrian      | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
+|   TB2   | 29/10/2024 |   Silva Tirado, Sebastian Valentino   | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas                   |
+|   TB2   | 29/10/2024 |     Uribe Quispe, Jesús Guillermo     | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard                                  |
 
 ## Project Report Collaboration Insights
 
@@ -61,37 +62,36 @@ URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSourc
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrante | Tareas Asignadas |
-| ---------- | ---------------- |
-|Bohórquez Lerzundi, Gerardo Sebastián|Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas|
-|Jimenez Melgar, Daniel Luciano |Lean UX, Hypothesis Statements, LEntrevistasts, Descripción de la Startup, Análisis competitivo, Empathy Mapping, User Stories, Capítulo 4 |
-|Luza Carhuamaca, Jose Adrian |User Personas, Diseño de entrevistas, Epics, User Task Matrix, As-is Scenario, Mapping, Lean UX Canvas, Capítulo 4|
-|Silva Tirado, Sebastian Valentino |Entrevistas, Impact Mapping, Antecedentes y problemática, User Journey Mapping, Análisis de entrevistas, Ubiquitous Language, Capítulo 5|
-|Uribe Quispe, Jesús Guillermo | Product Backlog, Estrategias y tácticas frente a competidores, Competidores, Segmentos objetivos, Needfinding, Capítulo 4|
+| Integrante                            | Tareas Asignadas                                                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bohórquez Lerzundi, Gerardo Sebastián | Startup Profile, Lean UX Assumptions, Solution Profile, Lean UX Process, To-Be Scenario Mapping, Registro de entrevistas                   |
+| Jimenez Melgar, Daniel Luciano        | Lean UX, Hypothesis Statements, LEntrevistasts, Descripción de la Startup, Análisis competitivo, Empathy Mapping, User Stories, Capítulo 4 |
+| Luza Carhuamaca, Jose Adrian          | User Personas, Diseño de entrevistas, Epics, User Task Matrix, As-is Scenario, Mapping, Lean UX Canvas, Capítulo 4                         |
+| Silva Tirado, Sebastian Valentino     | Entrevistas, Impact Mapping, Antecedentes y problemática, User Journey Mapping, Análisis de entrevistas, Ubiquitous Language, Capítulo 5   |
+| Uribe Quispe, Jesús Guillermo         | Product Backlog, Estrategias y tácticas frente a competidores, Competidores, Segmentos objetivos, Needfinding, Capítulo 4                  |
 
 **TP1**
 
 Para la elaboración del informe correspondiente a la entrega TP1, la implementación de las secciones se asignó a cada integrante del equipo de la siguiente manera:
 
-| Integrante | Tareas Asignadas |
-| ---------- | ---------------- |
-|Bohórquez Lerzundi, Gerardo Sebastián|Sprint 2, Execution Evidence for Sprint Review.|
-|Jimenez Melgar, Daniel Luciano |Sprint Planning 2, Services Documentation Evidence for Sprint Review.|
-|Luza Carhuamaca, Jose Adrian |Sprint Backlog 3, Software Deployment Evidence for Sprint Review.|
-|Silva Tirado, Sebastian Valentino |Development Evidence for Sprint Review, Team Collaboration Insights during Sprint|
-|Uribe Quispe, Jesús Guillermo |Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint|
-
+| Integrante                            | Tareas Asignadas                                                                    |
+| ------------------------------------- | ----------------------------------------------------------------------------------- |
+| Bohórquez Lerzundi, Gerardo Sebastián | Sprint 2, Execution Evidence for Sprint Review.                                     |
+| Jimenez Melgar, Daniel Luciano        | Sprint Planning 2, Services Documentation Evidence for Sprint Review.               |
+| Luza Carhuamaca, Jose Adrian          | Sprint Backlog 3, Software Deployment Evidence for Sprint Review.                   |
+| Silva Tirado, Sebastian Valentino     | Development Evidence for Sprint Review, Team Collaboration Insights during Sprint   |
+| Uribe Quispe, Jesús Guillermo         | Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint |
 
 **TB2**
 
 Para la elaboración del informe correspondiente a la entrega TB2, la implementación de las secciones se asignó a cada integrante del equipo de la siguiente manera:
 
-| Integrante | Tareas Asignadas |
-| ---------- | ---------------- |
-| Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team |
-| Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
-| Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas|
-| Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard|
+| Integrante                           | Tareas Asignadas                                                                                                                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bohorquez Lerzundi Gerardo Sebastian | Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team                                                              |
+| Luza Carhuamaca, Jose Adrian         | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
+| Silva Tirado, Sebastian Valentino    | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas                   |
+| Uribe Quispe, Jesús Guillermo        | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard                                  |
 
 **Github Collaboration Insights**
 
@@ -101,12 +101,14 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 <br><br>
 
 Los integrantes son:
+
 - Bohórquez Lerzundi, Gerardo Sebastián | (Sebasbl562)
-- Luza Carhuamaca, Jose Adrian          | (Adrianluza1)
-- Silva Tirado, Sebastian Valentino     | (SebasSilvaT)
-- Uribe Quispe, Jesús Guillermo         | (JesusU27)
+- Luza Carhuamaca, Jose Adrian | (Adrianluza1)
+- Silva Tirado, Sebastian Valentino | (SebasSilvaT)
+- Uribe Quispe, Jesús Guillermo | (JesusU27)
 
 ## STUDENT OUTCOME
+
 ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 <b>ABET – EAC - Student Outcome 3</b>
 
@@ -224,8 +226,8 @@ ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un 
    5.3.3. [Evaluaciones segun Heurísticas](#5.3.3.)<br>
    5.4. [About The Product](#5.4.)<br>
 6. [**Conclusiones.**](#6.)<br>
-6.1. [Conclusiones y recomendaciones](#6.1.)<br>
-6.2. [Video About-The-Team](#6.2.)<br>
+   6.1. [Conclusiones y recomendaciones](#6.1.)<br>
+   6.2. [Video About-The-Team](#6.2.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
@@ -403,7 +405,7 @@ El problema tiene un impacto significativo en la efectividad de los esfuerzos de
 
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 
-Nuestro servicio se enfoca en promover el bienestar y la salud a través de una aplicación que permite a los usuarios registrar actividades como la alimentación y el ejercicio para llevar un seguimiento constante de su progreso. 
+Nuestro servicio se enfoca en promover el bienestar y la salud a través de una aplicación que permite a los usuarios registrar actividades como la alimentación y el ejercicio para llevar un seguimiento constante de su progreso.
 
 Hemos identificado un desafío crítico que afecta la efectividad del servicio y la satisfacción del usuario: la falta de constancia y motivación para registrar las actividades diariamente. A pesar de los múltiples métodos de registro que existen, muchas personas no logran mantener un registro continuo, lo que reduce su progreso.
 
@@ -412,6 +414,7 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 **Business Assumptions**<br>
+
 - Creemos que nuestros usuarios necesitan una manera más eficiente y personalizada de gestionar su bienestar físico y mental.
 - Estas necesidades se pueden resolver mediante el uso de una aplicación web que registre y analice actividades diarias como ejercicio, alimentación y sueño, ofreciendo recomendaciones personalizadas basadas en estos datos.
 - Los usuarios iniciales son personas activas o que desean mejorar su salud y bienestar mediante el seguimiento y análisis de sus actividades diarias.
@@ -419,24 +422,25 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 - El usuario también puede obtener beneficios adicionales con funcionalidades como el seguimiento de metas, alertas para hábitos saludables, y la integración con dispositivos de fitness, lo que les permitirá mejorar su estilo de vida de manera continua y holística.
 - Vamos a adquirir la mayoría de los usuarios a través de campañas de marketing digital, asociaciones con gimnasios y nutricionistas, y la creación de contenido educativo sobre salud y bienestar que aumente la visibilidad de la aplicación.
 - Se hará dinero a través de las ventas de suscripciones a diferentes niveles de acceso a la plataforma, incluyendo planes premium con características avanzadas y personalización adicional.
--Nuestra competencia principal en el mercado serán otras aplicaciones de bienestar que no ofrecen una personalización profunda o que carecen de análisis detallados de actividades diarias.
+  -Nuestra competencia principal en el mercado serán otras aplicaciones de bienestar que no ofrecen una personalización profunda o que carecen de análisis detallados de actividades diarias.
 - Los superaremos mediante el uso de tecnologías avanzadas de análisis de datos, un enfoque centrado en el usuario, y la integración con múltiples dispositivos y plataformas, ofreciendo un servicio que se adapta continuamente a las necesidades de los usuarios.
 - Nuestro mayor riesgo es la falta de adherencia por parte de los usuarios, quienes podrían desmotivarse si no ven resultados rápidos o si la aplicación es demasiado compleja de usar.
 - Resolveremos esto mediante un diseño intuitivo y motivador, además de proporcionar guías y soporte continuo para que los usuarios puedan aprovechar al máximo la aplicación desde el primer día.
 
 **Assumptions worksheet**<br>
+
 - ¿Quién es el usuario?
-Personas activas o que buscan mejorar su salud y bienestar mediante el seguimiento de sus actividades diarias.**
+  Personas activas o que buscan mejorar su salud y bienestar mediante el seguimiento de sus actividades diarias.\*\*
 - ¿Dónde encaja nuestro producto en su vida?
-Nuestra aplicación se integra en la vida diaria de los usuarios para registrar y analizar sus actividades de ejercicio, alimentación y sueño, ofreciendo recomendaciones que los ayudan a mejorar su bienestar general.**
+  Nuestra aplicación se integra en la vida diaria de los usuarios para registrar y analizar sus actividades de ejercicio, alimentación y sueño, ofreciendo recomendaciones que los ayudan a mejorar su bienestar general.\*\*
 - ¿Qué problemas tiene nuestro producto? ¿Resolver?
-La falta de motivación y adherencia a largo plazo puede ser un desafío para algunos usuarios. También, la complejidad de uso podría desanimar a usuarios menos tecnológicos.
+  La falta de motivación y adherencia a largo plazo puede ser un desafío para algunos usuarios. También, la complejidad de uso podría desanimar a usuarios menos tecnológicos.
 - ¿Cuándo y cómo es nuestro producto usado?
-La aplicación se utiliza a diario para registrar actividades, revisar gráficos de progreso, y recibir recomendaciones personalizadas. Los usuarios pueden acceder a ella desde cualquier dispositivo conectado a internet.
+  La aplicación se utiliza a diario para registrar actividades, revisar gráficos de progreso, y recibir recomendaciones personalizadas. Los usuarios pueden acceder a ella desde cualquier dispositivo conectado a internet.
 - ¿Qué características son importantes?
-Personalización de recomendaciones, integración con dispositivos de fitness, accesibilidad en múltiples plataformas, gráficos de progreso intuitivos, y alertas automáticas para hábitos saludables.
+  Personalización de recomendaciones, integración con dispositivos de fitness, accesibilidad en múltiples plataformas, gráficos de progreso intuitivos, y alertas automáticas para hábitos saludables.
 - ¿Cómo debe verse nuestro producto y cómo comportarse?
-Debe tener un diseño limpio, motivador y fácil de usar, con una interfaz que promueva la acción y el seguimiento continuo. La aplicación debe ser rápida, fiable y ofrecer una experiencia de usuario fluida en cualquier dispositivo.
+  Debe tener un diseño limpio, motivador y fácil de usar, con una interfaz que promueva la acción y el seguimiento continuo. La aplicación debe ser rápida, fiable y ofrecer una experiencia de usuario fluida en cualquier dispositivo.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
@@ -454,18 +458,17 @@ Después de completar los pasos del proceso Lean UX, se dispone a crear el Lean 
 <div id='1.3.'><h3> 1.3. Segmentos objetivos</h3></div>
 
 En esta sección, nos centraremos en definir los grupos específicos de personas quienes son identificados como el público objetivo principal de un producto o servicio. Estos grupos se caracterizan por compartir características demográficas, comportamientos, necesidades o preferencias similares, lo que los distingue de otros segmentos del mercado.
-●	Segmento demográfico
+● Segmento demográfico
 Personas que realizan actividad física moderada o que simplemente quieren tener un cuerpo saludable gracias a dietas específicas.
 
-●	Segmento geográfico
+● Segmento geográfico
 Personas pertenecientes a una región con alta demanda de salud y bienestar física.
 
-●	Segmento psicográfico
+● Segmento psicográfico
 Entusiastas y principiantes en el mundo del fitness.
 
-●	Segmento Conductual
+● Segmento Conductual
 Personas que regularmente necesitan de planes alimenticios o rutinas de ejercicios para mejorar continuamente su salud física.
-
 
 <div id='2.'><h2>Capítulo II: REQUIREMENTS ELICITATION & ANALYSIS</h2></div>
 
@@ -481,11 +484,10 @@ Estos son:
 
 - **Competidor 1:**
   <br>
-Descripción: Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio.
-<br><br>
+  Descripción: Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio.
+  <br><br>
 
 Características: Posee un registro para ver el progreso de tus actividades físicas y tu alimentación.
-	
 Canal de distribución principal: Web <br>
 
 Posee un registro para ver el progreso de tus actividades físicas y tu alimentación
@@ -502,14 +504,14 @@ Posee un registro para ver el progreso de tus actividades físicas y tu alimenta
 
 - **Competidor 2:**
   <br>
-Descripción: Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas.
-<br>
-Características: Enfocado más en la pérdida de peso mediante el registro de calorías diarias
-	
+  Descripción: Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas.
+  <br>
+  Características: Enfocado más en la pérdida de peso mediante el registro de calorías diarias
+
 Canal de distribución principal: Web <br>
 
 Enfocado más en la pérdida de peso mediante el registro de calorías diarias
-  <br>
+<br>
 
 <div align="center">
 
@@ -521,12 +523,12 @@ Enfocado más en la pérdida de peso mediante el registro de calorías diarias
 
 - **Competidor 3:**
   <br>
-Descripción: Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo.<br>
+  Descripción: Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo.<br>
 
 Características: Canal de distribución principal: Web <br>
 
 Comunidad altamente activa y la ayuda mutua de los clientes mediante recomendaciones de alimentación o rutinas de ejercicios
-  <br>
+<br>
 
 <div align="center">
 
@@ -540,19 +542,19 @@ Comunidad altamente activa y la ayuda mutua de los clientes mediante recomendaci
 
 El análisis de la competencia en el mercado nos permite entender mejor el entorno en el que competirá nuestro producto. Esto nos ayuda a desarrollar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.
 
-| Aspecto                 | **NutriMove** <br> <img src="Img/logo.jpg" alt="Logo NutriMove"> | **Cronometer** <br> <img src="Img/logo-cronometer.jpg" alt="Logo Cronometer"> | **Lose It!** <br> <img src="Img/logo-loseit.jpg" alt="Logo Loseit"> | **SparkPeople** <br> <img src="Img/logo-spark.jpg" alt="Logo Spark People"> |
-|-------------------------|---------------------------------------------------|----------------------------------------------------|------------------------------------------------|---------------------------------------------------|
-| **Overview**             | Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio. | Sitio web que permite a los usuarios hacer un seguimiento detallado de su ingesta de alimentos y nutrientes, así como de sus actividades físicas. | Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas. | Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo. |
-| **Ventaja Competitiva**  | Personalización profunda que ofrece en las recomendaciones de salud y bienestar, utilizando datos recogidos de la actividad diaria de los usuarios. | Enfoque en la precisión del seguimiento de micronutrientes y base de datos científica. | Simplicidad y enfoque en la pérdida de peso. | Comunidad activa y soporte social, lo que fomenta la motivación y la adherencia a los programas de salud y bienestar. |
-| **Mercado Objetivo**     | Personas preocupadas por su alimentación y personas que desean llevar un control de sus entrenamientos. | Usuarios interesados en un control detallado de su dieta y usuarios preocupados por su salud general. | Personas que desean perder peso de manera sencilla. | Personas que buscan perder peso, mejorar su salud general, y aquellos que valoran el soporte comunitario en su búsqueda de bienestar. |
-| **Estrategias de Marketing** | Campañas digitales dirigidas, utilizando redes sociales, publicidad en motores de búsqueda, y marketing de contenido para atraer a usuarios que busquen mejorar su salud. | Publicidad, marketing de contenidos que resalta la precisión y el rigor científico de su plataforma, y colaboración con profesionales de la salud y la nutrición. | Publicidad en redes sociales, marketing de afiliación, y colaboraciones con influencers en el ámbito del fitness y la pérdida de peso. | Publicidad digital, y programas de afiliación que incentivan la participación comunitaria. |
-| **Productos & Servicios** | Registro diario de actividades, gráficos de progreso, recomendaciones personalizadas y planes de salud personalizados. | Seguimiento de alimentos, actividades, peso, análisis de nutrientes, informes detallados de salud, sincronización con aplicaciones y dispositivos de fitness. | Seguimiento de calorías, análisis de nutrientes, sincronización con dispositivos de fitness, planes de pérdida de peso, recetas saludables, y foros comunitarios. | Seguimiento de calorías y ejercicio, planes de dieta, artículos y recursos educativos, desafíos de fitness, recetas saludables, y una red social para compartir logros y recibir apoyo. |
-| **Precios & Costos**     | Por un costo de $4.99 al mes por alimentación o ejercicio, $8.99 por ambos planes. | Versión gratuita con características básicas, y una versión premium (Cronometer Gold) por $5.99 al mes o $34.95 al año. | Versión gratuita con funcionalidades básicas, y una versión premium (Lose It! Premium) por $39.99 al año. | Acceso básico gratuito, pero también ofrecen una versión premium por $4.99 al mes o $29.99 al año. |
-| **Canales de Distribución** | Aplicación accesible a través de un sitio web. | Disponible en la web y como una aplicación móvil, accesible a través de suscripción online. | Disponible a través de su sitio web y como una aplicación móvil. | Disponible en la web y a través de una aplicación móvil. |
-| **Fortalezas**           | La aplicación ofrece recomendaciones y planes personalizados que se adaptan a las necesidades individuales de los usuarios, y diseño intuitivo que facilita el uso diario de la aplicación. | Precisión y profundidad en el seguimiento de nutrientes, base de datos científicamente respaldada y confianza de los profesionales de la salud. | Interfaz amigable y fácil de usar, enfoque específico en la pérdida de peso, y una comunidad activa. | Comunidad sólida y activa, gran cantidad de recursos educativos, y una interfaz fácil de usar. |
-| **Debilidades**          | El mercado de aplicaciones de bienestar y salud es altamente competitivo, el éxito de la aplicación depende en gran medida de la constancia y motivación del usuario para registrar sus actividades. | Interfaz poco amigable para usuarios casuales, y versión gratuita con limitaciones significativas. | Menor profundidad en el análisis de nutrientes en comparación con otros competidores, y la versión gratuita tiene menos funcionalidades. | La versión gratuita posee anuncios y menos funcionalidades, y algunas partes de la interfaz pueden parecer anticuadas. |
-| **Oportunidades**        | Crecimiento en mercados de habla hispana, y posibilidad de asociarse con nutricionistas y entrenadores personales para ofrecer servicios complementarios. | Expansión en mercados internacionales y integración con más dispositivos de fitness. | Ampliación de las funcionalidades de la versión gratuita, expansión en mercados, y desarrollo de integraciones con más dispositivos de fitness. | Mejorar la interfaz y la experiencia de usuario, expandir la comunidad a nivel internacional, y desarrollar más contenido exclusivo para miembros premium. |
-| **Amenazas**             | Aparición constante de nuevas aplicaciones y servicios en el mercado, y riesgo de que los usuarios pierdan interés si no ven resultados rápidos o si encuentran la aplicación complicada de usar. | Competencia de aplicaciones y sitios web con interfaces más amigables o con comunidades más grandes. | Alta competencia en el mercado de pérdida de peso, con la entrada constante de nuevas aplicaciones y servicios similares. | La competencia de otras plataformas con comunidades igualmente grandes o con mejor tecnología. |
+| Aspecto                      | **NutriMove** <br> <img src="Img/logo.jpg" alt="Logo NutriMove">                                                                                                                                     | **Cronometer** <br> <img src="Img/logo-cronometer.jpg" alt="Logo Cronometer">                                                                                     | **Lose It!** <br> <img src="Img/logo-loseit.jpg" alt="Logo Loseit">                                                                                               | **SparkPeople** <br> <img src="Img/logo-spark.jpg" alt="Logo Spark People">                                                                                                             |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Overview**                 | Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio.                                             | Sitio web que permite a los usuarios hacer un seguimiento detallado de su ingesta de alimentos y nutrientes, así como de sus actividades físicas.                 | Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas.        | Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo.                                                              |
+| **Ventaja Competitiva**      | Personalización profunda que ofrece en las recomendaciones de salud y bienestar, utilizando datos recogidos de la actividad diaria de los usuarios.                                                  | Enfoque en la precisión del seguimiento de micronutrientes y base de datos científica.                                                                            | Simplicidad y enfoque en la pérdida de peso.                                                                                                                      | Comunidad activa y soporte social, lo que fomenta la motivación y la adherencia a los programas de salud y bienestar.                                                                   |
+| **Mercado Objetivo**         | Personas preocupadas por su alimentación y personas que desean llevar un control de sus entrenamientos.                                                                                              | Usuarios interesados en un control detallado de su dieta y usuarios preocupados por su salud general.                                                             | Personas que desean perder peso de manera sencilla.                                                                                                               | Personas que buscan perder peso, mejorar su salud general, y aquellos que valoran el soporte comunitario en su búsqueda de bienestar.                                                   |
+| **Estrategias de Marketing** | Campañas digitales dirigidas, utilizando redes sociales, publicidad en motores de búsqueda, y marketing de contenido para atraer a usuarios que busquen mejorar su salud.                            | Publicidad, marketing de contenidos que resalta la precisión y el rigor científico de su plataforma, y colaboración con profesionales de la salud y la nutrición. | Publicidad en redes sociales, marketing de afiliación, y colaboraciones con influencers en el ámbito del fitness y la pérdida de peso.                            | Publicidad digital, y programas de afiliación que incentivan la participación comunitaria.                                                                                              |
+| **Productos & Servicios**    | Registro diario de actividades, gráficos de progreso, recomendaciones personalizadas y planes de salud personalizados.                                                                               | Seguimiento de alimentos, actividades, peso, análisis de nutrientes, informes detallados de salud, sincronización con aplicaciones y dispositivos de fitness.     | Seguimiento de calorías, análisis de nutrientes, sincronización con dispositivos de fitness, planes de pérdida de peso, recetas saludables, y foros comunitarios. | Seguimiento de calorías y ejercicio, planes de dieta, artículos y recursos educativos, desafíos de fitness, recetas saludables, y una red social para compartir logros y recibir apoyo. |
+| **Precios & Costos**         | Por un costo de $4.99 al mes por alimentación o ejercicio, $8.99 por ambos planes.                                                                                                                   | Versión gratuita con características básicas, y una versión premium (Cronometer Gold) por $5.99 al mes o $34.95 al año.                                           | Versión gratuita con funcionalidades básicas, y una versión premium (Lose It! Premium) por $39.99 al año.                                                         | Acceso básico gratuito, pero también ofrecen una versión premium por $4.99 al mes o $29.99 al año.                                                                                      |
+| **Canales de Distribución**  | Aplicación accesible a través de un sitio web.                                                                                                                                                       | Disponible en la web y como una aplicación móvil, accesible a través de suscripción online.                                                                       | Disponible a través de su sitio web y como una aplicación móvil.                                                                                                  | Disponible en la web y a través de una aplicación móvil.                                                                                                                                |
+| **Fortalezas**               | La aplicación ofrece recomendaciones y planes personalizados que se adaptan a las necesidades individuales de los usuarios, y diseño intuitivo que facilita el uso diario de la aplicación.          | Precisión y profundidad en el seguimiento de nutrientes, base de datos científicamente respaldada y confianza de los profesionales de la salud.                   | Interfaz amigable y fácil de usar, enfoque específico en la pérdida de peso, y una comunidad activa.                                                              | Comunidad sólida y activa, gran cantidad de recursos educativos, y una interfaz fácil de usar.                                                                                          |
+| **Debilidades**              | El mercado de aplicaciones de bienestar y salud es altamente competitivo, el éxito de la aplicación depende en gran medida de la constancia y motivación del usuario para registrar sus actividades. | Interfaz poco amigable para usuarios casuales, y versión gratuita con limitaciones significativas.                                                                | Menor profundidad en el análisis de nutrientes en comparación con otros competidores, y la versión gratuita tiene menos funcionalidades.                          | La versión gratuita posee anuncios y menos funcionalidades, y algunas partes de la interfaz pueden parecer anticuadas.                                                                  |
+| **Oportunidades**            | Crecimiento en mercados de habla hispana, y posibilidad de asociarse con nutricionistas y entrenadores personales para ofrecer servicios complementarios.                                            | Expansión en mercados internacionales y integración con más dispositivos de fitness.                                                                              | Ampliación de las funcionalidades de la versión gratuita, expansión en mercados, y desarrollo de integraciones con más dispositivos de fitness.                   | Mejorar la interfaz y la experiencia de usuario, expandir la comunidad a nivel internacional, y desarrollar más contenido exclusivo para miembros premium.                              |
+| **Amenazas**                 | Aparición constante de nuevas aplicaciones y servicios en el mercado, y riesgo de que los usuarios pierdan interés si no ven resultados rápidos o si encuentran la aplicación complicada de usar.    | Competencia de aplicaciones y sitios web con interfaces más amigables o con comunidades más grandes.                                                              | Alta competencia en el mercado de pérdida de peso, con la entrada constante de nuevas aplicaciones y servicios similares.                                         | La competencia de otras plataformas con comunidades igualmente grandes o con mejor tecnología.                                                                                          |
 
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
 
@@ -561,7 +563,6 @@ Frente a Cronometer, podemos competir mediante la forma de interacción con el u
 En el caso de LoseIt, no es tan específico en cuanto al análisis profundo de los nutrientes que se obtiene en tu día a día y su versión gratuita no tiene muchas funcionalidades. Por lo tanto, nuestra estrategia sería tener una mayor especificación en los nutrientes diarios que se consumen día a día y tener más funcionalidades en el modo gratuito para poder tener la atención del público.
 
 Finalmente con SparkPeople, posee una interfaz no muy atractiva para el usuario y las funcionalidades en su versión gratuita son pocas, además de que recurren al uso de anuncios en dicha versión por lo que genera una incomodidad hacia el usuario. Por ello nuestra estrategia es modelar de una buena manera nuestra aplicación web para la comodidad y gusto de nuestros usuarios.
-
 
 <div id='2.2.'><h4>2.2. Entrevistas.</h4></div>
 
@@ -594,7 +595,6 @@ En esta sección, abordaremos el proceso de entrevistas, una herramienta fundame
 8. ¿Qué tan motivador le resultaría recibir notificaciones cuando alcance un nuevo objetivo de ejercicio?
 9. ¿Utiliza actualmente aplicaciones para planificar o registrar sus ejercicios? ¿Cuáles?
 10. ¿Qué tipo de métricas le gustaría ver en gráficos para monitorizar su progreso físico?
-
 
 <div id='2.2.2.'><h4> 2.2.2. Registro De Entrevistas.</h4></div>
 
@@ -730,16 +730,16 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
 <div id='2.2.3.'><h4> 2.2.3. Análisis De Entrevistas.</h4></div>
 
 **Segmento Objetivo 1:** Dieta saludable, comer bien, bajar de peso.<br>
+
 - La joven Estrella ya tiene experiencia con las dietas, tan solo fue complicado para ella seguirlo por lo que lo dejó, sería ideal que la dieta sea progresiva para ella y no sea muy fuerte desde el inicio.
 - Para el joven Diego tiene conocimientos de la dieta pero se lo impedía su entorno con comidas chatarras dejándolo automáticamente, le gustaría intentarlo cuando crea conveniente.
 - El joven Elmer intentó una dieta pero la temporada de fiestas le impedía, le gustaría que hubiera una aplicación con facilidades de saber que alimentos poco a poco podría ayudarle. <br><br>
-**Segmento Objetivo 2:** Hacer ejercicio, rutinas.<br>
+  **Segmento Objetivo 2:** Hacer ejercicio, rutinas.<br>
 - La joven Camila está de acuerdo con un seguimiento y programa de ejercicios para su rutina e incluso mejorarla.
 - El joven Marcelo está de acuerdo con especificar los ejercicios y cómo debe sentirse uno por si se está haciendo correcto o debería mejorar.
 - La joven Marcia está desidia de volver a entrenar pero haciendo micro ejercicios y tiempos que se pueda dar en su casa sin perjudicar otras actividades.
 
 <div id='2.3.'><h3> 2.3. NeedFinding.</h4></div>
-
 
 <div id='2.3.1.'><h4> 2.3.1. User Persona.</h4></div>
 En esta sección, nos adentraremos en el concepto de User Personas, una herramienta crucial en el diseño centrado en el usuario. Las User Personas son representaciones ficticias de segmentos clave de usuarios, creadas a partir de datos reales y observaciones. Cada persona encapsula las características demográficas, comportamientos, necesidades, objetivos y frustraciones de un grupo específico de usuarios.
@@ -793,7 +793,7 @@ En esta sección, nos centraremos en la User Task Matrix, una herramienta utiliz
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
-En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que visualiza las experiencias de los usuarios a lo largo de su interacción con un producto o servicio. Este mapa representa los diferentes puntos de contacto y las emociones que los usuarios experimentan en cada etapa de su viaje, desde el descubrimiento inicial hasta la postventa. El User Journey Mapping ayuda a comprender las necesidades, expectativas y frustraciones de los usuarios a lo largo de su experiencia, lo que permite identificar oportunidades de mejora y optimización en el diseño del producto o servicio. <br> 
+En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que visualiza las experiencias de los usuarios a lo largo de su interacción con un producto o servicio. Este mapa representa los diferentes puntos de contacto y las emociones que los usuarios experimentan en cada etapa de su viaje, desde el descubrimiento inicial hasta la postventa. El User Journey Mapping ayuda a comprender las necesidades, expectativas y frustraciones de los usuarios a lo largo de su experiencia, lo que permite identificar oportunidades de mejora y optimización en el diseño del producto o servicio. <br>
 
 <img src="Img/imagen_2024-09-05_181616549.png">
 
@@ -801,11 +801,11 @@ En esta sección, nos enfocaremos en el User Journey Mapping, una técnica que v
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
-Segmento 1: Dieta saludable, comer bien, bajar de peso  
+Segmento 1: Dieta saludable, comer bien, bajar de peso
 
 <img src="Img/Juan Pérez.png" alt="User Persona Juan Pérez" />
 
-Segmento 2: Hacer ejercicio, rutinas 
+Segmento 2: Hacer ejercicio, rutinas
 
 <img src="Img/María López.png" alt="User Persona María López" />
 
@@ -851,18 +851,15 @@ Posicionamiento de la plataforma como referente mundial en soluciones de bienest
 
 <div id='3.'><h2>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h4></div>
 
-
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 En esta sección, examinamos cómo el mapeo de escenarios To-Be puede redefinir nuestra aproximación al seguimiento del ejercicio y la nutrición, y orientar el desarrollo de nuestra aplicación web. Este enfoque nos permite visualizar un futuro donde los usuarios gestionan su salud de manera más eficaz, a través de funcionalidades avanzadas y procesos optimizados. Mediante un análisis exhaustivo y una planificación estratégica, garantizamos que cada avance tecnológico no solo cumpla con las expectativas actuales, sino que también anticipe y facilite las necesidades futuras de nuestros usuarios en su camino hacia un estilo de vida más saludable.
  <br><br>
 
  <img src="Img/To-Be-Escenario.jpg" alt="To-Be Scenario Mapping" />
 
- URL del To-Be Scenario Mapping: [https://www.figma.com/board/6fvAOdFqlBZNiRlu4W4IqZ/As-is-Scenario-Map-(Community)?node-id=0-1&t=bqIntouYZo5Umk93-1]
-
+URL del To-Be Scenario Mapping: [https://www.figma.com/board/6fvAOdFqlBZNiRlu4W4IqZ/As-is-Scenario-Map-(Community)?node-id=0-1&t=bqIntouYZo5Umk93-1]
 
 <div id='3.2.'><h3> 3.2. User Stories.</h3></div>
-
 
 <div id='3.2.1.'><h4> 3.2.1 User Stories.</h4></div>
 
@@ -1123,7 +1120,6 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
     <td> E002 </td>
 </tr>
 
- 
   <tr>
     <td>TS009</td>
     <td>Gestión de Actividades de Salud</td>
@@ -1193,41 +1189,42 @@ Dado que el usuario tiene una cuenta registrada, Cuando ingresa su correo electr
 
 Es una técnica de medición estratégica que ayuda a los equipos de desarrollo a alinear las actividades con los objetivos de negocios. A continuación Impact Map en diferentes contextos:
 <img src="Img/imagen_2024-09-05_181533328.png" alt="Impact Mapping">
-<div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
-El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado. 
 
-| # Orden | User story ID | Título                | Description                                                                 | Story points (1,2,3,5,8,13) |
-|---------|----------------|-----------------------|-----------------------------------------------------------------------------|--------------|
-| 01      | HU01           | Registro de Cuenta    | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles. | 5            |
-| 02      | HU02           | Inicio de Sesión      | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación. | 5            |
-| 03      | HU03           | Recuperación de cuenta| Como usuario registrado, quiero poder recuperar mi cuenta en caso de olvidar mi contraseña, para restablecer mi acceso sin perder mis datos e historial de uso. | 5            |
-| 04      | HU04           | Registro de actividades diarias | Desarrollar una funcionalidad en la que se pueda guardar y ver la lista del registro de actividades detalladamente. | 5            |
-| 05 | HU05 | Visualización de gráficos de progreso | Como usuario, quiero visualizar gráficos de progreso para entender mejor mis avances en términos de salud y ejercicio. | 3 |
-| 06 | HU06 | Recomendaciones personalizadas | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis actividades registradas para mejorar mi salud. | 3 |
-| 07 | HU07 | Registro de ingesta de alimentos | Como usuario, quiero registrar mi ingesta de alimentos para controlar las calorías y nutrientes. | 5 |
-| 08 | HU08 | Actualización o personalización del perfil del usuario | Como usuario, quiero actualizar los datos de mi perfil para obtener recomendaciones y análisis precisos. | 1 |
-| 09 | HU09 | Configuración de objetivos de salud | Como usuario, quiero configurar mis objetivos de salud para que la aplicación me ayude a alcanzarlos. | 3 |
-| 10 | HU10 | Recepción de notificaciones recordatorias | Como usuario, quiero recibir notificaciones de recordatorio para registrar mis actividades diarias de salud. | 1 |
-| 11 | HU11 | Seguimiento de hidratación diaria | Como usuario, quiero llevar un seguimiento de mi consumo de agua diario para mantenerme hidratado. | 3 |
-| 12 | HU12 | Revisión de historial de actividades | Como usuario, quiero revisar mi historial de actividades para evaluar la consistencia y progreso a lo largo del tiempo. | 5 |
-| 13 | HU13 | Visualización de estadísticas de salud | Como usuario, quiero ver estadísticas detalladas de mi salud para entender mejor mis patrones y ajustar mis hábitos en consecuencia. | 5 |
-| 14 | HU14 | Acceso a la comunidad | Como usuario, quiero acceder a una comunidad de usuarios para compartir experiencias y obtener apoyo en mi camino hacia la salud. | 5 |
-| 15 | HU15 | Configuración del perfil privado | Como usuario, quiero configurar la privacidad de mi perfil para controlar quién puede ver mi información personal. | 1 |
-| 16 | HU16 | Acceso a contenido educativo | Como usuario, quiero acceder a contenido educativo sobre salud y bienestar para aprender a mejorar mi estilo de vida. | 1 |
-| 17 | HU17 | Acceso a rutinas de ejercicio | Como usuario, quiero acceder a contenido sobre rutinas de ejercicio en base a mis propósitos y metas. | 5 |
-18 | HU18          | Acceso a navegador web  | Como usuario quiero visualizar un navegador para poder interactuar libremente con la landing page| 3            |
-19 | HU19        | Cambio de idioma        | Como usuario quiero configurar la página y ver en distintos idiomas mediante un botón en el navegador de la landing page. | 5            |
-20 | HU20         | Formulario de consulta  | Como usuario quiero comunicarme con VidaActiva para solucionar unas dudas acerca del producto mediante un formulario en la parte inferior de la landing page. | 2            |
-| 21      | HU21           | Registro de Cuenta    | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles desde la landing page. | 5            |
-| 22      | HU22           | Inicio de Sesión      | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación desde la landing page. | 5            |
-| 23 | TS001  | API para obtener información nutricional de un alimento | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita obtener información nutricional de alimentos específicos, para que los usuarios puedan conocer los valores nutricionales de los alimentos que consumen.                                                        | 5           |
-| 24 | TS002  | API para registrar nuevos usuarios en la plataforma | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita registrar nuevos usuarios en la plataforma, para que puedan acceder a todas las funcionalidades de la aplicación.                                                                                      | 8           |
-| 25 | TS003  | API para actualizar información de perfil de usuario | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios actualizar la información de su perfil, para mantener sus datos personales al día.                                                                                                    | 3           |
-| 26 | TS004  | API para inicio de sesión de usuarios           | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios iniciar sesión en la plataforma, para que puedan acceder a sus cuentas y funcionalidades personalizadas.                                                                              | 8           |
-| 27 | TS005  | API para recomendaciones personalizadas        | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que ofrezca recomendaciones personalizadas de planes de alimentación y actividad física, basadas en los datos del usuario, para mejorar su bienestar.                                                        | 13          |
-| 28 | TS006  | API para rutina de ejercicios personalizada     | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione rutinas de ejercicios personalizadas basadas en los datos del usuario, para mejorar su condición física de manera adecuada.                                                                  | 5           |
-| 29 | TS007  | API para recuperación de contraseña            | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios recuperar su contraseña en caso de olvido, para que puedan restablecer su acceso a la cuenta de forma segura.                                                                       | 3           |
-| 30 | TS008  | API para gráficos de progreso del usuario       | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione gráficos de progreso visuales basados en los datos de entrenamiento y nutrición del usuario, para que los usuarios puedan monitorear su avance.                                                 | 8           |
+<div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
+El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado.
+
+| # Orden | User story ID | Título                                                  | Description                                                                                                                                                                                                                                                  | Story points (1,2,3,5,8,13) |
+| ------- | ------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| 01      | HU01          | Registro de Cuenta                                      | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles.                                                                          | 5                           |
+| 02      | HU02          | Inicio de Sesión                                        | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación.                                                                  | 5                           |
+| 03      | HU03          | Recuperación de cuenta                                  | Como usuario registrado, quiero poder recuperar mi cuenta en caso de olvidar mi contraseña, para restablecer mi acceso sin perder mis datos e historial de uso.                                                                                              | 5                           |
+| 04      | HU04          | Registro de actividades diarias                         | Desarrollar una funcionalidad en la que se pueda guardar y ver la lista del registro de actividades detalladamente.                                                                                                                                          | 5                           |
+| 05      | HU05          | Visualización de gráficos de progreso                   | Como usuario, quiero visualizar gráficos de progreso para entender mejor mis avances en términos de salud y ejercicio.                                                                                                                                       | 3                           |
+| 06      | HU06          | Recomendaciones personalizadas                          | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis actividades registradas para mejorar mi salud.                                                                                                                                    | 3                           |
+| 07      | HU07          | Registro de ingesta de alimentos                        | Como usuario, quiero registrar mi ingesta de alimentos para controlar las calorías y nutrientes.                                                                                                                                                             | 5                           |
+| 08      | HU08          | Actualización o personalización del perfil del usuario  | Como usuario, quiero actualizar los datos de mi perfil para obtener recomendaciones y análisis precisos.                                                                                                                                                     | 1                           |
+| 09      | HU09          | Configuración de objetivos de salud                     | Como usuario, quiero configurar mis objetivos de salud para que la aplicación me ayude a alcanzarlos.                                                                                                                                                        | 3                           |
+| 10      | HU10          | Recepción de notificaciones recordatorias               | Como usuario, quiero recibir notificaciones de recordatorio para registrar mis actividades diarias de salud.                                                                                                                                                 | 1                           |
+| 11      | HU11          | Seguimiento de hidratación diaria                       | Como usuario, quiero llevar un seguimiento de mi consumo de agua diario para mantenerme hidratado.                                                                                                                                                           | 3                           |
+| 12      | HU12          | Revisión de historial de actividades                    | Como usuario, quiero revisar mi historial de actividades para evaluar la consistencia y progreso a lo largo del tiempo.                                                                                                                                      | 5                           |
+| 13      | HU13          | Visualización de estadísticas de salud                  | Como usuario, quiero ver estadísticas detalladas de mi salud para entender mejor mis patrones y ajustar mis hábitos en consecuencia.                                                                                                                         | 5                           |
+| 14      | HU14          | Acceso a la comunidad                                   | Como usuario, quiero acceder a una comunidad de usuarios para compartir experiencias y obtener apoyo en mi camino hacia la salud.                                                                                                                            | 5                           |
+| 15      | HU15          | Configuración del perfil privado                        | Como usuario, quiero configurar la privacidad de mi perfil para controlar quién puede ver mi información personal.                                                                                                                                           | 1                           |
+| 16      | HU16          | Acceso a contenido educativo                            | Como usuario, quiero acceder a contenido educativo sobre salud y bienestar para aprender a mejorar mi estilo de vida.                                                                                                                                        | 1                           |
+| 17      | HU17          | Acceso a rutinas de ejercicio                           | Como usuario, quiero acceder a contenido sobre rutinas de ejercicio en base a mis propósitos y metas.                                                                                                                                                        | 5                           |
+| 18      | HU18          | Acceso a navegador web                                  | Como usuario quiero visualizar un navegador para poder interactuar libremente con la landing page                                                                                                                                                            | 3                           |
+| 19      | HU19          | Cambio de idioma                                        | Como usuario quiero configurar la página y ver en distintos idiomas mediante un botón en el navegador de la landing page.                                                                                                                                    | 5                           |
+| 20      | HU20          | Formulario de consulta                                  | Como usuario quiero comunicarme con VidaActiva para solucionar unas dudas acerca del producto mediante un formulario en la parte inferior de la landing page.                                                                                                | 2                           |
+| 21      | HU21          | Registro de Cuenta                                      | Como usuario nuevo, quiero poder registrarme en la aplicación con mi correo electrónico y contraseña, para crear una cuenta y empezar a usar todas las funcionalidades disponibles desde la landing page.                                                    | 5                           |
+| 22      | HU22          | Inicio de Sesión                                        | Como usuario registrado, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y utilizar todas las funcionalidades personalizadas de la aplicación desde la landing page.                                            | 5                           |
+| 23      | TS001         | API para obtener información nutricional de un alimento | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita obtener información nutricional de alimentos específicos, para que los usuarios puedan conocer los valores nutricionales de los alimentos que consumen. | 5                           |
+| 24      | TS002         | API para registrar nuevos usuarios en la plataforma     | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita registrar nuevos usuarios en la plataforma, para que puedan acceder a todas las funcionalidades de la aplicación.                                       | 8                           |
+| 25      | TS003         | API para actualizar información de perfil de usuario    | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios actualizar la información de su perfil, para mantener sus datos personales al día.                                                       | 3                           |
+| 26      | TS004         | API para inicio de sesión de usuarios                   | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios iniciar sesión en la plataforma, para que puedan acceder a sus cuentas y funcionalidades personalizadas.                                 | 8                           |
+| 27      | TS005         | API para recomendaciones personalizadas                 | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que ofrezca recomendaciones personalizadas de planes de alimentación y actividad física, basadas en los datos del usuario, para mejorar su bienestar.               | 13                          |
+| 28      | TS006         | API para rutina de ejercicios personalizada             | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione rutinas de ejercicios personalizadas basadas en los datos del usuario, para mejorar su condición física de manera adecuada.                         | 5                           |
+| 29      | TS007         | API para recuperación de contraseña                     | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que permita a los usuarios recuperar su contraseña en caso de olvido, para que puedan restablecer su acceso a la cuenta de forma segura.                            | 3                           |
+| 30      | TS008         | API para gráficos de progreso del usuario               | Como desarrollador que trabaja en la aplicación de NutriMove, quiero implementar una API que proporcione gráficos de progreso visuales basados en los datos de entrenamiento y nutrición del usuario, para que los usuarios puedan monitorear su avance.     | 8                           |
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
@@ -1306,8 +1303,7 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 - Registro y Autenticación: Vista general del servicio con opción de iniciar sesión o registrarse.
 
-
-<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>         
+<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>
 
 Los sistemas de etiquetado aseguran una organización clara y coherente de la información, facilitando la navegación y mejorando la experiencia del usuario.
 
@@ -1351,7 +1347,6 @@ El sistema de búsqueda es esencial para facilitar el acceso rápido a la inform
 - **Filtros de Búsqueda:** Por categorías como "Planes de Suscripción", "Testimonios", etc.
 - **Búsqueda Avanzada:** Permite especificar criterios detallados.
 - **Indexación de Contenidos:** Todo el contenido debe estar indexado para búsqueda rápida.
-
 
 <div id= '4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
 
@@ -1482,7 +1477,6 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 
-
 <div id= '4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 
 Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=271-2&node-type=CANVAS&t=wF2yISmwEvN14sh4-0
@@ -1500,7 +1494,6 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <img src="Img/WebApp-Home.png" alt="WebApp home">
 <img src="Img/WebApp-Home2.png" alt="WebApp home2">
-
 
 - **Dieta:** Aqui encontraremos el frame que muestra las dietas.
 
@@ -1536,7 +1529,6 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 
 <img src="Img/Webapp-mobile-home.png" alt="WebApp mobile home">
 <img src="Img/Webapp-mobile-home2.png" alt="WebApp mobile home2">
-
 
 - **Dieta:** Aqui encontraremos el frame que muestra las dietas.
 
@@ -1617,7 +1609,6 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 <img src="Img/Webapp-mobile-mockup-home.png" alt="WebApp mobile mockup home">
 <img src="Img/Webapp-mobile-mockup-home2.png" alt="WebApp mobile mockup home2">
 
-
 - **Dieta:** Aqui encontraremos el frame que muestra las dietas.
 
 <img src="Img/Webapp-mobile-mockup-dieta.png" alt="WebApp mobile mockup dieta">
@@ -1639,7 +1630,6 @@ Enlace figma: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimov
 <img src="Img/Webapp-mobile-mockup-perfil.png" alt="WebApp mobile mockup perfil">
 <img src="Img/Webapp-mobile-mockup-perfil2.png" alt="WebApp mobile mockup perfil2">
 
-
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
 User Goal: Registro e iniciar sesión <br>
@@ -1653,17 +1643,15 @@ User Goal: Escojo de plan <br>
 Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web Browser, se siguieron varios criterios clave:
 
 1. Claridad y Simplicidad: Se buscó que la navegación en la aplicación fuera intuitiva y fácil de entender, permitiendo a los usuarios comprender plenamente las funciones, como el registro de procesos y la visualización de informes estadísticos.
-   
 2. Diseño Responsivo: Se consideró esencial asegurar que la aplicación web fuera compatible con diferentes tamaños de pantalla, garantizando que los usuarios puedan acceder sin limitaciones, independientemente del dispositivo que utilicen.
 
 3. Enfoque en la Información Relevante: El diseño prioriza la presentación de la información más importante para los usuarios del segmento objetivo, evitando sobrecargar la interfaz.
-<img src="Img/Web App Prototyping.png">
+   <img src="Img/Web App Prototyping.png">
 
-Link para el flujo: para acceder al flujo: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=BB0xoxW9qrVogveU-1 
+Link para el flujo: para acceder al flujo: https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=BB0xoxW9qrVogveU-1
 
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 Para crear diagramas efectivos que representen la arquitectura de nuestro proyecto, es fundamental realizar un análisis exhaustivo del funcionamiento de la aplicación. Utilizaremos el modelo de lenguaje C4 en Structurizr para ofrecer una visión clara y detallada de la arquitectura de nuestro sistema. Este enfoque nos permitirá ilustrar de manera precisa cómo interactúan los distintos componentes y usuarios de la aplicación, asegurando una comprensión integral del diseño y facilitando la comunicación entre el equipo y las partes interesadas.
-
 
 <div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
 
@@ -1677,95 +1665,86 @@ Para crear diagramas efectivos que representen la arquitectura de nuestro proyec
 
 <img src="Img/component-arch.png">
 
-
 <div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
-
 
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
 
 <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/Clase%20UML.png">
 
-
 <div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
-| id                          | int          | Identificador único de la suscripción |
-| inicio                      | date         | Fecha de inicio de la suscripción |
+| Nombre de atributo o método | Tipo de dato | Descripción                             |
+| --------------------------- | ------------ | --------------------------------------- |
+| id                          | int          | Identificador único de la suscripción   |
+| inicio                      | date         | Fecha de inicio de la suscripción       |
 | fin                         | date         | Fecha de finalización de la suscripción |
-| precio                      | float        | Costo de la suscripción |
-| plan_mensual                | bool         | Indica si la suscripción es mensual |
-| crear_suscripcion()         | método       | Crea una nueva suscripción |
-| cancelar_suscripcion()      | método       | Cancela la suscripción existente |
+| precio                      | float        | Costo de la suscripción                 |
+| plan_mensual                | bool         | Indica si la suscripción es mensual     |
+| crear_suscripcion()         | método       | Crea una nueva suscripción              |
+| cancelar_suscripcion()      | método       | Cancela la suscripción existente        |
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
-| id                          | int          | Identificador único del usuario |
-| username                    | str          | Nombre de usuario |
-| password                    | str          | Contraseña del usuario |
-| email                       | str          | Correo electrónico del usuario |
-| peso                        | float        | Peso del usuario |
-| altura                      | int          | Altura del usuario |
-| edad                        | int          | Edad del usuario |
-| registrar_usuario()         | método       | Registra un nuevo usuario |
+| Nombre de atributo o método | Tipo de dato | Descripción                          |
+| --------------------------- | ------------ | ------------------------------------ |
+| id                          | int          | Identificador único del usuario      |
+| username                    | str          | Nombre de usuario                    |
+| password                    | str          | Contraseña del usuario               |
+| email                       | str          | Correo electrónico del usuario       |
+| peso                        | float        | Peso del usuario                     |
+| altura                      | int          | Altura del usuario                   |
+| edad                        | int          | Edad del usuario                     |
+| registrar_usuario()         | método       | Registra un nuevo usuario            |
 | actualizar_usuario()        | método       | Actualiza la información del usuario |
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
-| id                          | int          | Identificador único del plan de rutina de ejercicio |
-| ejercicios                  | list[Ejercicio] | Lista de ejercicios asignados al plan |
-| asignar_ejercicio()         | método       | Asigna un ejercicio al plan |
-| modificar_series_repeticiones() | método   | Modifica las series y repeticiones de los ejercicios |
+| Nombre de atributo o método     | Tipo de dato    | Descripción                                          |
+| ------------------------------- | --------------- | ---------------------------------------------------- |
+| id                              | int             | Identificador único del plan de rutina de ejercicio  |
+| ejercicios                      | list[Ejercicio] | Lista de ejercicios asignados al plan                |
+| asignar_ejercicio()             | método          | Asigna un ejercicio al plan                          |
+| modificar_series_repeticiones() | método          | Modifica las series y repeticiones de los ejercicios |
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
-| id                          | int          | Identificador único del ejercicio |
-| nombre                      | str          | Nombre del ejercicio |
+| Nombre de atributo o método | Tipo de dato | Descripción                          |
+| --------------------------- | ------------ | ------------------------------------ |
+| id                          | int          | Identificador único del ejercicio    |
+| nombre                      | str          | Nombre del ejercicio                 |
 | repeticiones                | int          | Número de repeticiones del ejercicio |
-| series                      | int          | Número de series del ejercicio |
-| crear_ejercicio()           | método       | Crea un nuevo ejercicio |
-| modificar_ejercicio()       | método       | Modifica un ejercicio existente |
+| series                      | int          | Número de series del ejercicio       |
+| crear_ejercicio()           | método       | Crea un nuevo ejercicio              |
+| modificar_ejercicio()       | método       | Modifica un ejercicio existente      |
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
+| Nombre de atributo o método | Tipo de dato | Descripción                      |
+| --------------------------- | ------------ | -------------------------------- |
 | id                          | int          | Identificador único de la rutina |
-| nombre                      | str          | Nombre de la rutina |
-| crear_rutina()              | método       | Crea una nueva rutina |
-| eliminar_rutina()           | método       | Elimina una rutina existente |
+| nombre                      | str          | Nombre de la rutina              |
+| crear_rutina()              | método       | Crea una nueva rutina            |
+| eliminar_rutina()           | método       | Elimina una rutina existente     |
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
-| id                          | int          | Identificador único del plan de alimentación |
-| alimentos                   | list[Alimento] | Lista de alimentos asignados al plan |
-| asignar_alimento()          | método       | Asigna un alimento al plan |
-| modificar_cantidad()        | método       | Modifica la cantidad de un alimento en el plan |
+| Nombre de atributo o método | Tipo de dato   | Descripción                                    |
+| --------------------------- | -------------- | ---------------------------------------------- |
+| id                          | int            | Identificador único del plan de alimentación   |
+| alimentos                   | list[Alimento] | Lista de alimentos asignados al plan           |
+| asignar_alimento()          | método         | Asigna un alimento al plan                     |
+| modificar_cantidad()        | método         | Modifica la cantidad de un alimento en el plan |
 
-| Nombre de atributo o método | Tipo de dato | Descripción |
-|-----------------------------|--------------|-------------|
-| id                          | int          | Identificador único del alimento |
-| nombre                      | str          | Nombre del alimento |
-| calorias                    | int          | Calorías del alimento |
-| proteinas                   | float        | Cantidad de proteínas del alimento |
+| Nombre de atributo o método | Tipo de dato | Descripción                            |
+| --------------------------- | ------------ | -------------------------------------- |
+| id                          | int          | Identificador único del alimento       |
+| nombre                      | str          | Nombre del alimento                    |
+| calorias                    | int          | Calorías del alimento                  |
+| proteinas                   | float        | Cantidad de proteínas del alimento     |
 | carbohidratos               | float        | Cantidad de carbohidratos del alimento |
-| grasas                      | float        | Cantidad de grasas del alimento |
-| crear_alimento()            | método       | Crea un nuevo alimento |
-| actualizar_alimento()       | método       | Actualiza un alimento existente |
-| eliminar_alimento()         | método       | Elimina un alimento existente |
-
-
-
-
+| grasas                      | float        | Cantidad de grasas del alimento        |
+| crear_alimento()            | método       | Crea un nuevo alimento                 |
+| actualizar_alimento()       | método       | Actualiza un alimento existente        |
+| eliminar_alimento()         | método       | Elimina un alimento existente          |
 
 <div id= '4.8.'><h3>4.8. Database Design.</h4></div>
 El diseño de la base de datos constituye un aspecto fundamental en la organización y gestión de la información. En este informe, se ha estructurado una base de datos que optimiza la eficiencia en el almacenamiento y recuperación de datos, asegurando la integridad y consistencia de la información. La implementación de relaciones bien definidas entre las tablas permite minimizar la redundancia y garantizar la escalabilidad del sistema, facilitando así el análisis y la generación de reportes precisos y confiables.
-
 
 <div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
 
 <img src="Img/DB_diagram_2.jpeg">
 
 <div id='5.'><h2>CAPÍTULO IV: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT </h4></div>
-
 
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
 
@@ -1775,7 +1754,7 @@ Controlar y rastrear los cambios que se realizan en el software durante el ciclo
 
 Se necesitarán varias herramientas tecnológicas para llevar a cabo el proyecto. Se utilizará la herramienta Figma para el diseño UI/UX, donde se definirá el "boceto" para la creación de nuestra landing page, así como las diferentes opciones, gestos de acceso a una excelente experiencia de usuario.  
 Para desarrollar el código para la landing page, se necesitará un IDE (Integrated Development Environment) para implementar las tecnologías a utilizar; el equipo utilizará Visual Studio Code.
-En el caso de Project Management, para la solución que abarcará Front-End, se hará uso del programa WebStorm, aplicación que permitirá programar un web application con el framework Angular. 
+En el caso de Project Management, para la solución que abarcará Front-End, se hará uso del programa WebStorm, aplicación que permitirá programar un web application con el framework Angular.
 Al crear una aplicación web, es fundamental utilizar el lenguaje de HTML5, ya que será la definición del "esqueleto" de la página, junto con CSS para estilizar los contenedores que se hayan creado, modificando los colores, la tipografía, el tamaño de las imágenes y JavaScript para interactuar con el usuario y crear una página web dinámica.
 La implementación del código seguirá las buenas prácticas de programación, como reducir la cantidad de líneas de código, mantener una especificidad con CSS y una convención de nombre en las variables.
 
@@ -1783,12 +1762,12 @@ La implementación del código seguirá las buenas prácticas de programación, 
 
 El equipo decide utilizar GitHub como repositorio de lanzamiento principal. Desarrollo de proyectos. GitHub utiliza el sistema de control de versiones Git para facilitar las cosas
 Colaboración entre diferentes miembros del equipo y permite la colaboración en uno.
-al mismo tiempo. 
+al mismo tiempo.
 
 El repositorio del proyecto tendrá dos ramas principales de seguimiento e implementación.
-Número de versión: "main" será la rama master donde se podrán observar los cambios, y "gh-pages" será la rama requerida para implementar la versión adecuada. Páginas de GitHub que hacen que las páginas web estén disponibles y sean públicas. 
+Número de versión: "main" será la rama master donde se podrán observar los cambios, y "gh-pages" será la rama requerida para implementar la versión adecuada. Páginas de GitHub que hacen que las páginas web estén disponibles y sean públicas.
 
-En la rama "main" organizará carpetas que contienen estilos CSS, páginas HTML y validación en JavaScript, así como el desarrollo de nuestra página de aterrizaje. Además, se creará un repositorio separado para los criterios de aceptación y con Epics para analizar archivos ".feature". 
+En la rama "main" organizará carpetas que contienen estilos CSS, páginas HTML y validación en JavaScript, así como el desarrollo de nuestra página de aterrizaje. Además, se creará un repositorio separado para los criterios de aceptación y con Epics para analizar archivos ".feature".
 
 Los cambios también serán visibles para el web application en WebStorm. Los proyectos colaborativos reflejados en los repositorios de Github como archivo principal.
 
@@ -1834,7 +1813,8 @@ Para desplegar la landing page, es necesario cumplir con ciertos requisitos prev
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning #1.</h5></div>
 
-En la siguiente sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto. Mostrando la organización, distribución y resultados del landing page.    
+En la siguiente sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto. Mostrando la organización, distribución y resultados del landing page.
+
 <table><thead>
   <tr>
     <th>&nbsp;&nbsp;&nbsp;<br>Sprint #&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -1863,11 +1843,12 @@ En la siguiente sección, se presentará el sprint #1 con la primera versión de
     <td>&nbsp;&nbsp;&nbsp;<br>19 <br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>19&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
-</tbody></table>    
+</tbody></table>
 
 <div id='5.2.1.2.'><h5> 5.2.1.2.  Backlog #1.</h5></div>
 
-En el primer  backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de , que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del  fue construir una landing page completamente atractiva y funcional. 
+En el primer backlog, el equipo se propuso iniciar y completar la landing page. Para organizar y gestionar al equipo, se utilizó el cuadro de , que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del fue construir una landing page completamente atractiva y funcional.
+
 <table><thead>
   <tr>
     <th>&nbsp;&nbsp;&nbsp;<br># &nbsp;&nbsp;&nbsp;</th>
@@ -2028,8 +2009,8 @@ En el primer  backlog, el equipo se propuso iniciar y completar la landing page.
 
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for  Review. </h5></div>
 
-Para la entrega del  1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el  backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
-   
+Para la entrega del 1, se buscó lograr el desarrollo, implementación, y despliegue completos de la landing page. Por esta razón, la sección de "Testing" se enfocó en implementar los archivos de características que componen nuestra landing page. Estas características se basan en las User Stories especificadas en el backlog y describen en detalle cada uno de los escenarios que planeamos desarrollar.
+
 <table><thead>
   <tr>
     <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
@@ -2052,7 +2033,7 @@ Para la entrega del  1, se buscó lograr el desarrollo, implementación, y despl
 
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for  Review. </h5></div>
 
-Durante el  1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias. 
+Durante el 1, se logró un desarrollo parcial en la implementación y despliegue de la landing page. La página incluye varias secciones en las que el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias.
 Evidencia 1
 <img src="Img/Landing1.png"> <br>
 Evidencia 2
@@ -2063,26 +2044,27 @@ Evidencia 3
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for  Review. </h5></div>
 
 Pasos para realizar la landing page:
-1) Crear cuenta en GitHub para crea un repositorio donde subir la página web.
- 
-2) Continuamos con los pasos para configurar el proyecto según nos indique el proveedor del repositorio.
 
-3) Ir a nuestro perfil creado en la página web alojadora de repositorios y crear una nueva organización.
+1. Crear cuenta en GitHub para crea un repositorio donde subir la página web.
 
-4) Seleccionamos un plan para nuestra organización que vamos a crear. Para casos prácticos escogemos el plan Free.
+2. Continuamos con los pasos para configurar el proyecto según nos indique el proveedor del repositorio.
 
-5) Le colocamos un nombre a la organización que acabamos de crear. Para nosotros le 
-ponemos “NutriMove” y le damos a Continuar.
+3. Ir a nuestro perfil creado en la página web alojadora de repositorios y crear una nueva organización.
 
-6) Agregamos colaboradores en caso lo queramos.
- 
-7) Terminamos de configurar la organización.
+4. Seleccionamos un plan para nuestra organización que vamos a crear. Para casos prácticos escogemos el plan Free.
 
-8) Creamos un nuevo repositorio.
- 
-9) Habilitamos la posibilidad de controlar las versiones de nuestro proyecto y lo vinculamos con el repositorio de github.
+5. Le colocamos un nombre a la organización que acabamos de crear. Para nosotros le
+   ponemos “NutriMove” y le damos a Continuar.
 
-10) Para poder visualizar el estado de la página web, tenemos que acceder al link 
+6. Agregamos colaboradores en caso lo queramos.
+
+7. Terminamos de configurar la organización.
+
+8. Creamos un nuevo repositorio.
+
+9. Habilitamos la posibilidad de controlar las versiones de nuestro proyecto y lo vinculamos con el repositorio de github.
+
+10. Para poder visualizar el estado de la página web, tenemos que acceder al link
 
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for  Review.</h5></div>
 
@@ -2096,13 +2078,13 @@ Landing Page:
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during . </h5></div>
 
-| Alumno  | Actividad |
-| -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| Implementación de la sección de encabezado de la landing page.    |
-| Luza Carhuamaca, Jose Adrian | Implementación de los tipos de servicio a elegir|
-| Jimenez Melgar, Daniel Luciano | Implementación de la sección principal y contact.|
-| Silva Tirado, Sebastian Valentino | Implementación de la sección de más información de los servicios, Implementación de cambio de idioma.|
-| Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
+| Alumno                               | Actividad                                                                                             |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Bohorquez Lerzundi Gerardo Sebastian | Implementación de la sección de encabezado de la landing page.                                        |
+| Luza Carhuamaca, Jose Adrian         | Implementación de los tipos de servicio a elegir                                                      |
+| Jimenez Melgar, Daniel Luciano       | Implementación de la sección principal y contact.                                                     |
+| Silva Tirado, Sebastian Valentino    | Implementación de la sección de más información de los servicios, Implementación de cambio de idioma. |
+| Uribe Quispe, Jesús Guillermo        | Implementación de la sección de modales de Login e información de servicios.                          |
 
 <div align="center">
   <img src="Img/Insights 1.png">
@@ -2153,8 +2135,8 @@ Landing Page:
 
 <div id='5.2.2.2.'><h5> 5.2.2.2. Backlog 2.</h5></div>
 
-En el segundo  backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el  board, dividiendo las user stories y asignándolas a los miembros del equipo.
-Sin embargo no se llego a reportar un integrante para este  y por ello que no está completo.
+En el segundo backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el board, dividiendo las user stories y asignándolas a los miembros del equipo.
+Sin embargo no se llego a reportar un integrante para este y por ello que no está completo.
 
 <img src="Img/Captura_Backlog_2.png" alt="Caputra de  Backlog 2"><br>
 Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/-backlog-2<br>
@@ -2368,19 +2350,18 @@ Link del Trello: https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI830655
 
 Durante el sprint 2, se logró completar el desarrollo de la implementación de la landing page, que incluye diversas secciones en las que el usuario puede acceder a información relevante sobre el producto y la startup, disponible tanto en inglés como en español. Paralelamente, se avanzó parcialmente en el desarrollo de la aplicación web, permitiendo a los usuarios interactuar con algunas de sus funcionalidades. A continuación, se presentan algunas evidencias.
 
-* HU01
+- HU01
 
   <img src="Img/HU01_Registrarse.png">
 
-* HU02
+- HU02
 
   <img src="Img/HU02_IniciarSesion.png">
 
-* HU19
+- HU19
 
   <img src="Img/HU19_Idioma_Español.png"><br>
   <img src="Img/HU19_Idioma_Ingles.png">
-
 
 <div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -2440,7 +2421,6 @@ A continuación, se proporciona el enlace para acceder a <a href="https://my-jso
     <td class="tg-0pky">25/09/2024</td>
   </tr>
 </tbody></table>
-
 
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -2632,6 +2612,7 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">fixed metrics on dashboard, internationalization, routine features and styles of public components</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">29/10/2024</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">main</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">97e0e22</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Release v1.1.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Release v1.1.2</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">29/10/2024</td></tr>
+
 </tbody></table>
 
 <br><br>
@@ -2643,32 +2624,16 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
 <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message Body   </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Committed on   (Date)   </th></tr>
 </thead>
 <tbody>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="12"><a href="https://github.com/TFOpenSource/NutriMoveTF">"https://github.com/TFOpenSource/BackEnd</a></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4fe4aaa</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">create model Activity</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">create model Activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>2/11/2024   </td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3aa29b5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of Commands And Queries</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of Commands And Queries</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>2/11/2024   </td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">e296358</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of REST interfaces</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of REST interfaces</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>2/11/2024   </td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">caefc04</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">add dependencies</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">add dependencies</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">a8e9f98</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">the controller of Activity endpoint has been added</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">the controller of Activity endpoint has been added</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">develop</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4fe4aa</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">create model Activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">create model Activity</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">develop</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3aa29b5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of Commands And Queries</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of Commands And Queries/td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">develop</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">e296358</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of REST interfaces</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">declaration and implementation of REST interfaces</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">develop</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">caefc04</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">add dependencies</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">add dependencies</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">develop</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">a8e9f98</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">the controller of Activity endpoint has been added</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">the controller of Activity endpoint has been added</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">develop</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">b6eac3e</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Feature of endpoint Activity</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Feature of endpoint Activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">main</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">97e0e22</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Release v1.1.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Release v1.1.2</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
-</tbody></table>
+<tr>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="https://github.com/TFOpenSource/BackEnd">https://github.com/TFOpenSource/BackEnd</td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-subscriptions</td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">b0be41a6abde8239af6fd531d89a79b32d363442</td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Feature suscriptions</td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Feature suscriptions</td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td>
+</tr>
 
+</tbody></table>
 
 <div id='5.2.3.4.'><h5> 5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
    
@@ -2691,19 +2656,16 @@ En el tercer sprint backlog, como equipo continuamos trabajando en la actualizac
     <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
 
-  
 </tbody></table>
-
 
 <div id='5.2.3.5.'><h5> 5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
 
 Durante el sprint 3, se logró completar el desarrollo de la implementación del Web Aplication, que incluye diversas secciones en las que el usuario puede acceder como a su perfil, balanza, alimentos, entre otros. Paralelamente, se avanzó parcialmente en el desarrollo del back end, permitiendo que se conectará a la base de datos. A continuación, se presentan evidencias de las importantes y nuevas funcionalidades implementadas.
 
-
 <br>
 <h4>LANDING PAGE:</h4>
 
-* Actualización de sección About The Product:
+- Actualización de sección About The Product:
 
 <img src="Img/ATP.png">
 
@@ -2711,22 +2673,22 @@ Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20222
 
 <h4>APLICACIÓN WEB:</h4>
 
-* Dashboard:
-<img src="Img/dashboard.png">
+- Dashboard:
+  <img src="Img/dashboard.png">
 
-* Dieta:
-<img src="Img/mydiet.png">
+- Dieta:
+  <img src="Img/mydiet.png">
 
-* Actividades:
-<img src="Img/activities.png">
+- Actividades:
+  <img src="Img/activities.png">
 
-* Workout:
-<img src="Img/workout.png">
+- Workout:
+  <img src="Img/workout.png">
 
-* Analisis:
-<img src="Img/analysis.png">
+- Analisis:
+  <img src="Img/analysis.png">
 
-Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-_EditrYrF5_e42wA?e=GaMPO1">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-_EditrYrF5_e42wA?e=GaMPO1</a>
+Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-_EditrYrF5_e42wA?e=GaMPO1">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-\_EditrYrF5_e42wA?e=GaMPO1</a>
 
 <h4>WEB SERVICES:</h4>
 
@@ -2734,26 +2696,45 @@ Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20222
 
 <img src="Img/activitiesback.png">
 
-* Metodo Post:
-  
+- Metodo Post:
+
  <img src ="Img/activitypost.png">
 
-* Metodo Get:
+- Metodo Get:
 
 <img src="Img/activityget.png">
 
-* Metodo Get(id):
+- Metodo Get(id):
 
 <img src="Img/activitygetid.png">
-<br><br>
-<h5>Link de video:</h5> <a href=""></a>
 
+- Metodo Delete(id):
+
+<img src="Img/su1.png">
+
+<h5>Subscriptions:</h5>
+
+
+- Metodo Post:
+
+ <img src ="Img/su2.png">
+
+- Metodo Get:
+
+<img src="Img/su4.png">
+
+- Metodo Get(id):
+
+<img src="Img/su3.png">
+
+
+<br><br>
+<h5>Link de video:</h5> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ESIK97fbad5Ip0ZWxfwa9MQBV2KhH3GUEK9eMfEQfP2NgQ?e=fQOn0s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ESIK97fbad5Ip0ZWxfwa9MQBV2KhH3GUEK9eMfEQfP2NgQ?e=fQOn0s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 <div id='5.2.3.6.'><h5> 5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-En el sprint 3, se planificó enfocarse exclusivamente en el back end y por parte en mejorar el Web App. Haciendo la conexión de la base de datos con el back end y front end. . Al principio, se trabajó de manera local, y posteriormente se implementó en un host, que ahora está integrado en la aplicación web de Front-End desplegada. 
+En el sprint 3, se planificó enfocarse exclusivamente en el back end y por parte en mejorar el Web App. Haciendo la conexión de la base de datos con el back end y front end. . Al principio, se trabajó de manera local, y posteriormente se implementó en un host, que ahora está integrado en la aplicación web de Front-End desplegada.
 A continuación, se proporciona el enlace para acceder a [Enlace].
-
 
 <table class="tg"><thead>
   <tr>
@@ -2763,6 +2744,10 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
 <tbody>
   <tr>
     <td class="tg-0pky" colspan="2">activity</td>
+    <td class="tg-0pky" colspan="4">Se implementó el método GET, POST y DELETE para este endpoint. En el caso del método GET, se implementaron 2 tipos, uno para obtener los datos por medio del id, y otro para obtener los datos por medio de parámetros como Usuario</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Subscriptions</td>
     <td class="tg-0pky" colspan="4">Se implementó el método GET y POST para este endpoint. En el caso del método GET, se implementaron 2 tipos, uno para obtener los datos por medio del id, y otro para obtener los datos por medio de parámetros como Usuario</td>
   </tr>
   
@@ -2784,6 +2769,8 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-activity</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">a8e9f98</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">the controller of Activity endpoint has been added</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">the controller of Activity endpoint has been added</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-subscriptions</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">b0be41a6abde8239af6fd531d89a79b32d363442</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Feature suscriptions</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Feature suscriptions</td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2/11/2024</td></tr>
 </tbody></table>
 
 <div id='5.2.3.7.'><h5> 5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
@@ -2796,31 +2783,34 @@ Despliegue de Landing Page en Github Pages:
 
 Link de Landing Page: <a href="https://tfopensource.github.io/Landing_Page/">https://tfopensource.github.io/Landing_Page/</a>
 
-
 Despliegue de Web Application en Netlify:
 <img src="Img/deploy1.png">
 <img src="Img/deploy1.png">
-
 
 Link de Web Application: <a href="https://thunderous-phoenix-31b1f9.netlify.app/">https://thunderous-phoenix-31b1f9.netlify.app/</a>
 
 Back-end:
 
-
 <div id='5.2.3.8.'><h5> 5.2.3.8.Team Collaboration Insights during Sprint.</h5></div>
 
-| Alumno  | Actividad |
-| -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team|
-| Luza Carhuamaca, Jose Adrian | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
-| Silva Tirado, Sebastian Valentino | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas|
-| Uribe Quispe, Jesús Guillermo | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard|
+| Alumno                               | Actividad                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bohorquez Lerzundi Gerardo Sebastian | Sprint Planning #3 - Services Documentation Evidence for Sprint Review - Registro de Entrevistas - Video About-the-Team                                                              |
+| Luza Carhuamaca, Jose Adrian         | Sprint Backlog #3 - Software Deployment Evidence for Sprint Review - Evaluaciones según heurísticas - Funcionalidad Actividades - Funcionalidad de Perfil - funcionalidad de rutinas |
+| Silva Tirado, Sebastian Valentino    | Testing Suite Evidence for Sprint Review - Team Collaboration Insights during Sprint - Video About-the-Product - Funcionalidad de Dieta - Funcionalidad de rutinas                   |
+| Uribe Quispe, Jesús Guillermo        | Execution Evidence for Sprint Review - Diseño de Entrevistas - Conclusiones y recomendaciones - Funcionalidad de análisis - Funcionalidad Dashboard                                  |
 
+<h3>Insights: </h3>
 
-<h5>Insights: </h5>
+<h4>Repositorio Front End</h4>
 <img src="Img/insight_sp3_1.png" alt="1">
 <img src="Img/insight_sp3_2.png" alt="2">
 <img src="Img/insight_sp3_3.png" alt="3">
+
+<h4>Repositorio Back End</h4>
+<img src="Img/ins_sprint3_1.png" alt="1">
+<img src="Img/ins_sprint3_2.png" alt="2">
+<img src="Img/ins_sprint3_3.png" alt="3">
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
@@ -2866,7 +2856,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="./Img/ValidaInterview-AlejandraNeyra.png"><br></td>
+    <td> <img src="Img/ValidaInterview-AlejandraNeyra.png"><br></td>
     <td>Entrevistado N°1: Alejandra Neyra <br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco </td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/Ecwsjeqs2axPqb3CJgeX-s0BOKeLcBFKNEIUgALwBUOBMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1WhkSH">Entrevista #1</a></td>
   </tr>
@@ -2885,7 +2875,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="./Img/interview-Fabrisio.png"></td>
+    <td> <img src="Img/interview-Fabrisio.png"></td>
     <td>Entrevistado N°2: Fabrisio Belahonia<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: San Juan de Lurigancho</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/Ee_Fh_tLp3NPne2AQ3msCbABwVM-SRUcJP4Wec7mJBguLw?e=tWt7ur&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
@@ -2904,7 +2894,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/img_entrevista_Diego.jpeg"></td>
+    <td> <img src="Img/img_entrevista_Diego.jpeg"></td>
     <td>Entrevistado N°3: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas </td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EZRPhAS_yHBInZpQAgR0ivsBRpquT5axvxmIx84dwzkSkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yn7wGo">Entrevista #3</a></td>
   </tr>
@@ -2915,8 +2905,6 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td colspan="3">El joven Diego estuvo interesado en nuestra página web por sus funcionalidades que tiene, pero también agrega funcionalidades como una respuesta al medir nuesto indice de masa corporal y que se llegara a ver mejor visualmente. Le gustó poder agregar dietas, tener su promedio de cada uno y el poder actualizar su perfil.</td>
   </tr>
 </tbody></table>
-
-
 
 <table><thead>
   <tr>
@@ -2970,7 +2958,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/img_entrevista_Sebas.jpeg"></td>
+    <td> <img src="Img/img_entrevista_Sebas.jpeg"></td>
     <td>Entrevistado N°3: Sebastian Escobar<br>Sexo:  Masculino<br>Edad: 20<br>Domicilio: Santa Anita</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea8ffOcWO8RNsINTHP5b0AcBf9V7oUZYxeTRkooggjxpeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BQfsak">Entrevista #3</a></td>
   </tr>
@@ -3000,9 +2988,9 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 2. Busqueda de Rutinas
 3. Acceso rutinas de ejercicio
 4. Cambio de idioma
-5. API para rutina de ejercicios personalizada 
+5. API para rutina de ejercicios personalizada
 6. Visualizacion y Analisis de Progreso
-7. Registro de ingesta de alimentos 
+7. Registro de ingesta de alimentos
 8. API para obtener información nutricional de un alimento
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
@@ -3046,33 +3034,33 @@ Heurística violada: Visibilidad del estado del sistema
 - Problema:
 Al momento de completar el registro de un nuevo usuario, no se muestra un mensaje o indicación visual de éxito o error. Esto puede generar confusión en el usuario al no saber si el registro se ha realizado correctamente o si necesita hacer alguna corrección en los datos ingresados.
 
-<img src="./Img/NoFecha.img">
+<img src="Img/NoFecha.png">
 
 - Recomendación:
-Incorporar un mensaje de confirmación visual claramente visible, indicando si el registro fue exitoso o si hubo algún error. Esto puede incluir una alerta emergente, un cambio de pantalla o un mensaje en el mismo formulario.
+  Incorporar un mensaje de confirmación visual claramente visible, indicando si el registro fue exitoso o si hubo algún error. Esto puede incluir una alerta emergente, un cambio de pantalla o un mensaje en el mismo formulario.
 
 ---
 
+- PROBLEMA #2: No hay opción de búsqueda avanzada para las rutinas
 
-* PROBLEMA #2:  No hay opción de búsqueda avanzada para las rutinas
-- Severidad: 3
-Heurística violada: Flexibilidad y eficiencia de uso
-- Problema:
-Actualmente, la parte de rutinas en la aplicación no ofrece opciones avanzadas de filtro. Los usuarios no pueden personalizar su búsqueda para especificar criterios como el nivel de dificultad o el tipo de rutina, lo cual limita la capacidad de encontrar rutinas específicas según sus necesidades.
+* Severidad: 3
+  Heurística violada: Flexibilidad y eficiencia de uso
+* Problema:
+  Actualmente, la parte de rutinas en la aplicación no ofrece opciones avanzadas de filtro. Los usuarios no pueden personalizar su búsqueda para especificar criterios como el nivel de dificultad o el tipo de rutina, lo cual limita la capacidad de encontrar rutinas específicas según sus necesidades.
 
 <img src="./Img/NoFecha.png">
 
 - Recomendación:
-Añadir una opción de búsqueda avanzada que permita filtrar las rutinas por criterios relevantes, como nivel de dificultad, duración o tipo de entrenamiento (cardio, fuerza, etc.). Esto mejorará la experiencia de usuario al permitir búsquedas más precisas y personalizadas.
-
+  Añadir una opción de búsqueda avanzada que permita filtrar las rutinas por criterios relevantes, como nivel de dificultad, duración o tipo de entrenamiento (cardio, fuerza, etc.). Esto mejorará la experiencia de usuario al permitir búsquedas más precisas y personalizadas.
 
 ---
 
-* PROBLEMA #3: No hay confirmacion de ingreso
-* Severidad: 2
-Heurística violada: Visibilidad del estado del sistema
-- Problema:
-Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
+- PROBLEMA #3: No hay confirmacion de ingreso
+- Severidad: 2
+  Heurística violada: Visibilidad del estado del sistema
+
+* Problema:
+  Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
 
 <img src="./Img/NoConfirmacion.png">
 - Recomendación:
@@ -3080,75 +3068,77 @@ Incorporar una animación o mensaje de carga mientras se accede a las rutinas. E
 
 ---
 
-* PROBLEMA #4: Cambio de idioma parcial
+- PROBLEMA #4: Cambio de idioma parcial
 
-- Severidad: 3
-Heurística violada: Consistencia y estándares
-- Problema:
-El cambio de idioma en la aplicación no se aplica inmediatamente a todas las secciones, o algunas secciones quedan parcialmente traducidas. Esto genera una experiencia inconsistente para usuarios que dependen del cambio de idioma para comprender el contenido.
+* Severidad: 3
+  Heurística violada: Consistencia y estándares
+* Problema:
+  El cambio de idioma en la aplicación no se aplica inmediatamente a todas las secciones, o algunas secciones quedan parcialmente traducidas. Esto genera una experiencia inconsistente para usuarios que dependen del cambio de idioma para comprender el contenido.
 
 <img src="./Img/idiomaParcial.png">
 
 - Recomendación:
-Garantizar que al cambiar el idioma, todas las secciones se actualicen inmediatamente y de manera coherente. Implementar pruebas para verificar que todos los textos se carguen en el idioma correcto al realizar el cambio.
- 
+  Garantizar que al cambiar el idioma, todas las secciones se actualicen inmediatamente y de manera coherente. Implementar pruebas para verificar que todos los textos se carguen en el idioma correcto al realizar el cambio.
+
 ---
- 
- * PROBLEMA #5: API de rutinas  basica
-- Severidad: 3
-Heurística violada: Flexibilidad y eficiencia de uso
-- Problema:
-La API no ofrece suficiente personalización para los usuarios avanzados que desean rutinas específicas según criterios como nivel de dificultad, duración, o tipo de entrenamiento. Esto limita la experiencia de usuarios que buscan adaptar las rutinas a sus necesidades individuales.
+
+- PROBLEMA #5: API de rutinas basica
+
+* Severidad: 3
+  Heurística violada: Flexibilidad y eficiencia de uso
+* Problema:
+  La API no ofrece suficiente personalización para los usuarios avanzados que desean rutinas específicas según criterios como nivel de dificultad, duración, o tipo de entrenamiento. Esto limita la experiencia de usuarios que buscan adaptar las rutinas a sus necesidades individuales.
 
 <img src="./Img/rutinaBasica.png">
 
 - Recomendación:
-Agregar opciones de filtrado avanzadas en la API para que los usuarios puedan solicitar rutinas personalizadas según criterios específicos. Esto permitiría a los usuarios encontrar rutinas más adecuadas y aumentaría la relevancia de las recomendaciones.
- 
+  Agregar opciones de filtrado avanzadas en la API para que los usuarios puedan solicitar rutinas personalizadas según criterios específicos. Esto permitiría a los usuarios encontrar rutinas más adecuadas y aumentaría la relevancia de las recomendaciones.
+
 ---
- 
- * PROBLEMA #6: La visualizacion del progreso no es clara y evidente
-- Severidad: 4
-Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
-- Problema:
-La funcionalidad de visualización y análisis de progreso no permite a los usuarios comprender fácilmente sus avances, ya que carece de indicadores visuales claros (gráficos, comparativas de semanas previas, etc.) y opciones de interpretación de datos. Esto puede frustrar al usuario y hacer que abandone el seguimiento de su progreso.
+
+- PROBLEMA #6: La visualizacion del progreso no es clara y evidente
+
+* Severidad: 4
+  Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+* Problema:
+  La funcionalidad de visualización y análisis de progreso no permite a los usuarios comprender fácilmente sus avances, ya que carece de indicadores visuales claros (gráficos, comparativas de semanas previas, etc.) y opciones de interpretación de datos. Esto puede frustrar al usuario y hacer que abandone el seguimiento de su progreso.
 
 <img src="./Img/progresoNoClaro.png">
 
 - Recomendación:
-Incorporar gráficos claros y fáciles de interpretar, junto con indicadores y comparativas que resuman el progreso de manera visual. Incluir recomendaciones o análisis automáticos que sugieran próximas metas o evaluaciones basadas en los datos obtenidos.
- 
+  Incorporar gráficos claros y fáciles de interpretar, junto con indicadores y comparativas que resuman el progreso de manera visual. Incluir recomendaciones o análisis automáticos que sugieran próximas metas o evaluaciones basadas en los datos obtenidos.
+
 ---
- 
- * PROBLEMA #7: No se ve los nombres al registrar nuevos alimentos y tampoco la suma de cada valor del alimento.
-- Severidad: 2
-Heurística violada: Visibilidad del estado del sistema
-- Problema:
-La aplicación debería mostrar que es cada item en cada recuadro para que el usuario sepa mejor que colocar en cada uno y poder agregar el alimento, a la vez que se sume en cada columna y llevar mejor control.
+
+- PROBLEMA #7: No se ve los nombres al registrar nuevos alimentos y tampoco la suma de cada valor del alimento.
+
+* Severidad: 2
+  Heurística violada: Visibilidad del estado del sistema
+* Problema:
+  La aplicación debería mostrar que es cada item en cada recuadro para que el usuario sepa mejor que colocar en cada uno y poder agregar el alimento, a la vez que se sume en cada columna y llevar mejor control.
 
 <img src="Img/img_problema7.jpeg">
 
 - Recomendación:
-Para mejorar la experiencia de usuario sería actualizar o agregar un titulo encima para saber que se refiere cada item y al final de la tabla colocar la suma total de lo agregado hasta el momento.
- 
----
- 
- * PROBLEMA #8: No se visualiza bien para el usuario el API para obtener información nutricional de un alimento
+  Para mejorar la experiencia de usuario sería actualizar o agregar un titulo encima para saber que se refiere cada item y al final de la tabla colocar la suma total de lo agregado hasta el momento.
 
-- Severidad: 1
-Heurística violada: Flexibilidad y eficiencia de uso
-- Problema:
-Si los usuarios necesitan frecuentemente verificar la información nutricional de alimentos, la API debe responder de manera rápida y mejor visualmente, no solamente texto donde el usuario se puede perder.
+---
+
+- PROBLEMA #8: No se visualiza bien para el usuario el API para obtener información nutricional de un alimento
+
+* Severidad: 1
+  Heurística violada: Flexibilidad y eficiencia de uso
+* Problema:
+  Si los usuarios necesitan frecuentemente verificar la información nutricional de alimentos, la API debe responder de manera rápida y mejor visualmente, no solamente texto donde el usuario se puede perder.
 
 <img src="Img/img_problema8.jpeg">
 
 - Recomendación:
-Para mejorar la experiencia de usuario se agregaría estilos o algo característico en cada card para hacerlo más intuitivo.
+  Para mejorar la experiencia de usuario se agregaría estilos o algo característico en cada card para hacerlo más intuitivo.
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 A continuación, se muestra el video "About the product", que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes validan la calidad del software desarrollado.
-
 
 <table style="font-size: 12px;">
   <tr>
@@ -3178,7 +3168,6 @@ A continuación, se muestra el video "About the product", que destaca el propós
     </td>
   </tr>
   </table>
-
 
 <div id='6.'><h2>CAPÍTULO VI: CONCLUSIONES </h2></div>
 
@@ -3225,28 +3214,28 @@ El tercer entregable del proyecto NutriMove marca un hito importante en la evolu
 
 <div id='7.'><h2>CAPÍTULO VII: BIBLIOGRAFIA </h2></div>
 
-Us, B. T. W. (n.d.). Home page. Open Source Initiative. Retrieved September 3, 2024, from https://opensource.org 
-    
-Fernández, Y. (2024, June 29). Las 17 mejores apps para hacer ejercicio. Xataka.com; Xataka Basics. https://www.xataka.com/basics/17-mejores-apps-para-hacer-ejercicio 
-    
-Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https://www.vivosano.org/nutricion-antiinflamatoria/?gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9BmNT4TQKR2wFyH0CNqxQZKLX3UXj0HZ0bqp7YttmdjR4Xvb37-rlhoCkswQAvD_BwE 
+Us, B. T. W. (n.d.). Home page. Open Source Initiative. Retrieved September 3, 2024, from https://opensource.org
+
+Fernández, Y. (2024, June 29). Las 17 mejores apps para hacer ejercicio. Xataka.com; Xataka Basics. https://www.xataka.com/basics/17-mejores-apps-para-hacer-ejercicio
+
+Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https://www.vivosano.org/nutricion-antiinflamatoria/?gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9BmNT4TQKR2wFyH0CNqxQZKLX3UXj0HZ0bqp7YttmdjR4Xvb37-rlhoCkswQAvD_BwE
 
 <div id='8.'><h2>CAPÍTULO VIII: ANEXOS </h2></div>
 
-| Descripcion | Enlace |
-|-------------|--------|
-|Url Del Repositorio| https://github.com/TFOpenSource |
-|Enlace para acceder a la landing page: | https://tfopensource.github.io/Landing_Page/ |
-|Enlace para acceder al Web Aplication: | https://github.com/TFOpenSource/NutriMoveTF |
-|Video Exposicion TB1: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ES5UupezJyZHj-hO5xYHGgABJ-2emfkJ0m4Q1FrpTV6_bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vCzAZ5|
-|Video Exposicion TP1: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWCeLBysn21Dj19wV0eNZaYB0LmFEm7eEBmmRPCwxXcx6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rKwpPV|
-|Diapositivas TP1: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit |
-|Video Exposicion TB2: | (Enlace) |
-|Diapositivas TB2: | https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit  | 
-|Development Landing: | https://tfopensource.github.io/Landing_Page/ | 
-|Development Web Application: | https://thunderous-phoenix-31b1f9.netlify.app/ |
-|About The Product: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f |
-|About The Team: | (Enlace)  | 
-|Url del As-Is Scenario Mapping | https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1| |
-|Url Figma NutriMove| https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1| 
-|Url Trello #2| https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/sprint-backlog-2| 
+| Descripción                              | Enlace                                                                                                                                                                                                                                                                                                                    |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **URL del Repositorio**                  | [https://github.com/TFOpenSource](https://github.com/TFOpenSource)                                                                                                                                                                                                                                                        |
+| **Landing Page**                         | [https://tfopensource.github.io/Landing_Page/](https://tfopensource.github.io/Landing_Page/)                                                                                                                                                                                                                               |
+| **Web Application**                      | [https://github.com/TFOpenSource/NutriMoveTF](https://github.com/TFOpenSource/NutriMoveTF)                                                                                                                                                                                                                                |
+| **Video Exposición TB1**                 | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ES5UupezJyZHj-hO5xYHGgABJ-2emfkJ0m4Q1FrpTV6_bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vCzAZ5) |
+| **Video Exposición TP1**                 | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWCeLBysn21Dj19wV0eNZaYB0LmFEm7eEBmmRPCwxXcx6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rKwpPV) |
+| **Diapositivas TP1**                     | [https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit](https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit)                                                                                                                                                                               |
+| **Video Exposición TB2**                 | *(Enlace pendiente)*                                                                                                                                                                                                                                                                                                       |
+| **Diapositivas TB2**                     | [https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit](https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit)                                                                                                                                                                               |
+| **Development Landing**                  | [https://tfopensource.github.io/Landing_Page/](https://tfopensource.github.io/Landing_Page/)                                                                                                                                                                                                                               |
+| **Development Web Application**          | [https://thunderous-phoenix-31b1f9.netlify.app/](https://thunderous-phoenix-31b1f9.netlify.app/)                                                                                                                                                                                                                           |
+| **About The Product**                    | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f) |
+| **About The Team**                       | *(Enlace pendiente)*                                                                                                                                                                                                                                                                                                       |
+| **As-Is Scenario Mapping**               | [https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1](https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1)                                    |
+| **Figma NutriMove**                      | [https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1](https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1)                                                                       |
+| **Trello #2**                            | [https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/sprint-backlog-2](https://trello.com/invite/b/66f42aaa2bee91bcb6821439/ATTI8306555e78cf5184b76e6f86e43628a5EF6834CA/sprint-backlog-2)                                           |
