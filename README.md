@@ -2754,14 +2754,7 @@ Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20222
 En el sprint 3, se planificó enfocarse exclusivamente en el back end y por parte en mejorar el Web App. Haciendo la conexión de la base de datos con el back end y front end. . Al principio, se trabajó de manera local, y posteriormente se implementó en un host, que ahora está integrado en la aplicación web de Front-End desplegada. 
 A continuación, se proporciona el enlace para acceder a [Enlace].
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-0pky" colspan="2">Endpoint </th>
