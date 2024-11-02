@@ -3039,7 +3039,7 @@ Heurística violada: Visibilidad del estado del sistema
 - Problema:
 Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
 
-
+<img src="./Img/NoConfirmacion.png">
 - Recomendación:
 Incorporar una animación o mensaje de carga mientras se accede a las rutinas. En caso de error, mostrar un mensaje claro que indique el problema y sugiera acciones, como volver a intentar o contactar soporte.
 
@@ -3052,7 +3052,7 @@ Heurística violada: Consistencia y estándares
 - Problema:
 El cambio de idioma en la aplicación no se aplica inmediatamente a todas las secciones, o algunas secciones quedan parcialmente traducidas. Esto genera una experiencia inconsistente para usuarios que dependen del cambio de idioma para comprender el contenido.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="./Img/idiomaParcial.png">
 
 - Recomendación:
 Garantizar que al cambiar el idioma, todas las secciones se actualicen inmediatamente y de manera coherente. Implementar pruebas para verificar que todos los textos se carguen en el idioma correcto al realizar el cambio.
@@ -3065,7 +3065,7 @@ Heurística violada: Flexibilidad y eficiencia de uso
 - Problema:
 La API no ofrece suficiente personalización para los usuarios avanzados que desean rutinas específicas según criterios como nivel de dificultad, duración, o tipo de entrenamiento. Esto limita la experiencia de usuarios que buscan adaptar las rutinas a sus necesidades individuales.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="./Img/rutinaBasica.png">
 
 - Recomendación:
 Agregar opciones de filtrado avanzadas en la API para que los usuarios puedan solicitar rutinas personalizadas según criterios específicos. Esto permitiría a los usuarios encontrar rutinas más adecuadas y aumentaría la relevancia de las recomendaciones.
@@ -3078,7 +3078,7 @@ Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de
 - Problema:
 La funcionalidad de visualización y análisis de progreso no permite a los usuarios comprender fácilmente sus avances, ya que carece de indicadores visuales claros (gráficos, comparativas de semanas previas, etc.) y opciones de interpretación de datos. Esto puede frustrar al usuario y hacer que abandone el seguimiento de su progreso.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="./Img/progresoNoClaro.png">
 
 - Recomendación:
 Incorporar gráficos claros y fáciles de interpretar, junto con indicadores y comparativas que resuman el progreso de manera visual. Incluir recomendaciones o análisis automáticos que sugieran próximas metas o evaluaciones basadas en los datos obtenidos.
