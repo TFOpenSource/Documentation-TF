@@ -3180,10 +3180,10 @@ El tercer entregable del proyecto NutriMove marca un hito importante en la evolu
     </td>
     <td>
       Screenshot: <br>
-      <img src="Img/ATT.png" alt="ATT" style="width: 200px;"><br>
-      Link: <a href="">
+      <img src="./Img/ATT.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/personal/u202221876_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202221876%5Fupc%5Fedu%5Fpe%2FDocuments%2FABOUT%20THE%20TEAM%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E69955698%2Daafc%2D4745%2Da1c2%2D6bb0b8868a0c">Video Nube
       </a>
-      Link (YouTube): <a href=""></a>
+      Link (YouTube): <a href="https://youtu.be/9YHGh0dZDtk">Video Youtube</a>
     </td>
   </tr>
   </table>
