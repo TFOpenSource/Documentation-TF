@@ -2831,7 +2831,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="https://www.tablesgenerator.com/Img/imagen_2024-09-05_144516929.png"><br></td>
+    <td> <img src="./Img/ValidaInterview-AlejandraNeyra.png"><br></td>
     <td>Entrevistado N°1: Alejandra Neyra <br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco </td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/Ecwsjeqs2axPqb3CJgeX-s0BOKeLcBFKNEIUgALwBUOBMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1WhkSH">Entrevista #1</a></td>
   </tr>
@@ -2897,7 +2897,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="https://www.tablesgenerator.com/Img/imagen_2024-09-05_144505757.png"><br></td>
+    <td> <img src="./Img/ValidaInterview-ErnieCossio.png"><br></td>
     <td>Entrevistado N°1: Ernie Cossio<br>Sexo: Masculino<br>Edad: 19<br>Domicilio: Ate </td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EUCv8g1gq1dDn2zGQBHdiG8BMiMjIa6GSl3EiEKwE8kUMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3Pf4rr">Entrevista #1</a></td>
   </tr>
@@ -3011,12 +3011,13 @@ Heurística violada: Visibilidad del estado del sistema
 - Problema:
 Al momento de completar el registro de un nuevo usuario, no se muestra un mensaje o indicación visual de éxito o error. Esto puede generar confusión en el usuario al no saber si el registro se ha realizado correctamente o si necesita hacer alguna corrección en los datos ingresados.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="./Img/NoFecha.img">
 
 - Recomendación:
 Incorporar un mensaje de confirmación visual claramente visible, indicando si el registro fue exitoso o si hubo algún error. Esto puede incluir una alerta emergente, un cambio de pantalla o un mensaje en el mismo formulario.
 
 ---
+
 
 * PROBLEMA #2:  No hay opción de búsqueda avanzada para las rutinas
 - Severidad: 3
@@ -3024,7 +3025,7 @@ Heurística violada: Flexibilidad y eficiencia de uso
 - Problema:
 Actualmente, la parte de rutinas en la aplicación no ofrece opciones avanzadas de filtro. Los usuarios no pueden personalizar su búsqueda para especificar criterios como el nivel de dificultad o el tipo de rutina, lo cual limita la capacidad de encontrar rutinas específicas según sus necesidades.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="./Img/NoFecha.png">
 
 - Recomendación:
 Añadir una opción de búsqueda avanzada que permita filtrar las rutinas por criterios relevantes, como nivel de dificultad, duración o tipo de entrenamiento (cardio, fuerza, etc.). Esto mejorará la experiencia de usuario al permitir búsquedas más precisas y personalizadas.
@@ -3038,7 +3039,6 @@ Heurística violada: Visibilidad del estado del sistema
 - Problema:
 Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
 
-(Incluir además una captura de pantalla ilustrando el problema).
 
 - Recomendación:
 Incorporar una animación o mensaje de carga mientras se accede a las rutinas. En caso de error, mostrar un mensaje claro que indique el problema y sugiera acciones, como volver a intentar o contactar soporte.
