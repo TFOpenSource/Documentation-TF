@@ -2122,9 +2122,9 @@ Landing Page:
   <img src="Img/PulseInsights.png">
 </div>
 
-<div id='5.2.2.'><h4> 5.2.2.  #2.</h4></div>
+<div id='5.2.2.'><h4> 5.2.2. Sprint #2.</h4></div>
 
-<div id='5.2.2.1.'><h5> 5.2.2.1. Planning 2.</h5></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 
 <table class="tg"><thead>
   <tr>
@@ -2696,7 +2696,7 @@ Durante el sprint 3, se logró completar el desarrollo de la implementación del
 
 <img src="Img/ATP.png">
 
-Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ee8-0hdstgdNoQdtL7dZpTcB12wvDd75_IcArEmatnA3PA?e=jlGRGQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/: v:/g/personal/u202221876_upc_edu_pe/Ee8-0hdstgdNoQdtL7dZpTcB12wvDd75_IcArEmatnA3PA?e=jlGRGQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ee8-0hdstgdNoQdtL7dZpTcB12wvDd75_IcArEmatnA3PA?e=jlGRGQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ee8-0hdstgdNoQdtL7dZpTcB12wvDd75_IcArEmatnA3PA?e=jlGRGQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 <h4>APLICACIÓN WEB:</h4>
 
