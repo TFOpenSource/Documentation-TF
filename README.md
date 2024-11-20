@@ -3145,8 +3145,14 @@ A continuación, se proporciona el enlace para acceder a [Enlace].
 
 En la entrega del cuarto sprint, se culminó con el back end completamente funcional y el deploy, cumpliendo con las user stories a esta entrega. 
 
-Back-end:
+Despliegue de Back-end en Railway:
+<img src="Img/railway1.jpeg" alt="Railway 1"><br>
 
+<img src="Img/railway2.jpeg" alt="Railway 2"><br>
+
+<img src="Img/railway3.jpeg" alt="Railway 3"><br>
+
+Link del back end: https://caring-ambition-production.up.railway.app/swagger-ui/index.html
 
 <div id='5.2.4.8.'><h5> 5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -3582,7 +3588,7 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 | **Repositorio Back-end**        | [https://github.com/TFOpenSource/BackEnd](https://github.com/TFOpenSource/BackEnd)                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Development Landing**         | [https://tfopensource.github.io/Landing_Page/](https://tfopensource.github.io/Landing_Page/)                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Development Web Application** | [https://thunderous-phoenix-31b1f9.netlify.app/](https://thunderous-phoenix-31b1f9.netlify.app/)                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Development Back-end**        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Development Back-end**        | [https://caring-ambition-production.up.railway.app/swagger-ui/index.html](https://caring-ambition-production.up.railway.app/swagger-ui/index.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **About The Product**           | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f)                                                                                                                                                                 |
 | **About The Team**              | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ETheOQE-AzVNm_5CgV80_mQB0I-JstOgwGfV9xndfHvdBQ?e=PVrvEH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | **Video Exposición TB1**        | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ES5UupezJyZHj-hO5xYHGgABJ-2emfkJ0m4Q1FrpTV6_bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vCzAZ5)                                                                                                                                                                 |
