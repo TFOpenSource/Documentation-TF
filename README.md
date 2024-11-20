@@ -2717,7 +2717,7 @@ Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20222
 
 Link de video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-_EditrYrF5_e42wA?e=GaMPO1">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebb3TGgroQ1Bgn21WYoMV8MBURrio-\_EditrYrF5_e42wA?e=GaMPO1</a>
 
-<h4>WEB SERVICES:</h4>
+<h4>Web Services:</h4>
 
 <h5>Activities:</h5>
 
@@ -2956,25 +2956,31 @@ Link del Trello: https://trello.com/invite/b/6739561e601b5da9203356c6/ATTIac5d38
 
 Durante el sprint 4, se logró completar el back end que incluye varios endpoints como el de usuario, historial medico, sueño, logros, entre otros. A continuación se presenta las evidencias.
 
-<h4>WEB SERVICES:</h4>
+<h4>Web Services:</h4>
 
-<h5>User:</h5><br>
-<img src="Img/User/user_general.jpeg" alt="User General"><br>
+<h5>User:</h5>
+<img src="Img/User/user_general.jpeg" alt="User General"><br><br>
+
 Metodo Post:<br>
 <img src="Img/User/user_post.jpeg" alt="User Post"><br>
+
 Metodo Get:<br>
 <img src="Img/User/user_get.jpeg" alt="User Get"><br>
+
 Metodo Get(id):<br>
 <img src="Img/User/user_getId.jpeg" alt="User Get Id"><br>
+
 Metodo Get(email):<br>
 <img src="Img/User/user_getEmail.jpeg" alt="User Get Email"><br>
+
 Metodo Put(id):<br>
 <img src="Img/User/user_put.jpeg" alt="User Put"><br>
+
 Metodo Delete(id):<br>
 <img src="Img/User/user_delete.jpeg" alt="User Delete"><br>
 
-<h5>Goals:</h5><br>
-<img src="Img/Goals/goal_general.png" alt="Goals General"><br>
+<h5>Goals:</h5>
+<img src="Img/Goals/goal_general.png" alt="Goals General"><br><br>
 
 Metodo Post:<br>
 <img src="Img/Goals/goal_post.jpeg" alt="Goals Post"><br>
@@ -2991,8 +2997,8 @@ Metodo Put(id):<br>
 Metodo Delete(id):<br>
 <img src="Img/Goals/goal_delete.jpeg" alt="Goals Delete"><br>
 
-<h5>Sleep:</h5><br>
-<img src="Img/Sleep/sleep_general.jpeg" alt="Sleep General"><br>
+<h5>Sleep:</h5>
+<img src="Img/Sleep/sleep_general.jpeg" alt="Sleep General"><br><br>
 Metodo Post:<br>
 <img src="Img/Sleep/sleep_post.jpeg" alt="Sleep Post"><br>
 
@@ -3008,8 +3014,8 @@ Metodo Put(id):<br>
 Metodo Delete(id):<br>
 <img src="Img/Sleep/sleep_delete.jpeg" alt="Sleep Delete"><br>
 
-<h5>Hydrations:</h5><br>
-<img src="Img/Hydrations/hydrations_general.jpeg" alt="Hydrations general"><br>
+<h5>Hydrations:</h5>
+<img src="Img/Hydrations/hydrations_general.jpeg" alt="Hydrations general"><br><br>
 
 Metodo Post:<br>
 <img src="Img/Hydrations/hydrations_post.jpeg" alt="Hydrations Post"><br>
@@ -3026,8 +3032,8 @@ Metodo Put(id):<br>
 Metodo Delete(id):<br>
 <img src="Img/Hydrations/hydrations_delete.jpeg" alt="Hydrations Delete"><br>
 
-<h5>Medical:</h5><br>
-<img src="Img/Medical/medical_general.jpeg" alt="Medical general"><br>
+<h5>Medical:</h5>
+<img src="Img/Medical/medical_general.jpeg" alt="Medical general"><br><br>
 
 Metodo Post:<br>
 <img src="Img/Medical/medical_post.jpeg" alt="Medical Post"><br>
@@ -3044,8 +3050,8 @@ Metodo Put(id):<br>
 Metodo Delete(id)/(userId):<br>
 <img src="Img/Medical/medical_delete.jpeg" alt="Medical Delete"><br>
 
-<h5>Achievements:</h5><br>
-<img src="Img/Achievements/achievement_general.jpeg" alt="Achievements general"><br>
+<h5>Achievements:</h5>
+<img src="Img/Achievements/achievement_general.jpeg" alt="Achievements general"><br><br>
 
 Metodo Post:<br>
 <img src="Img/Achievements/achievement_post.jpeg" alt="Achievements Post"><br>
@@ -3062,8 +3068,8 @@ Metodo Put(id):<br>
 Metodo Delete(id)/(userId):<br>
 <img src="Img/Achievements/achievement_delete.jpeg" alt="Achievements delete"><br>
 
-<h5>Food:</h5><br>
-<img src="Img/Food/food_general.jpeg" alt="Food general"><br>
+<h5>Food:</h5>
+<img src="Img/Food/food_general.jpeg" alt="Food general"><br><br>
 
 Metodo Post:<br>
 <img src="Img/Food/food_post.jpeg" alt="Food Post"><br>
@@ -3080,8 +3086,8 @@ Metodo Put(id):<br>
 Metodo Delete(id):<br>
 <img src="Img/Food/food_delete.jpeg" alt="Food Delete"><br>
 
-<h5>Activity:</h5><br>
-<img src="Img/Activity/activity_general.jpeg" alt="Activity general"><br>
+<h5>Activity:</h5>
+<img src="Img/Activity/activity_general.jpeg" alt="Activity general"><br><br>
 
 Metodo Post:<br>
 <img src="Img/Activity/activity_post.jpeg" alt="Activity Post"><br>
