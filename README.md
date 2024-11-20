@@ -2939,12 +2939,118 @@ Link del Trello: https://trello.com/invite/b/6739561e601b5da9203356c6/ATTIac5d38
 
 Durante el sprint 4, se logró completar el back end que incluye varios endpoints como el de usuario, historial medico, sueño, logros, entre otros. Además, se hizo la conexión con el front end. A continuación se presenta las evidencias.
 
-* Landing page:
-
 * Web Application:
 
 * Back-end:
 
+<h4>WEB SERVICES:</h4>
+
+<h5>User:</h5>
+<img src="Img/User/user_general.jpeg" alt="User General"><br>
+Metodo Post:
+<img src="Img/User/user_post.jpeg" alt="User Post"><br>
+Metodo Get:
+<img src="Img/User/user_get.jpeg" alt="User Get"><br>
+Metodo Get(id):
+<img src="Img/User/user_getId.jpeg" alt="User Get Id"><br>
+Metodo Get(email):
+<img src="Img/User/user_getEmail.jpeg" alt="User Get Email"><br>
+Metodo Put(id):
+<img src="Img/User/user_put.jpeg" alt="User Put"><br>
+Metodo Delete(id):
+<img src="Img/User/user_delete.jpeg" alt="User Delete"><br>
+
+<h5>Goals:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id):
+
+Metodo Put(id):
+
+Metodo Delete(id):
+
+<h5>Sleep:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id):
+
+Metodo Put(id):
+
+Metodo Delete(id):
+
+<h5>Hydrations:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id):
+
+Metodo Put(id):
+
+Metodo Delete(id):
+
+<h5>Medical:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id)/(userId):
+
+Metodo Put(id):
+
+Metodo Delete(id)/(userId):
+
+<h5>Achievements:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id)/(userId):
+
+Metodo Put(id):
+
+Metodo Delete(id)/(userId):
+
+<h5>Food:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id):
+
+Metodo Put(id):
+
+Metodo Delete(id):
+
+<h5>Activity:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get Search:
+
+Metodo Get(id):
+
+Metodo Delete(id):
+
+<h5>Suscriptions:</h5>
+
+Metodo Post:
+
+Metodo Get:
+
+Metodo Get(id):
 
 <div id='5.2.4.6.'><h5> 5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
