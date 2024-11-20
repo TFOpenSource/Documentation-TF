@@ -2945,112 +2945,145 @@ Durante el sprint 4, se logró completar el back end que incluye varios endpoint
 
 <h4>WEB SERVICES:</h4>
 
-<h5>User:</h5>
+<h5>User:</h5><br>
 <img src="Img/User/user_general.jpeg" alt="User General"><br>
-Metodo Post:
+Metodo Post:<br>
 <img src="Img/User/user_post.jpeg" alt="User Post"><br>
-Metodo Get:
+Metodo Get:<br>
 <img src="Img/User/user_get.jpeg" alt="User Get"><br>
-Metodo Get(id):
+Metodo Get(id):<br>
 <img src="Img/User/user_getId.jpeg" alt="User Get Id"><br>
-Metodo Get(email):
+Metodo Get(email):<br>
 <img src="Img/User/user_getEmail.jpeg" alt="User Get Email"><br>
-Metodo Put(id):
+Metodo Put(id):<br>
 <img src="Img/User/user_put.jpeg" alt="User Put"><br>
-Metodo Delete(id):
+Metodo Delete(id):<br>
 <img src="Img/User/user_delete.jpeg" alt="User Delete"><br>
 
-<h5>Goals:</h5>
+<h5>Goals:</h5><br>
+<img src="Img/Goals/goal_general.png" alt="Goals General"><br>
 
-Metodo Post:
+Metodo Post:<br>
+<img src="Img/Goals/goal_post.jpeg" alt="Goals Post"><br>
 
-Metodo Get:
+Metodo Get:<br>
+<img src="Img/Goals/goal_get.jpeg" alt="Goals Get"><br>
 
-Metodo Get(id):
+Metodo Get(id):<br>
+<img src="Img/Goals/goal_getId.jpeg" alt="Goals Get Id"><br>
 
-Metodo Put(id):
+Metodo Put(id):<br>
+<img src="Img/Goals/goal_put.jpeg" alt="Goals Put"><br>
 
-Metodo Delete(id):
+Metodo Delete(id):<br>
+<img src="Img/Goals/goal_delete.jpeg" alt="Goals Delete"><br>
 
-<h5>Sleep:</h5>
+<h5>Sleep:</h5><br>
+<img src="Img/Sleep/sleep_general.jpeg" alt="Sleep General"><br>
+Metodo Post:<br>
+<img src="Img/Sleep/sleep_post.jpeg" alt="Sleep Post"><br>
 
-Metodo Post:
+Metodo Get:<br>
+<img src="Img/Sleep/sleep_get.jpeg" alt="Sleep Get"><br>
 
-Metodo Get:
+Metodo Get(id):<br>
+<img src="Img/Sleep/sleep_getId.jpeg" alt="Sleep Get Id"><br>
 
-Metodo Get(id):
+Metodo Put(id):<br>
+<img src="Img/Sleep/sleep_put.jpeg" alt="Sleep Put"><br>
 
-Metodo Put(id):
+Metodo Delete(id):<br>
+<img src="Img/Sleep/sleep_delete.jpeg" alt="Sleep Delete"><br>
 
-Metodo Delete(id):
+<h5>Hydrations:</h5><br>
+<img src="Img/Hydrations/hydrations_general.jpeg" alt="Hydrations general"><br>
 
-<h5>Hydrations:</h5>
+Metodo Post:<br>
+<img src="Img/Hydrations/hydrations_post.jpeg" alt="Hydrations Post"><br>
 
-Metodo Post:
+Metodo Get:<br>
+<img src="Img/Hydrations/hydrations_get.jpeg" alt="Hydrations Get"><br>
 
-Metodo Get:
+Metodo Get(id):<br>
+<img src="Img/Hydrations/hydrations_getId.jpeg" alt="Hydrations Get Id"><br>
 
-Metodo Get(id):
+Metodo Put(id):<br>
+<img src="Img/Hydrations/hydrations_put.jpeg" alt="Hydrations Put"><br>
 
-Metodo Put(id):
+Metodo Delete(id):<br>
+<img src="Img/Hydrations/hydrations_delete.jpeg" alt="Hydrations Delete"><br>
 
-Metodo Delete(id):
+<h5>Medical:</h5><br>
+<img src="Img/Medical/medical_general.jpeg" alt="Medical general"><br>
 
-<h5>Medical:</h5>
+Metodo Post:<br>
+<img src="Img/Medical/medical_post.jpeg" alt="Medical Post"><br>
 
-Metodo Post:
+Metodo Get:<br>
+<img src="Img/Medical/medical_get.jpeg" alt="Medical Get"><br>
 
-Metodo Get:
+Metodo Get(id)/(userId):<br>
+<img src="Img/Medical/medical_getId.jpeg" alt="Medical Get Id"><br>
 
-Metodo Get(id)/(userId):
+Metodo Put(id):<br>
+<img src="Img/Medical/medical_put.jpeg" alt="Medical Put"><br>
 
-Metodo Put(id):
+Metodo Delete(id)/(userId):<br>
+<img src="Img/Medical/medical_delete.jpeg" alt="Medical Delete"><br>
 
-Metodo Delete(id)/(userId):
+<h5>Achievements:</h5><br>
+<img src="Img/Achievements/achievement_general.jpeg" alt="Achievements general"><br>
 
-<h5>Achievements:</h5>
+Metodo Post:<br>
+<img src="Img/Achievements/achievement_post.jpeg" alt="Achievements Post"><br>
 
-Metodo Post:
+Metodo Get:<br>
+<img src="Img/Achievements/achievement_get.jpeg" alt="Achievements Get"><br>
 
-Metodo Get:
+Metodo Get(id)/(userId):<br>
+<img src="Img/Achievements/achievement_getId.jpeg" alt="Achievements Get Id"><br>
 
-Metodo Get(id)/(userId):
+Metodo Put(id):<br>
+<img src="Img/Achievements/achievement_put.jpeg" alt="Achievements Put"><br>
 
-Metodo Put(id):
+Metodo Delete(id)/(userId):<br>
+<img src="Img/Achievements/achievement_delete.jpeg" alt="Achievements delete"><br>
 
-Metodo Delete(id)/(userId):
+<h5>Food:</h5><br>
+<img src="Img/Food/food_general.jpeg" alt="Food general"><br>
 
-<h5>Food:</h5>
+Metodo Post:<br>
+<img src="Img/Food/food_post.jpeg" alt="Food Post"><br>
 
-Metodo Post:
+Metodo Get:<br>
+<img src="Img/Food/food_get.jpeg" alt="Food Get"><br>
 
-Metodo Get:
+Metodo Get(id):<br>
+<img src="Img/Food/food_getId.jpeg" alt="Food Get Id"><br>
 
-Metodo Get(id):
+Metodo Put(id):<br>
+<img src="Img/Food/food_put.jpeg" alt="Food Put"><br>
 
-Metodo Put(id):
+Metodo Delete(id):<br>
+<img src="Img/Food/food_delete.jpeg" alt="Food Delete"><br>
 
-Metodo Delete(id):
+<h5>Activity:</h5><br>
+<img src="Img/Activity/activity_general.jpeg" alt="Activity general"><br>
 
-<h5>Activity:</h5>
+Metodo Post:<br>
+<img src="Img/Activity/activity_post.jpeg" alt="Activity Post"><br>
 
-Metodo Post:
+Metodo Get:<br>
+<img src="Img/Activity/activity_get.jpeg" alt="Activity Get"><br>
 
-Metodo Get:
+Metodo Get Search:<br>
+<img src="Img/Activity/activity_getSearch.jpeg" alt="Activity Get Search"><br>
 
-Metodo Get Search:
+Metodo Get(id):<br>
+<img src="Img/Activity/activity_getId.jpeg" alt="Activity Get Id"><br>
 
-Metodo Get(id):
-
-Metodo Delete(id):
-
-<h5>Suscriptions:</h5>
-
-Metodo Post:
-
-Metodo Get:
-
-Metodo Get(id):
+Metodo Delete(id):<br>
+<img src="Img/Activity/activity_delete.jpeg" alt="Activity Delete"><br>
 
 <div id='5.2.4.6.'><h5> 5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -3097,7 +3130,6 @@ Back-end:
 | Luza Carhuamaca, Jose Adrian          | Development Evidence for Sprint Review, Team Collaboration Insights during Sprint   |
 | Silva Tirado, Sebastian Valentino     | Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint   |
 | Uribe Quispe, Jesús Guillermo         | Sprint Backlog 4, Software Deployment Evidence for Sprint Review.   |
-| Integrante                            | Tareas Asignadas                                                                    |
 
 <h3>Insights: </h3>
 
