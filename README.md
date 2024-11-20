@@ -2449,7 +2449,7 @@ A continuación, se proporciona el enlace para acceder a <a href="https://my-jso
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial de la aplicación web. <br>
-Link del Web Aplication: https://thunderous-phoenix-31b1f9.netlify.app/
+Link del Web Aplication: http://673e677494f3a8000828c568--nutrimove.netlify.app/
 
 Capturas de pantalla landing page:
 
@@ -2814,7 +2814,7 @@ Despliegue de Web Application en Netlify:
 <img src="Img/deploy1.png">
 <img src="Img/deploy1.png">
 
-Link de Web Application: <a href="https://thunderous-phoenix-31b1f9.netlify.app/">https://thunderous-phoenix-31b1f9.netlify.app/</a>
+Link de Web Application: <a href="http://673e677494f3a8000828c568--nutrimove.netlify.app/">http://673e677494f3a8000828c568--nutrimove.netlify.app//</a>
 
 <div id='5.2.3.8.'><h5> 5.2.3.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -3104,6 +3104,8 @@ Metodo Get(id):<br>
 Metodo Delete(id):<br>
 <img src="Img/Activity/activity_delete.jpeg" alt="Activity Delete"><br>
 
+Link video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EV3EuxhPtdlNo5-TbkKeLMsBMIo0i7wCEW51OA6JEWocgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PcAWHX
+
 <div id='5.2.4.6.'><h5> 5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
 En el sprint 4, se planificó enfocarse totalmente en el back end. Haciendo la conexión con el front end. Actualmente se conectan ambos estando desplegados.
@@ -3153,6 +3155,7 @@ Despliegue de Back-end en Railway:
 <img src="Img/railway3.jpeg" alt="Railway 3"><br>
 
 Link del back end: https://nutrimove.up.railway.app/swagger-ui/index.html
+Link video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWlWMKPhvTtCp7n5V10IinQBpuO_f53uVDLoT9fbXRsmgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djwfWuq
 
 <div id='5.2.4.8.'><h5> 5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -3587,7 +3590,7 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 | **Repositorio Web Application** | [https://github.com/TFOpenSource/NutriMoveTF](https://github.com/TFOpenSource/NutriMoveTF)                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Repositorio Back-end**        | [https://github.com/TFOpenSource/BackEnd](https://github.com/TFOpenSource/BackEnd)                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Deployment Landing**         | [https://tfopensource.github.io/Landing_Page/](https://tfopensource.github.io/Landing_Page/)                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Deployment Web Application** | [https://thunderous-phoenix-31b1f9.netlify.app/](https://thunderous-phoenix-31b1f9.netlify.app/)                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Deployment Web Application** | [http://673e677494f3a8000828c568--nutrimove.netlify.app/](http://673e677494f3a8000828c568--nutrimove.netlify.app/)                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Deployment Back-end**        | [https://nutrimove.up.railway.app/swagger-ui/index.html](https://nutrimove.up.railway.app/swagger-ui/index.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **About The Product**           | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ebu5LeRO781EqJRn4B3ju0kBJoBVrnTz_UFKHSUmok-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsoP5f)                                                                                                                                                                 |
 | **About The Team**              | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ETheOQE-AzVNm_5CgV80_mQB0I-JstOgwGfV9xndfHvdBQ?e=PVrvEH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
