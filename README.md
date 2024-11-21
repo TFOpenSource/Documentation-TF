@@ -3153,7 +3153,7 @@ Despliegue de Back-end en Railway:
 <img src="Img/railway2.jpeg" alt="Railway 2"><br>
 
 <img src="Img/railway3.jpeg" alt="Railway 3"><br>
-
+Link del Front end: http://673e677494f3a8000828c568--nutrimove.netlify.app/
 Link del back end: https://nutrimove.up.railway.app/swagger-ui/index.html
 Link video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWlWMKPhvTtCp7n5V10IinQBpuO_f53uVDLoT9fbXRsmgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djwfWuq
 
@@ -3167,8 +3167,15 @@ Link video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu
 | Uribe Quispe, Jesús Guillermo         | Sprint Backlog 4, Software Deployment Evidence for Sprint Review.   |
 
 <h3>Insights: </h3>
-
+<br>
+<h4>Repositorio Front Endd</h4>
+<br>
+<img src="Img/insights_fronted_s4.png" alt="Frontend Insights"><br>
+<br>
 <h4>Repositorio Back End</h4>
+<br>
+
+<img src="Img/insights_backend_s4.png" alt="Backend Insights"><br>
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
@@ -3597,7 +3604,7 @@ Durán, E. D. (2022, August 27). Nutrición Antiinflamatoria. Vivo Sano. https:/
 | **Video Exposición TB1**        | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ES5UupezJyZHj-hO5xYHGgABJ-2emfkJ0m4Q1FrpTV6_bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vCzAZ5)                                                                                                                                                                 |
 | **Video Exposición TP1**        | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWCeLBysn21Dj19wV0eNZaYB0LmFEm7eEBmmRPCwxXcx6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rKwpPV)                                                                                                                                                                 |
 | **Video Exposición TB2**        | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EWNhPes3PXFJn38AswC-1NwBBpi20WsR0gj-5-qZzyOZHQ?e=98Lt3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                      |
-| **Video Exposición TF1**        | [Ver video]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Video Exposición TF1**        | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EQReHbIYflxDlbRkLnLaDAoBAhoL_MVRetbpIh1svD_YXQ?e=N0oQsu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Diapositivas TF1**            | [https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit](https://www.canva.com/design/DAGP5St_4a4/s05jE28ymOdB1giTGQYRQA/edit)                                                                                                                                                                                                                                                                                                                                                             |
 | **As-Is Scenario Mapping**      | [https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1](https://www.figma.com/design/urPCgABvckNHizpcQwv44Q/%5BAs-is-Scenario-Map%5D-template-(Community)?t=N8I9BTsdEllEMynj-1)                                                                                                                                                                                                                                                         |
 | **Figma NutriMove**             | [https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1](https://www.figma.com/design/FOgDiEmlM9rOJs52AY86d9/Figma-Nutrimove?node-id=0-1&t=B8x2siu0y942tqO1-1)                                                                                                                                                                                                                                                                                             |
