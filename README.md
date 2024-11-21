@@ -59,7 +59,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSource
 
 <div align="center">
-  <img src="Img/Commits_Informe.png">
+  <img src="Img/insights_documentations_s4.png">
 </div>
 
 **TB1**
