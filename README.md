@@ -3104,7 +3104,7 @@ Metodo Get(id):<br>
 Metodo Delete(id):<br>
 <img src="Img/Activity/activity_delete.jpeg" alt="Activity Delete"><br>
 
-Link video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EV3EuxhPtdlNo5-TbkKeLMsBMIo0i7wCEW51OA6JEWocgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PcAWHX
+Link video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EV3EuxhPtdlNo5-TbkKeLMsBMIo0i7wCEW51OA6JEWocgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PcAWHX)
 
 <div id='5.2.4.6.'><h5> 5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -3153,9 +3153,12 @@ Despliegue de Back-end en Railway:
 <img src="Img/railway2.jpeg" alt="Railway 2"><br>
 
 <img src="Img/railway3.jpeg" alt="Railway 3"><br>
-Link del Front end: http://673e677494f3a8000828c568--nutrimove.netlify.app/
-Link del back end: https://nutrimove.up.railway.app/swagger-ui/index.html
-Link video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWlWMKPhvTtCp7n5V10IinQBpuO_f53uVDLoT9fbXRsmgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djwfWuq
+
+Link del Front end: http://673e677494f3a8000828c568--nutrimove.netlify.app/ <br>
+
+Link del back end: https://nutrimove.up.railway.app/swagger-ui/index.html <br>
+
+Link video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWlWMKPhvTtCp7n5V10IinQBpuO_f53uVDLoT9fbXRsmgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djwfWuq)
 
 <div id='5.2.4.8.'><h5> 5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
 
