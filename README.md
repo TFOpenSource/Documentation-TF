@@ -3568,7 +3568,7 @@ Con la culminación del Sprint #4 y del proyecto Nutrimove, no solo hemos entreg
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>: upc-pre-202402-sI729-SW51-NutriMove-about-the-team-sprint-1<br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>: min
+      <strong>Duración</strong>: 08:20 min
     </td>
     <td>
       Video relacionado acerca de los integrantes, sus funciones en el proyecto y conclusiones.
